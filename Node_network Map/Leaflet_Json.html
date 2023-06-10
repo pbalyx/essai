@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"> 
+    <title>Leaflet_Json</title>
+	
+<!--	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+		 integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+		 crossorigin=""/>    -->
+	<!-- Make sure you put this AFTER Leaflet's CSS 
+	<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+		 integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+		 crossorigin=""></script>    -->
+		 
+	<link rel="stylesheet" type="text/css" href="leaflet_src/leaflet.css">
+	 
+	<script src="leaflet_src/leaflet-src.js" ></script>   <!-- version 1.6.0 -->
+
+	<style>
+		#map {height: calc(100vh - 20px); }
+	.map {
+		height: 95%;
+        width: 95%;
+		position: absolute; 
+		border: 1px solid blue;
+        z-index: 3;
+	}
+	.leaflet-tooltip {
+		padding: 0px 4px 0px 4px ;
+		background-color: aquamarine;
+		font-size: 12px;
+		font-weight: bold;
+		line-height: 12px;
+  border: 1px solid blue;
+
+	}
+	</style>
+
+</head>
+<body>
+    <div id="map" class="map"></div>
+	
+	<script src="guideposts.txt"> </script>
+	<script src="routes.txt"> </script>
+	
+<script> 
+
+	var OTMLayer = L.tileLayer('https://a.tile.opentopomap.org/{z}/{x}/{y}.png', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>;<a href="https://www.opentopomap.org/">OpenTopoMap</a>'
+	});
+	
+	var IGNPhoto = L.tileLayer('https://wxs.ign.fr/pratique/wmts/?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image%2Fjpeg', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="[[https://www.geoportail.gouv.fr/depot/api/cgu/CGU_API_libre.pdf|{{https://wxs.ign.fr/static/logos/IGN/IGN.gif|32}}]]">IGN Image aérienne</a>'
+	});
+
+		
+	var routesStyle = {
+		"color": "darkRed",
+		"weight": 3,
+		"opacity": 1
+	};
+	function onEachFeatureDo(feature, layer) {
+		var popupStr = '';
+		if (feature.properties) { 
+			if (feature.properties.name) {
+				popupStr += feature.properties.name;
+			}
+			if (feature.properties.distance) {
+				popupStr += '<br /> Longueur: '+ feature.properties.distance +' km';
+			}
+			if (feature.properties.ascent) {
+				popupStr += '<br /> Denivelé:  +'+ feature.properties.ascent +' m  -'+ feature.properties.descent+ ' m';
+			}
+		}
+		layer.bindPopup(popupStr);
+	}
+
+	var routesLayer = L.geoJSON(routes, {style: routesStyle, onEachFeature: onEachFeatureDo });
+	
+var panneauIcon = L.icon({
+    iconUrl: 'panneau_icon.png',
+    iconSize: [14, 30],
+    iconAnchor: [7, 30],
+    tooltipAnchor: [0, -20]
+/*    shadowUrl: 'my-icon-shadow.png',
+    shadowSize: [68, 95],
+    shadowAnchor: [22, 94]*/
+});
+		
+	var guidepostsLayer = L.geoJSON(guideposts, {   //this layer disappear when moving the map
+		pointToLayer: function(feature, latlng) {
+			label = String(feature.properties.name) 
+				// .bindTooltip can't use straight 'feature.properties.attribute'
+			return L.marker(latlng, {
+				icon: panneauIcon
+			}).bindTooltip(label, {
+				permanent: true,
+				opacity: 0.8
+			}).openTooltip();
+		}
+
+	});
+
+	var junctionLayer = L.geoJSON(guideposts, {   //this layer remanent when moving the map
+		pointToLayer: function(feature, latlng) {
+			return new L.CircleMarker(latlng, {
+				radius: 5,
+				fillColor: "lightblue",
+				fillOpacity: 1,
+				color: "darkblue",
+				weight: 2
+			});
+		}
+	});
+
+	var map = L.map('map', {
+		center: [44.622, 4.40],
+		zoom: 10,
+		layers: [OTMLayer, guidepostsLayer,routesLayer, junctionLayer]
+	}).setView([44.622, 4.40], 14); //setView to overwrite setBounds after loading
+	
+//	junctionLayer.addTo(map);
+			
+	L.control.scale({maxWidth: 200, imperial: false}).addTo(map);
+	
+	map.on("movestart", function () {
+		 map.removeLayer(guidepostsLayer); //ne marche pas
+		 map.removeLayer(routesLayer);
+	}); 
+
+	map.on("moveend", function () {
+		 map.addLayer(guidepostsLayer);	 
+		 map.addLayer(routesLayer);
+	});
+	
+var baseMaps = {
+    "OpenTopoMap": OTMLayer,
+//    "OpenStreetMap": OSMLayer,
+	"IGN Image aérienne": IGNPhoto
+};
+
+var overlayMaps = {
+    "Panneaux": guidepostsLayer,
+	"Trajets": routesLayer
+};
+
+var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
+
+// map.fitBounds(routesLayer.getBounds());	//pas très cool ici (trop dense) mais ok
+	
+	</script>
+	
+
+</body>
+</html>
