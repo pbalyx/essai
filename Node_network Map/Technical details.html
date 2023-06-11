@@ -14,13 +14,14 @@
 	}
 	.codeDiv {
 		border: 2px solid red;
+		width: 60%;
 	}
 	</style>
 </head>
 <body>
 	<div id= "main">
     <h1>Affichage d'un réseau avec Node_network_map</h1>
-	<p>Une combinaison de requêtes Overpass, de fichier GeoJson intermédiaires et de quelques astuces permet de réutiliser la même page principale (Node_network_map.html) pour l'affichage de n'importe quel réseau connaissant simplement son identification (id) dans OSM.</p>
+	<p>Une combinaison de requêtes Overpass, de fichier GeoJson intermédiaires et de quelques astuces permet de réutiliser la même page principale (Node_network_map.html) pour l'affichage de n'importe quel réseau connaissant simplement son identification (id) dans OSM. Dans l'exemple ici, le réseau pédestre du Bassin d'Aubenas (id:14209970)</p>
 	<p>La carte est construite avec trois jeux de données : les panneaux de carrefour (<i>guideposts</i>), les trajets entre carrefours (<i>routes</i>) et les trajets reliant des réseaux différents (<i>connections</i>). Les deux premiers jeux peuvent être mis à jour rapidement avec une requête Overpass. Pour les trajets entre réseaux, certains gestionnaires préfèrent ne les tracer que dans la partie qui les concerne, le découpage "à la main" demande un peu de travail supplémentaire (<a href="https://pbalyx.github.io/gpx_tools/" >GpxView</a> peut aider) mais les mises à jour sont moins fréquentes.</p>
 	
     <h2>Requêtes Overpass</h2>
@@ -29,25 +30,20 @@
 		<pre>
 	[out:json][timeout:25];
 	(
-	// Bassin d'Aubenas
-		 relation(id:14209970)  ;  
+	   relation(id:14209970);  
 	);
 	rel(r:"");
-	out geom;
-		</pre>
+	out geom;		</pre>
 	</div>
 
 	<h3><i>Connections</i></h3>
-	<div id ="connectionsDiv" class= "codeDiv">
-		<pre>
+	<div id ="connectionsDiv" class= "codeDiv">		<pre>
 	[out:json][timeout:25];
 	(
-	// Bassin d'Aubenas
-		 relation(id:14209970)  ;  
+	   relation(id:14209970);  
 	);
 	rel(r:"connection");
-	out geom;
-		</pre>
+	out geom;		</pre>
 	</div>
 
 	<h3><i>Guideposts</i></h3>
@@ -55,17 +51,13 @@
 		<pre>
 	[out:json][timeout:25];
 	(
-	// Bassin d'Aubenas
-		 relation(id:14209970)  ;  
-	);
-	rel(r:"") -> .b;  	// reject connection routes (one route end is out of the network)
-	(.b > -> .c;);    	// extract route nodes
-	(node.c  ["network:type"=node_network] -> .d;);		//extract junction nodes
-	(node(around:100)["information"="guidepost"] ->.e;); 	//search guidepost around junction
-	.e out;
-		</pre>
+	   relation(id:14209970);  
+	); > ->.a;
+	(node.a  ["network:type"=node_network] -> .b;);
+	(node(around.b:100)["information"="guidepost"]->.c;);
+	.c out ;		</pre>
 	</div>
-	<p>Pour chaque requête, exporter le résultat en geojson, compléter le fichier et le renommer comme indiqué ci-dessous</p>
+	<p>Pour chaque requête, exporter le résultat en geojson (Exporter/Données/GeoJSON/télécharger), renommer le fichier et le compléter comme indiqué ci-dessous</p>
 	
 	<h2>Traitement des fichiers</h2>
 	<p>Il est souvent difficile de lire des fichiers locaux directement depuis une page html  (rejet requête CORS...)
