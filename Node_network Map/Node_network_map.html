@@ -42,6 +42,7 @@
 	
 	<script src="guideposts.txt"> </script>
 	<script src="routes.txt"> </script>
+	<script src="connections.txt"> </script>
 	
 <script> 
 
@@ -61,6 +62,13 @@
 		"weight": 3,
 		"opacity": 1
 	};
+	
+	var connectionsStyle = {
+		"color": "lightblue",
+		"weight": 3,
+		"opacity": 1
+	};
+	
 	function onEachFeatureDo(feature, layer) {
 		var popupStr = '';
 		if (feature.properties) { 
@@ -78,6 +86,7 @@
 	}
 
 	var routesLayer = L.geoJSON(routes, {style: routesStyle, onEachFeature: onEachFeatureDo });
+	var connectionsLayer = L.geoJSON(connections, {style: connectionsStyle, onEachFeature: onEachFeatureDo });
 	
 var panneauIcon = L.icon({
     iconUrl: 'panneau_icon.png',
@@ -118,7 +127,7 @@ var panneauIcon = L.icon({
 	var map = L.map('map', {
 //		center: [44.622, 4.40],
 //		zoom: 10,
-		layers: [OTMLayer, guidepostsLayer,routesLayer, junctionLayer]
+		layers: [OTMLayer, guidepostsLayer,routesLayer, connectionsLayer, junctionLayer]
 	}).setView([44.622, 4.40], 14); //setView to overwrite setBounds after loading
 	
 //	junctionLayer.addTo(map);
@@ -126,13 +135,15 @@ var panneauIcon = L.icon({
 	L.control.scale({maxWidth: 200, imperial: false}).addTo(map);
 	
 	map.on("movestart", function () {
-		 map.removeLayer(guidepostsLayer); //ne marche pas
+		 map.removeLayer(guidepostsLayer);
 		 map.removeLayer(routesLayer);
+		 map.removeLayer(connectionsLayer);
 	}); 
 
 	map.on("moveend", function () {
 		 map.addLayer(guidepostsLayer);	 
 		 map.addLayer(routesLayer);
+		 map.addLayer(connectionsLayer);
 	});
 	
 var baseMaps = {
