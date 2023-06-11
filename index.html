@@ -3,14 +3,24 @@
 <head>
     <meta charset="utf-8">
     <title>Réseaux sentiers</title>
+	<style>
+	#main {
+		position: absolute;
+		width: 80%;
+		left: 10%;
+		border: 1px solid blue;
+		padding:  10px 20px 20px 50px;
+//		font-family: Georgia, serif;	
+		font-size: 1.2em;
+	}
+	</style>
 </head>
 <body>
-    <h1>Cartographie des réseaux de carrefours</h1>
-<!--   <h1>A few simple tools for .gpx files</h1> -->
+	<div id= "main">
+    <h2>Cartographie des réseaux de carrefours</h2>
 	<div id="intro">
-	<p>Dans la plupart des régions les sentiers pédestres balisés sont organisés en réseaux de carrefours : tronçons balisés reliant deux carrefours indiqués par des poteaux.</p>
-	<p>La plupart du temps, la cartographie de ces réseaux est difficile à trouver.</p>
-	<p>Depuis quelque temps, une équipe de contributeurs intégre l'ensemble de ces réseaux dans la base de données d'OpenStreetMap. </p>
+	<p>Dans la plupart des régions les sentiers pédestres balisés sont organisés en réseaux de carrefours : tronçons balisés reliant deux carrefours indiqués par des poteaux mais la plupart du temps, il est difficile de trouver une cartographie détaillée de ces réseaux.</p>
+	<p>Depuis quelque temps, des contributeurs d'OpenStreetMap travaillent à intégrer l'ensemble de ces réseaux dans la base de données. </p>
 	<p>Ces réseaux peuvent déjà être visualisés de plusieurs façons :
 		<a href= "https://hiking.waymarkedtrails.org/#?map=12.0/44.6485/4.404">Waymarkedtrails</a>,
 		<a href= "https://knooppuntnet.nl/fr/map/hiking?position=44.64179652,4.40344163,13"> Knooppuntnet</a>,
@@ -19,19 +29,20 @@
 
 	</p>
 	<p></p>
-	<p></p>
-	<p></p>
 	</div>
 	
 	<h2>Utilisation de uMap</h2>
-	<a href="https://umap.openstreetmap.fr/fr/map/reseau-ardeche-sud-osm_833440#13/" >Réseaux de sentiers dans toute la Basse Ardèche</a><br><br>
+	<a href="https://umap.openstreetmap.fr/fr/map/reseau-ardeche-sud-osm_833440#13/" >Réseaux de sentiers dans toute la Basse Ardèche</a><br>
 	<a href="./Integration uMap.html" >Exemple d'introduction d'une carte uMap dans un site</a>
 
 	<h2>Carte interactive basée sur Leaflet</h2>
-	<a href="./Node_network Map/Leaflet_Json.html" >Réseau pédestre du Bassin d'Aubenas</a>
+	<p>Le but recherché est d'intégrer dans une page HTML l'ensemble des fonctionalités d'affichage de la carte sans appel à un site extérieur à part pour le chargement des tuiles de fond de carte.</p>
+	<p>La première carte achevée est celle de la communauté de communes du bassin d'Aubenas en Ardèche :<br>
+	<a href="./Node_network Map/Leaflet_Json.html" >Réseau pédestre du Bassin d'Aubenas</a></p>
+	<p>Le cadre de cette carte Leaflet est prévu pour pouvoir être réutilisé pour cartographier d'autres réseaux de carrefours. Voir la page Détails techniques</p>
 	
 	
-
+</div>
 </body>
 </html>
 
