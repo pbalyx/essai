@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8"> 
-    <title>Leaflet_Json</title>
+    <title>Node_network_map</title>
 	
 <!--	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
 		 integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
@@ -116,8 +116,8 @@ var panneauIcon = L.icon({
 	});
 
 	var map = L.map('map', {
-		center: [44.622, 4.40],
-		zoom: 10,
+//		center: [44.622, 4.40],
+//		zoom: 10,
 		layers: [OTMLayer, guidepostsLayer,routesLayer, junctionLayer]
 	}).setView([44.622, 4.40], 14); //setView to overwrite setBounds after loading
 	
