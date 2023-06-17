@@ -13,42 +13,55 @@
 //		font-family: Georgia, serif;	
 		font-size: 1.2em;
 	}
+	h1 {
+		text-align:center;
+		font-size: 1.8em;
+	}
+	h2 {
+		font-size: 1.2em;
+		line-height: 0.8;	
+	}
+	h3 {
+		font-size: 1.1em;
+		font-style: italic;		
+		padding-left: 20px;
+		line-height: 0.2;	
+	}
 	</style>
 </head>
 <body>
 	<div id= "main">
-    <h2>Cartographie des réseaux de carrefours</h2>
+    <h1>Cartographie des réseaux de carrefours</h1>
 	<div id="intro">
-	<p>Dans la plupart des régions les sentiers pédestres balisés sont organisés en réseaux de carrefours : tronçons balisés reliant deux carrefours indiqués par des poteaux mais la plupart du temps, il est difficile de trouver une cartographie détaillée de ces réseaux.</p>
-	<p>Depuis quelque temps, des contributeurs d'OpenStreetMap travaillent à intégrer l'ensemble de ces réseaux dans la base de données. </p>
-	<p>Ces réseaux peuvent déjà être visualisés de plusieurs façons :
+	<p>Dans la plupart des régions les sentiers pédestres balisés sont organisés en réseaux de carrefours : tronçons balisés reliant deux carrefours indiqués par des poteaux.<br>La plupart du temps, il est difficile de trouver une cartographie détaillée de ces réseaux.</p>
+	<p>Depuis quelque temps, des contributeurs d'OpenStreetMap travaillent à intégrer l'ensemble de ces réseaux dans la base de données OpenStreetMap. Ces réseaux apparaissent déjà dans plusieurs visualisations :
 		<a href= "https://hiking.waymarkedtrails.org/#?map=12.0/44.6485/4.404">Waymarkedtrails</a>,
 		<a href= "https://knooppuntnet.nl/fr/map/hiking?position=44.64179652,4.40344163,13"> Knooppuntnet</a>,
-		<a href= "https://www.thunderforest.com/maps/outdoors/preview/"> Thunderforest outdoors</a>...
-		Le but ici est d'avoir une carte plus personnalisable pouvant être insérée par exemple dans un site d'office de tourisme.
+		<a href= "https://www.thunderforest.com/maps/outdoors/preview/"> Thunderforest outdoors</a>...</p>
+	<p>
+	Le but ici est d'afficher une carte plus personnalisable, pouvant être limitée à un réseau particulier, pour pouvoir l'insérer par exemple dans un site d'office de tourisme.
 
 	</p>
 	<p></p>
 	</div>
 	
 	<h2>Utilisation de uMap</h2>
+	Une première solution est d'utiliser uMap, solution simple mais peu personnalisable; Voir par exemple :<br><br>
 	<a href="https://umap.openstreetmap.fr/fr/map/reseau-ardeche-sud-osm_833440#13/" >Réseaux de sentiers dans toute la Basse Ardèche</a><br>
-	<a href="./Integration uMap.html" >Exemple d'introduction d'une carte uMap dans un site</a>
+	<a href="./Integration uMap.html" >Exemple d'intégration d'une carte uMap dans un site</a>
 
 	<h2>Carte interactive basée sur Leaflet</h2>
-	<p>Le but recherché est d'intégrer dans une page HTML l'ensemble des fonctionalités d'affichage de la carte sans appel à un site extérieur à part pour le chargement des tuiles de fond de carte.</p>
+	<p>Le but recherché est d'intégrer dans une page HTML l'ensemble des fonctionnalités d'affichage de la carte sans appel à un site extérieur, à part pour le chargement des tuiles de fond de carte.</p>
 	<p>La première carte achevée est celle de la communauté de communes du bassin d'Aubenas en Ardèche :<br>
-	<a href="./Node_network Map/Node_network_map.html" >Réseau pédestre du Bassin d'Aubenas</a><br>
+	<a href="./Reseau_Bassin_d_Aubenas/ShowMap.html" >Réseau pédestre du Bassin d'Aubenas</a><br>
 	Le fonctionnement est intuitif.<br>
-	&nbsp- Lorsqu'on déplace la carte, même très peu, les trajets et les panneaux disparaissent taant qu'on ne relâche pas la souris. Pratique pour voir le détail des chemins en dessous sans être gêné.<br>
+	&nbsp- Lorsqu'on déplace la carte, même très peu, les trajets et les panneaux disparaissent tant qu'on ne relâche pas la souris. Pratique pour voir le détail des chemins en dessous sans être gêné.<br>
 	&nbsp- Le symbole de carte en haut à droite permet de changer le fond de carte ou de masquer les couches.<br>
-	&nbsp- Un click sur un trajet montre son nom et, si ces données sont stockées dans la relation OpenStreetMap, la distance et le dénivelé .<br>
+	&nbsp- Un click sur un trajet montre son nom et, si ces données sont stockées dans la relation OpenStreetMap, la distance et le dénivelé.<br>
 	</p>
-	<p>Le cadre de cette carte Leaflet est prévu pour pouvoir être réutilisé pour cartographier d'autres réseaux de carrefours. Voir la page de détails techniques : 
-	<a href="./Node_network Map/Technical details.html" >Technical details</a>.
+	<p>Pour adapter la carte à un autre réseau, il suffit de récupérer les données de celui-ci avec quelques requêtes Overpass en connaissant seulement son identification OpenStreetMap (id). Le détail des opérations à effectuer et l'organisation des fichiers sont décrits dans la page <a href="./Details_techniques.html" >Détails techniques</a>.
 	</p>
-	</p>
-	
+	<p></p>
 	
 </div>
 </body>

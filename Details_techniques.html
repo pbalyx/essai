@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <title>Détails techniques</title>
+	<style>
+	#main {
+		position: absolute;
+		max-width: 80%;
+		left: 8%;
+		border: 1px solid blue;
+		padding:  10px 40px 20px 30px;
+		font-size: 1.2em;
+	}
+	.codeDiv {
+		border: 2px solid red;
+		padding:  0px 40px 0px 30px;
+		width: 60%;
+	}
+	h1 {
+		text-align:center;
+		font-size: 1.8em;
+	}
+	h2 {
+		font-size: 1.2em;
+		line-height: 0.8;	
+	}
+	h3 {
+		font-size: 1.1em;
+		font-style: italic;		
+		padding-left: 20px;
+		line-height: 0.2;	
+	}
+	</style>
+</head>
+<body>
+	<div id= "main">
+    <h1>Affichage d'un réseau avec Node_network_map</h1>
+	<br>
+	<p style= "text-align : center"><i>document en cours de rédaction</i></p><br>
+		
+	
+	<h2>Organisation des répertoires</h2>
+	Le dossier principal peut porter le nom du réseau. Il comprend un seul fichier, <i>showMap.html</i>, qui appelle la page de la carte et deux sous-dossiers : <i>network_map</i> et <i>network_data</i>.<br>
+	Le dossier <i><b>network_map</i></b> est identique pour tous les réseaux. On y trouve la page de la carte (<i>Node_network_map.html</i>), quelques fichiers annexes et un sous-dossier <i>leaflet-src</i> comprenant toutes les sources du moteur de rendu Leaflet.<br>
+	Le dossier <i><b>network_data</i></b> contient les données du réseau, configuration et données géographiques, dans un cadre défini ci-dessous.
+	
+	<h2>Dossier network_data</h2>
+	
+	<h3>Structure des fichiers</h3>
+	En javascript, on ne peut pas lire des fichiers locaux directement depuis une page html  (rejet requête CORS...). L'astuce pour contourner cette difficulté est de lire ces fichiers au chargement de la page en tant que script de Javascript. <br>
+	Les données géographiques sont caractérisées par des noms de variable <i>varname</i> détaillés ci-dessous.<br> 
+	Ces données sont obtenues automatiquement par une requête Overpass sous forme de fichier GeoJson. Il suffit 
+	d'éditer chaque fichier pour rajouter une première ligne <br>
+	<i>varname</i> =<br>
+	sans rien modifier d'autre et de le sauver dans le dossier <i>network_data</i> avec le nom <i>varname.txt</i> 
+	<h3>Fichier de configuration</h3>
+	
+	<h3>Fichiers de données</h3>
+	Comme indiqué ci-dessus, les données sont groupées dans des fichiers avec des noms prédéfinis :<br>
+	&nbsp <i><b>-- routes.txt</i></b>  contient tous les itinéraires entre les carrefours.<br>
+	&nbsp <i><b>-- connections.txt</i></b>  contient tous les itinéraires de liaisons vers les réseaux voisins. Ces itinéraires sont classés à part <br>
+<br>	
+<br>
+</div>
+</body>
+</html>
+
