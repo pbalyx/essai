@@ -42,24 +42,27 @@
 	
 	<h2>Organisation des répertoires</h2>
 	Le dossier principal peut porter le nom du réseau. Il comprend un seul fichier, <i>showMap.html</i>, qui appelle la page de la carte et deux sous-dossiers : <i>network_map</i> et <i>network_data</i>.<br>
-	Le dossier <i><b>network_map</i></b> est identique pour tous les réseaux. On y trouve la page de la carte (<i>Node_network_map.html</i>), quelques fichiers annexes et un sous-dossier <i>leaflet-src</i> comprenant toutes les sources du moteur de rendu Leaflet.<br>
+	Le dossier <i><b>network_map</i></b> est identique pour tous les réseaux. Il contient la page d'affichage de la carte (<i>Node_network_map.html</i>), quelques fichiers annexes et un sous-dossier <i>leaflet-src</i> comprenant les sources du moteur de rendu Leaflet.<br>
 	Le dossier <i><b>network_data</i></b> contient les données du réseau, configuration et données géographiques, dans un cadre défini ci-dessous.
 	
 	<h2>Dossier network_data</h2>
 	
 	<h3>Structure des fichiers</h3>
-	En javascript, on ne peut pas lire des fichiers locaux directement depuis une page html  (rejet requête CORS...). L'astuce pour contourner cette difficulté est de lire ces fichiers au chargement de la page en tant que script de Javascript. <br>
+	En javascript, on ne peut pas lire des fichiers locaux directement depuis une page html  (rejet requête CORS...). Pour contourner cette difficulté, ces fichiers sont lus au chargement de la page en tant que script de Javascript. Toutes les variables sont déclarées et initialisées dans le script principal. Elles sont surchargées par les valeurs lues dans les scripts quand elles existent.<br>
 	Les données géographiques sont caractérisées par des noms de variable <i>varname</i> détaillés ci-dessous.<br> 
-	Ces données sont obtenues automatiquement par une requête Overpass sous forme de fichier GeoJson. Il suffit 
-	d'éditer chaque fichier pour rajouter une première ligne <br>
+	Ces données sont sous la forme d'un fichier texte <i>varname.txt</i> qui est un fichier Geojson avec une première ligne supplémentaire 
 	<i>varname</i> =<br>
-	sans rien modifier d'autre et de le sauver dans le dossier <i>network_data</i> avec le nom <i>varname.txt</i> 
-	<h3>Fichier de configuration</h3>
 	
 	<h3>Fichiers de données</h3>
-	Comme indiqué ci-dessus, les données sont groupées dans des fichiers avec des noms prédéfinis :<br>
-	&nbsp <i><b>-- routes.txt</i></b>  contient tous les itinéraires entre les carrefours.<br>
-	&nbsp <i><b>-- connections.txt</i></b>  contient tous les itinéraires de liaisons vers les réseaux voisins. Ces itinéraires sont classés à part <br>
+	Comme indiqué ci-dessus, les données sont groupées dans des fichiers texte (.txt) avec des noms prédéfinis. Pour les données optionnelles, le fichier doit exister mais il peut être vide.<br>
+	Les différentes couches de données sont ; <br>
+	&nbsp&nbsp&nbsp <i><b>-- routes</b></i> : itinéraires entre les carrefours.<br>
+	&nbsp&nbsp&nbsp <i><b>-- connections</b></i> : itinéraires de liaisons vers les réseaux voisins. Ces itinéraires sont classés à part car certains gestionnaires de réseau préfèrent qu'ils n'apparaissent que dans la partie appartenant au réseau. Si ce n'est pas le cas, ils peuvent être groupés avec les routes et le fichier laissé vide. <br>
+	&nbsp&nbsp&nbsp <i><b>-- guideposts</b></i> : poteaux avec des lames directionnelles situés aux intersections. <br>	
+	&nbsp&nbsp&nbsp <i><b>-- maps</b></i> : panneaux montrant des plans schématiques du réseau, situés en général dans les villages.<br>
+	
+	<h3>Fichier de configuration</h3>
+	
 <br>	
 <br>
 </div>
