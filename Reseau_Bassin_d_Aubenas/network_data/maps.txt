@@ -8,23 +8,6 @@ maps =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/2460418428",
-        "information": "map",
-        "map_type": "toposcope",
-        "tourism": "viewpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3922773,
-          44.6210798
-        ]
-      },
-      "id": "node/2460418428"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/6699827837",
         "ele": "210",
         "information": "map",
@@ -78,24 +61,6 @@ maps =
         ]
       },
       "id": "node/8309740975"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8309741006",
-        "information": "map",
-        "map_type": "toposcope",
-        "source": "BDTopo IGN",
-        "tourism": "viewpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3808875,
-          44.6582825
-        ]
-      },
-      "id": "node/8309741006"
     },
     {
       "type": "Feature",
