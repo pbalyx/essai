@@ -3,7 +3,7 @@ maps =
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-06-16T16:46:31Z",
+  "timestamp": "2023-06-20T17:18:00Z",
   "features": [
     {
       "type": "Feature",
@@ -23,62 +23,6 @@ maps =
         ]
       },
       "id": "node/6699827837"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8309740970",
-        "information": "map",
-        "map_type": "toposcope",
-        "name": "Table d'orientation",
-        "source": "BDTopo IGN",
-        "tourism": "viewpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3136432,
-          44.6883197
-        ]
-      },
-      "id": "node/8309740970"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8309740975",
-        "information": "map",
-        "map_type": "toposcope",
-        "name": "Table d'orientation",
-        "source": "BDTopo IGN",
-        "tourism": "viewpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3811909,
-          44.5652682
-        ]
-      },
-      "id": "node/8309740975"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8309747754",
-        "information": "map",
-        "map_type": "toposcope",
-        "source": "BDTopo IGN",
-        "tourism": "viewpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4346296,
-          44.7559259
-        ]
-      },
-      "id": "node/8309747754"
     },
     {
       "type": "Feature",
@@ -178,6 +122,24 @@ maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/10118766948",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "La Paille",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4338524,
+          44.7562802
+        ]
+      },
+      "id": "node/10118766948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10118766949",
         "information": "map",
         "map_type": "scheme",
@@ -210,6 +172,24 @@ maps =
         ]
       },
       "id": "node/10118766950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10118766951",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Mézilhac",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517366,
+          44.8079457
+        ]
+      },
+      "id": "node/10118766951"
     },
     {
       "type": "Feature",
@@ -318,6 +298,24 @@ maps =
         ]
       },
       "id": "node/10118766957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10118766958",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Antraïgues sur Volane",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3569401,
+          44.718731
+        ]
+      },
+      "id": "node/10118766958"
     },
     {
       "type": "Feature",
@@ -469,10 +467,46 @@ maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/10214798223",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Aubenas Bossuet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3847127,
+          44.6222305
+        ]
+      },
+      "id": "node/10214798223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10214798224",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Aubenas La Gare",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3906203,
+          44.6106909
+        ]
+      },
+      "id": "node/10214798224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10214823810",
         "information": "map",
         "map_type": "scheme",
-        "name": "Fons Info Rando",
+        "name": "Fons",
         "tourism": "information"
       },
       "geometry": {
@@ -505,19 +539,20 @@ maps =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10976731109",
+        "@id": "node/10992457379",
         "information": "map",
-        "map_type": "toposcope",
+        "map_type": "scheme",
+        "name": "Vinezac",
         "tourism": "information"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3862325,
-          44.7785882
+          4.3259566,
+          44.5384678
         ]
       },
-      "id": "node/10976731109"
+      "id": "node/10992457379"
     }
   ]
 }
