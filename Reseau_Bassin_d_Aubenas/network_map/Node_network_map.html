@@ -24,9 +24,29 @@
 		font-size: 12px;
 		font-weight: bold;
 		line-height: 12px;
-  border: 1px solid blue;
+		border: 1px solid blue;
 
 	}
+	.guidepost_tooltip {
+		padding: 0px 4px 0px 4px ;
+		background-color: rgba(0, 255, 255, .6);
+		font-size: 12px;
+		font-weight: bold;
+		line-height: 12px;
+		border: 1px solid blue;
+
+	}
+
+	.map_tooltip {
+		padding: 0px 4px 0px 4px ;
+		background-color: rgba(255, 255, 0, .7);
+		font-size: 12px;
+		font-weight: bold;
+		line-height: 12px;
+		border: 1px solid yellow;
+
+	}
+
 	</style>
 
 </head>
@@ -97,9 +117,9 @@
 	
 var guidepostIcon = L.icon({
     iconUrl: 'icon_guidepost.png',
-    iconSize: [12, 30],
-    iconAnchor: [6, 30],
-    tooltipAnchor: [0, -20]
+    iconSize: [12, 18],
+    iconAnchor: [6, 20],
+    tooltipAnchor: [0, -25]
 
 });
 		
@@ -111,7 +131,9 @@ var guidepostIcon = L.icon({
 				icon: guidepostIcon
 			}).bindTooltip(label, {
 				permanent: true,
-				opacity: 0.8
+				direction: 'center',
+				className: 'guidepost_tooltip',
+			//	opacity: 0.8
 			}).openTooltip();
 		}
 
@@ -120,7 +142,7 @@ var guidepostIcon = L.icon({
 	var junctionLayer = L.geoJSON(guideposts, {   //this layer remains when moving the map
 		pointToLayer: function(feature, latlng) {
 			return new L.CircleMarker(latlng, {
-				radius: 5,
+				radius: 4,
 				fillColor: "lightblue",
 				fillOpacity: 1,
 				color: "darkblue",
@@ -131,9 +153,9 @@ var guidepostIcon = L.icon({
 
 var mapIcon = L.icon({
     iconUrl: 'icon_map.png',
-    iconSize: [20, 30],
-    iconAnchor: [10, 30],
-    tooltipAnchor: [0, -20]
+    iconSize: [10, 18],
+    iconAnchor: [5, 20],
+    tooltipAnchor: [0, -25]
 
 });
 		
@@ -145,7 +167,9 @@ var mapIcon = L.icon({
 				icon: mapIcon
 			}).bindTooltip(label, {
 				permanent: true,
-				opacity: 0.8
+				direction: 'center',
+				className: 'map_tooltip',
+			//	opacity: 0.8
 			}).openTooltip();
 		}
 
