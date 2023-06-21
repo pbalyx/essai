@@ -30,19 +30,19 @@
 	.guidepost_tooltip {
 		padding: 0px 4px 0px 4px ;
 		background-color: rgba(170, 255, 255, .8);
-		font-size: 12px;
+		font-size: 11px;
 		font-weight: bold;
-		line-height: 12px;
+		line-height: 11px;
 		border: 1px solid blue;
 
 	}
 
 	.map_tooltip {
 		padding: 0px 4px 0px 4px ;
-		background-color: rgba(212, 255, 85, .9);
-		font-size: 12px;
+		background-color: rgba(212, 255, 85, 1.0);
+		font-size: 11px;
 		font-weight: bold;
-		line-height: 12px;
+		line-height: 11px;
 		border: 1px solid yellow;
 		text-align: center;
 
@@ -78,6 +78,16 @@
 	var OTMLayer = L.tileLayer('https://a.tile.opentopomap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
 		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>;<a href="https://www.opentopomap.org/">OpenTopoMap</a>'
+	});
+	
+	var OSMLayer = L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+	});
+	
+	var PlanIGNLayer = L.tileLayer('https://wxs.ign.fr/pratique/wmts/?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image%2Fpng', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="https://geoservices.ign.fr/planign">Plan IGN</a>'
 	});
 	
 	var IGNPhoto = L.tileLayer('https://wxs.ign.fr/pratique/wmts/?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image%2Fjpeg', {
@@ -156,13 +166,14 @@ var mapIcon = L.icon({
     iconUrl: 'icon_map.png',
     iconSize: [10, 18],
     iconAnchor: [5, 20],
-    tooltipAnchor: [0, -28]
+    tooltipAnchor: [0, -25]
 
 });
 		
 	var mapsLayer = L.geoJSON(maps, {   //this layer disappears when moving the map
 		pointToLayer: function(feature, latlng) {
-			label = String('<b>' + feature.properties.name) +'</b><br><i>Info rando</i>'
+			label = String(feature.properties.name) 
+//			label = String('<b>' + feature.properties.name) +'</b><br><i>Info rando</i>'
 				// .bindTooltip can't use straight 'feature.properties.attribute'
 			return L.marker(latlng, {
 				icon: mapIcon
@@ -214,7 +225,8 @@ var mapIcon = L.icon({
 	
 var baseMaps = {
     "OpenTopoMap": OTMLayer,
-//    "OpenStreetMap": OSMLayer,
+    "OpenStreetMap": OSMLayer,
+	"PlanIGN":	PlanIGNLayer,
 	"IGN Image aérienne": IGNPhoto
 };
 
