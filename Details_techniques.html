@@ -31,21 +31,24 @@
 		padding-left: 20px;
 		line-height: 0.2;	
 	}
+	pre {
+		margin-top: 5px;
+		margin-bottom: 0px;
+	}
 	</style>
 </head>
 <body>
 	<div id= "main">
     <h1>Affichage d'un réseau avec Node_network_map</h1>
 	<br>
-	<p style= "text-align : center"><i>document en cours de rédaction</i></p><br>
 		
-	L'affichage d'un réseau est conçu pour être sous la forme d'une page html autonome, utilisable localement soit sur un serveur soit sur un poste de travail. Les seuls appels extérieurs sont vers les serveurs fournissant l'affichage des cartes de fond.
+	La carte d'affichage d'un réseau est conçue pour être sous la forme d'une page html autonome, utilisable localement soit sur un serveur soit sur un poste de travail. Les seuls appels extérieurs sont effectués vers les serveurs fournissant l'affichage des cartes de fond.
 	<h2>Organisation des répertoires</h2>
 	Pour séparer le moteur d'affichage et les données géographiques, le répertoire principal comprend deux sous-dossiers : <i>network_map</i> et <i>network_data</i>.<br>
 	Le dossier <b><i>network_map</i></b> est identique pour tous les réseaux. Il contient la page d'affichage de la carte (<i>Node_network_map.html</i>), quelques fichiers annexes et un sous-dossier <i>leaflet-src</i> comprenant les sources du moteur de rendu Leaflet.<br>
 	Le dossier <b><i>network_data</i></b> contient les données du réseau, configuration et données géographiques, dans un cadre défini ci-dessous.
 	
-	<h2>Dossier network_data</h2>
+	<h2>Dossier <i>network_data</i></h2>
 	
 	<h3>Structure des fichiers</h3>
 	Les données géographiques sont acquises sous forme de fichier Geojson qui peuvent être obtenus directement depuis OpenStreetMap par une requête Overpass.<br>
@@ -58,24 +61,82 @@
 	Comme indiqué ci-dessus, ces données sont groupées dans des fichiers texte (.txt) avec des noms prédéfinis. Pour les données optionnelles, le fichier doit exister mais il peut être vide.<br>
 	Les différentes couches de données sont ; <br>
 	&nbsp&nbsp&nbsp <i><b>-- routes</b></i> : itinéraires entre les carrefours.<br>
-	&nbsp&nbsp&nbsp <i><b>-- connections</b></i> : itinéraires de liaisons vers les réseaux voisins. Ces itinéraires sont classés à part car certains gestionnaires de réseau préfèrent qu'ils n'apparaissent que dans la partie appartenant au réseau. Si ce n'est pas le cas, ils peuvent être groupés avec les routes et le fichier laissé vide. <br>
 	&nbsp&nbsp&nbsp <i><b>-- guideposts</b></i> : poteaux avec des lames directionnelles situés aux intersections. <br>	
 	&nbsp&nbsp&nbsp <i><b>-- maps</b></i> : panneaux montrant des plans schématiques du réseau, situés en général dans les villages.<br>
+	&nbsp&nbsp&nbsp <i><b>-- connections</b></i> : itinéraires de liaisons entre carrefours appartenant à des réseaux différents. Ces itinéraires peuvent être classés à part car certains gestionnaires de réseau préfèrent qu'ils n'apparaissent que dans la partie appartenant au réseau. Si ce n'est pas le cas, ils peuvent être groupés avec les routes et ce fichier est laissé vide. <br>
 	
 	<h3>Fichier de configuration</h3>
-	Comme pour les données du réseau, ce fichier vient surcharger les valeurs par défaut de paramètres définis et initialisés dans le script d'initialisation. L'absence d'une donnée ne provoque donc pas d'erreur.<br>
+	Comme pour les données du réseau, ce fichier vient surcharger les valeurs par défaut de paramètres définis et initialisés préalablement. L'absence d'une donnée ne provoque donc pas d'erreur.<br>
 	Les paramètres actuels sont ceux qui définissent le positionnement initial de la carte, centre et niveau de zoom, à l'ouverture de la page. La syntaxe est par exemple :<br> 
 	 - mapCenter = "44.622, 4.38"; <br>
 	 - zoom = "14";<br>
-    Les valeurs par défaut sont "auto" pour mapcenter (le centre est positionné automatiquement au centre de la couche de routes du réseau) et 13 pour le zoom.<br>
+    Les valeurs par défaut sont "auto" pour mapCenter (le centre est positionné automatiquement au centre de la couche de routes du réseau) et 13 pour le zoom.<br>
 	D'autres paramètres pourront être ajoutés au fur et à mesure des mises à jour.<br>
 
-	<h2>Annexe - requêtes Overpass</h2>
+	<h2>Annexe - Obtention des données du réseau</h2>
 	
-	L'obtention des données du réseau au moyen de requêtes Overpass permet une initialisation rapide et une facilité de mise à jour en fonction des ajouts ou des corrections dans la base de données OpenStreetMap qui reste la source de référence.<br>
+	L'obtention des données au moyen de requêtes Overpass permet une initialisation rapide et une facilité de mise à jour en fonction des ajouts ou des corrections dans la base de données OpenStreetMap (OSM) qui reste la source de référence. Il suffit d'avoir l'identifiant du réseau et éventuellement les identifiants des itinéraires pour des mises à jour partielles.<br>
 	
-	
-<br><br><br><br>	
+	<h3>Identifiants</h3>
+	Pour obtenir l'identifiant OSM du réseau, on peut utiliser <a href="https://knooppuntnet.nl/fr/">knooppuntnet</a> et le cheminement suivant : <br>
+	Accueil -> Analyse -> Randonnée pédestre -> France -> Nom du réseau. Dans le paragraphe Résumé le lien osm renvoie vers le site OSM donnant l'identification du réseau et tous les détails, dont les identifiants individuels des itinéraires.
+	<h3>Requêtes Overpass</h3>
+	Les requêtes Overpass s'effectuent par l'intermédiaire 
+	d'<a href="https://overpass-turbo.eu/">overpass turbo</a>.<br>
+	Il suffit de coller une des requêtes ci-dessous dans la partie gauche puis <i>Exécuter</i>. Après vérification sur la carte on peut <i>Exporter</i> (choix : GeoJSON -> télécharger).<br><br>
+
+	<b><i>routes</i></b>
+	<pre>
+	[out:json][timeout:25];
+	relation(id:nnnnnnnn);  //identifiant du réseau
+	//déplier la relation 
+	>> -> .a;
+	//extraire les trajets
+	relation.a[type=route];   
+	//sortie
+	out geom;
+	</pre>
+	<b><i>guideposts</i></b>
+	<pre>
+	[out:json][timeout:25];
+	relation(id:nnnnnnnn);
+	>> -> .a;
+	//extraire les carrefours
+	node.a["network:type"=node_network];
+	//chercher les guideposts à moins de 100m
+ 	node(around:100)["information"="guidepost"];
+	out geom;
+	</pre>
+	<b><i>maps</i></b>
+	<pre>
+	[out:json][timeout:25];
+	relation(id:nnnnnnnn);
+	>> -> .a;
+	node.a["network:type"=node_network];
+ 	node(around:200)["information"="map"]["map_type" = "scheme"];
+	out geom;
+	</pre>
+	<b><i>connections</i></b>
+	<pre>
+	[out:json][timeout:25];
+	relation(id:nnnnnnnn);
+	rel(r:"connection"); //rôle connection
+	out geom;
+	</pre>
+	<b><i>routes (hors connections)</i></b>
+	<pre>
+	[out:json][timeout:25];
+	relation(id:nnnnnnnn);
+	rel(r:""); //pas de rôle
+	out geom;
+	</pre>
+	<b><i>routes (itinéraire seul)</i></b>
+	<pre>
+	[out:json][timeout:25];
+	relation(id:xxxxxxxx);//identifiant de l'itinéraire
+	out geom;
+	</pre>
+<br>	
 	
 </div>
 </body>
