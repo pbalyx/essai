@@ -19,7 +19,7 @@
 	}
 	h1 {
 		text-align:center;
-		font-size: 1.8em;
+		font-size: 1.6em;
 	}
 	h2 {
 		font-size: 1.2em;
@@ -39,22 +39,23 @@
 	<br>
 	<p style= "text-align : center"><i>document en cours de rédaction</i></p><br>
 		
-	
+	L'affichage d'un réseau est conçu pour être sous la forme d'une page html autonome, utilisable localement soit sur un serveur soit sur un poste de travail. Les seuls appels extérieurs sont vers les serveurs fournissant l'affichage des cartes de fond.
 	<h2>Organisation des répertoires</h2>
-	Le dossier principal peut porter le nom du réseau. Il comprend un seul fichier, <i>showMap.html</i>, qui appelle la page de la carte et deux sous-dossiers : <i>network_map</i> et <i>network_data</i>.<br>
-	Le dossier <i><b>network_map</i></b> est identique pour tous les réseaux. Il contient la page d'affichage de la carte (<i>Node_network_map.html</i>), quelques fichiers annexes et un sous-dossier <i>leaflet-src</i> comprenant les sources du moteur de rendu Leaflet.<br>
-	Le dossier <i><b>network_data</i></b> contient les données du réseau, configuration et données géographiques, dans un cadre défini ci-dessous.
+	Pour séparer le moteur d'affichage et les données géographiques, le répertoire principal comprend deux sous-dossiers : <i>network_map</i> et <i>network_data</i>.<br>
+	Le dossier <b><i>network_map</i></b> est identique pour tous les réseaux. Il contient la page d'affichage de la carte (<i>Node_network_map.html</i>), quelques fichiers annexes et un sous-dossier <i>leaflet-src</i> comprenant les sources du moteur de rendu Leaflet.<br>
+	Le dossier <b><i>network_data</i></b> contient les données du réseau, configuration et données géographiques, dans un cadre défini ci-dessous.
 	
 	<h2>Dossier network_data</h2>
 	
 	<h3>Structure des fichiers</h3>
-	En javascript, on ne peut pas lire des fichiers locaux directement depuis une page html  (rejet requête CORS...). Pour contourner cette difficulté, ces fichiers sont lus au chargement de la page en tant que script de Javascript. Toutes les variables sont déclarées et initialisées dans le script principal. Elles sont surchargées par les valeurs lues dans les scripts quand elles existent.<br>
-	Les données géographiques sont caractérisées par des noms de variable <i>varname</i> détaillés ci-dessous.<br> 
-	Ces données sont sous la forme d'un fichier texte <i>varname.txt</i> qui est un fichier Geojson avec une première ligne supplémentaire 
-	<i>varname</i> =<br>
+	Les données géographiques sont acquises sous forme de fichier Geojson qui peuvent être obtenus directement depuis OpenStreetMap par une requête Overpass.<br>
+	Cependant, en javascript, on ne peut pas lire des fichiers locaux directement depuis une page html  (rejet requête CORS...). Pour contourner cette difficulté, ces fichiers sont lus au chargement de la page en tant que script de Javascript. Il suffit pour cela de rajouter une première ligne supplémentaire<br>
+ 	<i>varname</i> =<br> 
+	 <i>varname</i> étant le nom prédéfini de la donnée géographique. Ces noms sont détaillés ci-dessous. Le fichier ainsi complété est stocké sous forme d'un fichier texte <i>varname.txt</i>  dans le répertoire <i>network_data</i>.
+	Toutes les variables sont déclarées et initialisées dans le script principal. Elles sont surchargées par les valeurs lues dans les scripts quand elles existent.<br>
 	
-	<h3>Fichiers de données</h3>
-	Comme indiqué ci-dessus, les données sont groupées dans des fichiers texte (.txt) avec des noms prédéfinis. Pour les données optionnelles, le fichier doit exister mais il peut être vide.<br>
+	<h3>Données du réseau</h3>
+	Comme indiqué ci-dessus, ces données sont groupées dans des fichiers texte (.txt) avec des noms prédéfinis. Pour les données optionnelles, le fichier doit exister mais il peut être vide.<br>
 	Les différentes couches de données sont ; <br>
 	&nbsp&nbsp&nbsp <i><b>-- routes</b></i> : itinéraires entre les carrefours.<br>
 	&nbsp&nbsp&nbsp <i><b>-- connections</b></i> : itinéraires de liaisons vers les réseaux voisins. Ces itinéraires sont classés à part car certains gestionnaires de réseau préfèrent qu'ils n'apparaissent que dans la partie appartenant au réseau. Si ce n'est pas le cas, ils peuvent être groupés avec les routes et le fichier laissé vide. <br>
@@ -62,9 +63,20 @@
 	&nbsp&nbsp&nbsp <i><b>-- maps</b></i> : panneaux montrant des plans schématiques du réseau, situés en général dans les villages.<br>
 	
 	<h3>Fichier de configuration</h3>
+	Comme pour les données du réseau, ce fichier vient surcharger les valeurs par défaut de paramètres définis et initialisés dans le script d'initialisation. L'absence d'une donnée ne provoque donc pas d'erreur.<br>
+	Les paramètres actuels sont ceux qui définissent le positionnement initial de la carte, centre et niveau de zoom, à l'ouverture de la page. La syntaxe est par exemple :<br> 
+	 - mapCenter = "44.622, 4.38"; <br>
+	 - zoom = "14";<br>
+    Les valeurs par défaut sont "auto" pour mapcenter (le centre est positionné automatiquement au centre de la couche de routes du réseau) et 13 pour le zoom.<br>
+	D'autres paramètres pourront être ajoutés au fur et à mesure des mises à jour.<br>
+
+	<h2>Annexe - requêtes Overpass</h2>
 	
-<br>	
-<br>
+	L'obtention des données du réseau au moyen de requêtes Overpass permet une initialisation rapide et une facilité de mise à jour en fonction des ajouts ou des corrections dans la base de données OpenStreetMap qui reste la source de référence.<br>
+	
+	
+<br><br><br><br>	
+	
 </div>
 </body>
 </html>
