@@ -3,7 +3,7 @@ guideposts =
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-06-16T16:44:30Z",
+  "timestamp": "2023-06-28T06:48:00Z",
   "features": [
     {
       "type": "Feature",
@@ -54,6 +54,7 @@ guideposts =
         "lwn_ref": "Pétaloup",
         "name": "Pétaloup",
         "network:type": "node_network",
+        "source": "survey",
         "tourism": "information"
       },
       "geometry": {
@@ -792,18 +793,20 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7212243720",
+        "@id": "node/7212243719",
+        "ele": "235",
         "information": "guidepost",
+        "name": "Lavilledieu (Le Feu)",
         "tourism": "information"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4526239,
-          44.5761807
+          4.4531083,
+          44.5758629
         ]
       },
-      "id": "node/7212243720"
+      "id": "node/7212243719"
     },
     {
       "type": "Feature",
@@ -2708,16 +2711,17 @@ guideposts =
       "type": "Feature",
       "properties": {
         "@id": "node/9931793930",
-        "ele": "1282",
+        "ele": "1285",
         "information": "guidepost",
         "name": "Bois de Rauset",
+        "source": "survey",
         "tourism": "information"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3740179,
-          44.7822639
+          4.3739245,
+          44.7822197
         ]
       },
       "id": "node/9931793930"
