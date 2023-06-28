@@ -128,15 +128,18 @@
 	
 var guidepostIcon = L.icon({
     iconUrl: 'icon_guidepost.png',
-    iconSize: [12, 18],
-    iconAnchor: [6, 20],
+    iconSize: [12, 16],
+    iconAnchor: [6, 18],
     tooltipAnchor: [0, -22]
 
 });
 		
 	var guidepostsLayer = L.geoJSON(guideposts, {   //this layer disappears when moving the map
 		pointToLayer: function(feature, latlng) {
-			label = String(feature.properties.name) 
+			label ="*";
+			if (feature.properties.name) {
+				label = String(feature.properties.name) 
+			} 
 				// .bindTooltip can't use straight 'feature.properties.attribute'
 			return L.marker(latlng, {
 				icon: guidepostIcon
@@ -164,17 +167,18 @@ var guidepostIcon = L.icon({
 
 var mapIcon = L.icon({
     iconUrl: 'icon_map.png',
-    iconSize: [10, 18],
-    iconAnchor: [5, 20],
-    tooltipAnchor: [0, -25]
+    iconSize: [10, 16],
+    iconAnchor: [5, 18],
+    tooltipAnchor: [0, -22]
 
 });
 		
 	var mapsLayer = L.geoJSON(maps, {   //this layer disappears when moving the map
 		pointToLayer: function(feature, latlng) {
-			label = String(feature.properties.name) 
-//			label = String('<b>' + feature.properties.name) +'</b><br><i>Info rando</i>'
-				// .bindTooltip can't use straight 'feature.properties.attribute'
+			label ="*";
+			if (feature.properties.name) {
+				label = String(feature.properties.name) 
+			}
 			return L.marker(latlng, {
 				icon: mapIcon
 			}).bindTooltip(label, {
