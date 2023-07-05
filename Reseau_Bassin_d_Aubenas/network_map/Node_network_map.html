@@ -213,20 +213,6 @@ var mapIcon = L.icon({
 			
 	L.control.scale({maxWidth: 200, imperial: false}).addTo(map);
 	
-	map.on("movestart", function () {
-		 map.removeLayer(guidepostsLayer);
-		 map.removeLayer(mapsLayer);
-		 map.removeLayer(routesLayer);
-		 map.removeLayer(connectionsLayer);
-	}); 
-
-	map.on("moveend", function () {
-		 map.addLayer(guidepostsLayer);	 
-		 map.addLayer(mapsLayer);	 
-		 map.addLayer(routesLayer);
-		 map.addLayer(connectionsLayer);
-	});
-	
 var baseMaps = {
     "OpenTopoMap": OTMLayer,
     "OpenStreetMap": OSMLayer,
@@ -235,13 +221,94 @@ var baseMaps = {
 };
 
 var overlayMaps = {
+	"Trajets": routesLayer,
     "Panneaux": guidepostsLayer,
-	"Plans": mapsLayer,
-	"Trajets": routesLayer
+	"Plans": mapsLayer
 };
 
-var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
+// flags for visibility dependant of layerControl
+// (don't add on moveend if layerControl checkBox is not checked
+var routes_visible = true;
+var connections_visible = true;
+var guideposts_visible = true;
+var maps_visible = true;
 
+var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
+var map_moving =false; //is action directly from layerControl or from map_moving
+
+	map.on("movestart", function () {
+//	console.log("move" , guidepostsLayer.map);
+	map_moving = true;
+		 map.removeLayer(routesLayer);
+		 map.removeLayer(connectionsLayer);
+		 map.removeLayer(guidepostsLayer);
+		 map.removeLayer(mapsLayer);
+	}); 
+
+	map.on("moveend", function () {
+		if (routes_visible) { map.addLayer(routesLayer);};
+		if (connections_visible) { map.addLayer(connectionsLayer);};
+		if (guideposts_visible) { map.addLayer(guidepostsLayer);};	 
+		if (maps_visible) { map.addLayer(mapsLayer);}; 
+		map_moving = false;
+	});
+	
+	map.on("overlayremove", e => {
+//		console.log(e.name);
+		switch (e.name) {
+			case "Trajets":
+				if (!map_moving) {
+					routes_visible = false;
+				};
+			break;
+			case "Connections":
+				if (!map_moving) {
+					connections_visible = false;
+				};
+			break;
+			case "Panneaux":
+				if (!map_moving) {
+					guideposts_visible = false;
+				};
+			break;
+			case "Plans":
+				if (!map_moving) {
+					maps_visible = false;
+				};
+			break;
+			default:
+		return;
+		}
+    });
+	
+	map.on("overlayadd", e => {
+//		console.log(e.name);
+		switch (e.name) {
+			case "Trajets":
+				if (!map_moving) {
+					routes_visible = true;
+				};
+			break;
+			case "Connections":
+				if (!map_moving) {
+					connections_visible = true;
+				};
+			break;
+			case "Panneaux":
+				if (!map_moving) {
+					guideposts_visible = true;
+				};
+			break;
+			case "Plans":
+				if (!map_moving) {
+					maps_visible = true;
+				};
+			break;
+			default:
+		return;
+		}
+    });
+	
 // map.fitBounds(routesLayer.getBounds());	//pas très cool ici (trop dense) mais ok
 	
 	</script>
