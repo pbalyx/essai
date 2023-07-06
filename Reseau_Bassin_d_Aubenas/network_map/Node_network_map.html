@@ -246,8 +246,10 @@ var map_moving =false; //is action directly from layerControl or from map_moving
 	}); 
 
 	map.on("moveend", function () {
-		if (routes_visible) { map.addLayer(routesLayer);};
-		if (connections_visible) { map.addLayer(connectionsLayer);};
+		if (routes_visible) { 
+			map.addLayer(routesLayer);
+			map.addLayer(connectionsLayer);
+		};
 		if (guideposts_visible) { map.addLayer(guidepostsLayer);};	 
 		if (maps_visible) { map.addLayer(mapsLayer);}; 
 		map_moving = false;
@@ -259,10 +261,7 @@ var map_moving =false; //is action directly from layerControl or from map_moving
 			case "Trajets":
 				if (!map_moving) {
 					routes_visible = false;
-				};
-			break;
-			case "Connections":
-				if (!map_moving) {
+					map.removeLayer(connectionsLayer);
 					connections_visible = false;
 				};
 			break;
@@ -287,10 +286,7 @@ var map_moving =false; //is action directly from layerControl or from map_moving
 			case "Trajets":
 				if (!map_moving) {
 					routes_visible = true;
-				};
-			break;
-			case "Connections":
-				if (!map_moving) {
+					map.addLayer(connectionsLayer);
 					connections_visible = true;
 				};
 			break;
