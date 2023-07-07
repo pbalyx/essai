@@ -104,7 +104,7 @@
 	var connectionsStyle = {
 		"color": "DodgerBlue",
 		"weight": 3,
-		"opacity": 1
+		"opacity": 0.6
 	};
 	
 	function onEachFeatureDo(feature, layer) {
@@ -207,7 +207,7 @@ var mapIcon = L.icon({
 	var map = L.map('map', {
 //		center: [44.622, 4.40],
 //		zoom: 10,
-		layers: [OTMLayer, guidepostsLayer, mapsLayer, routesLayer, connectionsLayer, junctionLayer]
+		layers: [OTMLayer, guidepostsLayer, mapsLayer, connectionsLayer, routesLayer, junctionLayer]
 	});
 	map.setView(centerlatLng, Zoom); 
 			
@@ -239,16 +239,16 @@ var map_moving =false; //is action directly from layerControl or from map_moving
 	map.on("movestart", function () {
 //	console.log("move" , guidepostsLayer.map);
 	map_moving = true;
-		 map.removeLayer(routesLayer);
 		 map.removeLayer(connectionsLayer);
+		 map.removeLayer(routesLayer);
 		 map.removeLayer(guidepostsLayer);
 		 map.removeLayer(mapsLayer);
 	}); 
 
 	map.on("moveend", function () {
 		if (routes_visible) { 
-			map.addLayer(routesLayer);
 			map.addLayer(connectionsLayer);
+			map.addLayer(routesLayer);
 		};
 		if (guideposts_visible) { map.addLayer(guidepostsLayer);};	 
 		if (maps_visible) { map.addLayer(mapsLayer);}; 
