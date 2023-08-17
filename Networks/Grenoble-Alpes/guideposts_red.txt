@@ -1,0 +1,206 @@
+var guideposts =
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-02T20:34:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444665677",
+        "ele": "1610",
+        "information": "guidepost",
+        "name": "Pré Achard",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5774616,
+          44.9954244
+        ]
+      },
+      "id": "node/444665677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444665678",
+        "ele": "1593",
+        "information": "guidepost",
+        "name": "Source des Clos",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5855742,
+          45.0074336
+        ]
+      },
+      "id": "node/444665678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444665679",
+        "ele": "1960",
+        "information": "guidepost",
+        "name": "Pas de l'Oeille",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5839512,
+          45.0150249
+        ]
+      },
+      "id": "node/444665679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/457482359",
+        "information": "guidepost",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5942918,
+          45.0132266
+        ]
+      },
+      "id": "node/457482359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/457482573",
+        "ele": "1188",
+        "information": "guidepost",
+        "name": "Chaussoneyre",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6009675,
+          45.0085658
+        ]
+      },
+      "id": "node/457482573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/457482657",
+        "ele": "1190",
+        "information": "guidepost",
+        "name": "La Queue de la Cavale",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6007522,
+          45.0010694
+        ]
+      },
+      "id": "node/457482657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/457482818",
+        "ele": "1155",
+        "information": "guidepost",
+        "name": "Col de l'Arzelier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5950566,
+          44.9919518
+        ]
+      },
+      "id": "node/457482818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/457482821",
+        "ele": "1155",
+        "information": "guidepost",
+        "name": "Col de l'Arzelier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5954585,
+          44.9907717
+        ]
+      },
+      "id": "node/457482821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/457485560",
+        "ele": "1150",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Anémones",
+        "note": "Pré du Playnet 1h10 1.9km ⬆ Prélenfrey 1h 3.7km ⬅ Châtelard 25mn 1.6km ⬅ Col de Soliet 1h05 2.3km ➡ Pont des Runes 15mn 1km ➡ Château-Bernard 45mn 2.6km ➡️",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5963906,
+          44.9899559
+        ]
+      },
+      "id": "node/457485560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/490275299",
+        "ele": "1530",
+        "information": "guidepost",
+        "name": "Sous le Ranc des Agnelons",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5975,
+          45.0339
+        ]
+      },
+      "id": "node/490275299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11020843463",
+        "information": "guidepost",
+        "source": "RTK GNSS",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8043485,
+          45.1595263
+        ]
+      },
+      "id": "node/11020843463"
+    }
+  ]
+}
