@@ -29,7 +29,7 @@
   </head>
 <body>
 <div id="main">
-  <img id="header" style= "display:block; position:absolute; left:150px; height: 150px" src="image_header.jpg">
+  <img id="header" style= "display:block; position:absolute; left:120px; height: 150px" src="image_header.jpg">
   <div id= "map" >
 	<iframe id="iframeMap" width="100%" height="380px" frameborder="10" allowfullscreen src=".\Networks\Bassin-d'Aubenas.html"></iframe>
   </div> 
@@ -38,23 +38,24 @@
 		<div style = "text-align:center;">---------------------------------------------</div>
 	  
 
-	&nbsp&nbsp&nbspCette carte interactive permet d'éditer un trajet dans un réseau complet de sentiers et de carrefours.<br>
-	&nbsp&nbsp&nbspLe réseau est celui de la communauté de communes du Bassin d'Aubenas.<br><br>   
-	<div>
-	&nbsp&nbsp&nbsp  Bouton <img src="network_map/icons/icon-circuit.png" style="height:18px"> pour commencer.
+	&nbsp&nbsp&nbsp Cette carte interactive permet d'éditer un trajet dans un réseau complet de sentiers et de carrefours.<br>
+	&nbsp&nbsp&nbsp Le réseau est celui de la communauté de communes du Bassin d'Aubenas.<br><br>   
+	&nbsp&nbsp&nbsp Les mouvements de carte sont plus fluides en décochant l'affichage des panneaux (en haut à droite).<br>
+	&nbsp&nbsp&nbsp L'édition est plus facile en plein écran.
+	<button id= "b_fullscreen" style="position:absolute; right: 10px; background-color: lightgray">Plein écran -></button>
+	<br>
+	&nbsp&nbsp&nbsp (Touche <i>Echap</i> pour quitter le mode plein écran).  
+	<div><br>
+	&nbsp&nbsp&nbsp Pour éditer, bouton <img src="network_map/icons/icon-circuit.png" style="height:18px"> pour commencer.
 	</div>
-	&nbsp&nbsp&nbsp Cliquer sur un des carrefours pour définir le point de départ.   <br>
+	&nbsp&nbsp&nbsp Cliquer sur un des carrefours pour définir le départ.   <br>
 
 	&nbsp&nbsp&nbsp Cliquer ensuite de proche en proche sur les carrefours en orange pour construire le circuit.
 	<div>
-	&nbsp&nbsp&nbsp Cliquer sur <img src="network_map/icons/icon-undo.png" style="height:16px"> pour revenir en arrière.</div>
+	&nbsp&nbsp&nbsp <img src="network_map/icons/icon-undo.png" style="height:16px"> pour revenir en arrière.</div>
 	<div>
 	&nbsp&nbsp&nbsp Lorsque le circuit est terminé,  
-	<img src="network_map/icons/icon-download.png" style="height:16px"> pour télécharger le circuit,<img src="network_map/icons/icon-end.png" style="height:16px"> pour revenir à la carte.</div><br>
-	L'édition est plus facile en plein écran.
-	<button id= "b_fullscreen" style="position:absolute; right: 10px; background-color: slategray">Plein écran -></button>
-	<br>
-	&nbsp&nbsp&nbsp(Touche <i>Echap</i> pour quitter le mode plein écran).  
+	<img src="network_map/icons/icon-download.png" style="height:16px"> pour le télécharger en fichier .gpx,<img src="network_map/icons/icon-end.png" style="height:16px"> pour revenir à la carte.</div><br>
  </div><br>
 </div>
 
