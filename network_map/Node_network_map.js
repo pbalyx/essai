@@ -194,7 +194,7 @@ function setZoomAndCenter() {
 	var map = L.map('map', {
 		center: [46.6, 2.5],
 		zoom: 6,
-		layers: [OTMLayer, guidepostsLayer, mapsLayer, connectionsLayer, routesLayer ]
+		layers: [OTMLayer, guidepostsLayer, mapsLayer, routesLayer, connectionsLayer ]
 	});
 	L.control.scale({maxWidth: 200, imperial: false}).addTo(map);
 	
@@ -229,16 +229,16 @@ var map_moving =false; //is action directly from layerControl or from map_moving
 
 map.on("movestart", function () {
 	map_moving = true;
-	map.removeLayer(connectionsLayer);
 	map.removeLayer(routesLayer);
+	map.removeLayer(connectionsLayer);
 	map.removeLayer(guidepostsLayer);
 	map.removeLayer(mapsLayer);
 }); 
 
 map.on("moveend", function () {
 	if (routes_visible) { 
-		map.addLayer(connectionsLayer);
 		map.addLayer(routesLayer);
+		map.addLayer(connectionsLayer);
 	};
 	if (guideposts_visible) { map.addLayer(guidepostsLayer);};	 
 	if (maps_visible) { map.addLayer(mapsLayer);};
