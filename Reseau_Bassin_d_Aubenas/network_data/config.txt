@@ -1,5 +1,0 @@
-network_name = "Réseau Bassin d'Aubenas - Référence";
-
-mapCenter = "44.622, 4.38"; 
-//mapCenter = "44.57610, 4.43281"; 
-zoom = "14";

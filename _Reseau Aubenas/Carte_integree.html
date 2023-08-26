@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Réseau pédestre du Bassin d'Aubenas</title>
+    <style>
+	#texte {
+		display:block; 
+		position:absolute; 
+		left:110px;  
+		top:175px; 
+		width:360px; 
+		height:365px; 
+		padding-top: 16px;
+		padding-left: 10px;
+		padding-right: 10px;
+		border-style:solid; border-width: 2px
+	}
+	#map {
+		display:block; 
+		position:absolute; 
+		left:500px;  
+		top:175px; 
+		width:600px
+	}
+	
+    </style>
+ 
+  </head>
+<body>
+<div id="main">
+  <img id="header" style= "display:block; position:absolute; left:120px; height: 160px" src=".\Aubenas.jpg">
+  <div id= "map" >
+	<iframe id="iframeMap" width="100%" height="380px" frameborder="10" allowfullscreen src=".\network_map\Node_network_map.html"></iframe>
+  </div> 
+	<div id= "texte" >
+		<div style = "text-align:center;"> <b><i>Réseau pédestre du Bassin d'Aubenas</i></b></div>
+		<div style = "text-align:center;">---------------------------------------------</div>
+	
+		&nbsp&nbsp&nbsp La communauté de communes du Bassin d'Aubenas prend en charge 600 km de sentiers de randonnée d’intérêt communautaire.<br><br>
+		
+		&nbsp&nbsp&nbsp Cette carte présente le réseau complet de sentiers et de carrefours.<br>
+		
+		&nbsp&nbsp&nbsp Les étiquettes bleues sont les panneaux de carrefour, les étiquettes jaunes les plans, les trajets sont en bleu.<br>
+		   
+		&nbsp&nbsp&nbsp En cliquant sur un panneau ou un trajet on obtient des informations supplémentaires sur les altitudes, les distances et les dénivelés.<br><br>
+		&nbsp&nbsp&nbsp Cliquer ci-dessous pour mettre la carte en plein écran (touche <i>Echap</i> pour quitter le mode plein écran). <br><br>
+		
+		<button id= "b_fullscreen" style="position:absolute; right: 10px;">Plein écran -></button>
+     </div>
+</div>
+
+<script>
+b_fullscreen.onclick = setFullScreen;
+function setFullScreen() {
+	document.getElementById('iframeMap').requestFullscreen();
+}
+
+</script>
+</body>
+</html>
+	
