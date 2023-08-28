@@ -1,5 +1,5 @@
 ///
-const version ="V_1.3";
+const version ="V_1.3.1";
 window.onload = (event) => {
 	console.log("version : ", version);
 	//console.log("test_button ", test_button);
@@ -17,25 +17,25 @@ window.onload = (event) => {
 //region OTM
 	var OTMLayer = L.tileLayer('https://a.tile.opentopomap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
-		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>;<a href="https://www.opentopomap.org/">OpenTopoMap</a>'
+		attribution: '&copy  <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a href="https://www.opentopomap.org/">OpenTopoMap</a> | <a href="https://www.openstreetmap.org/user/pb07/diary">pb07</a>'
 	}); 
 
 //region OSM/ 	
 var OSMLayer = L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
 		maxZoom: 19,
-		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+		attribution: '&copy <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a href="https://www.openstreetmap.org/user/pb07/diary">pb07</a>'
 	});	
 
 // region PlanIGN
 	var PlanIGNLayer = L.tileLayer('https://wxs.ign.fr/pratique/wmts/?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image%2Fpng', {
 		maxZoom: 19,
-		attribution: '&copy; <a href="https://geoservices.ign.fr/planign">Plan IGN</a>'
+		attribution: '&copy; <a href="https://geoservices.ign.fr/planign">Plan IGN</a> | <a href="https://www.openstreetmap.org/user/pb07/diary">pb07</a>'
 	});
 
 // region IGNPhoto
 	var IGNPhoto = L.tileLayer('https://wxs.ign.fr/pratique/wmts/?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image%2Fjpeg', {
 		maxZoom: 19,
-		attribution: '&copy; <a href="[[https://www.geoportail.gouv.fr/depot/api/cgu/CGU_API_libre.pdf|{{https://wxs.ign.fr/static/logos/IGN/IGN.gif|32}}]]">IGN Image aérienne</a>'
+		attribution: '&copy; <a href="[[https://www.geoportail.gouv.fr/depot/api/cgu/CGU_API_libre.pdf|{{https://wxs.ign.fr/static/logos/IGN/IGN.gif|32}}]]">IGN Image aérienne</a> | <a href="https://www.openstreetmap.org/user/pb07/diary">pb07</a>'
 	});
 
 //endregion
