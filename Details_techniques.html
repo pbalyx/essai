@@ -41,7 +41,7 @@
 	<div id= "main">
     <h1>Affichage d'un réseau avec Node_network_map</h1>
 
-	<p style="text-align: center"><i><b>page en cours de modification</b></i></p>		
+<!--	<p style="text-align: center"><i><b>page en cours de modification</b></i></p>		-->
 	La carte d'affichage d'un réseau est conçue pour être sous la forme d'une page html autonome, utilisable localement soit sur un serveur soit sur un poste de travail. Les seuls appels extérieurs sont effectués vers les serveurs fournissant l'affichage des cartes de fond.
 	<h2>Organisation des répertoires</h2>
 	Le moteur d'affichage de la carte et les données géographiques du réseau sont séparés en deux sous-dossiers nommés par défaut : <i>network_map</i> et <i>network_data</i>.<br>
@@ -74,7 +74,7 @@
 	&nbsp&nbsp&nbsp <i><b>-- routes</b></i> : itinéraires entre les carrefours.<br>
 	&nbsp&nbsp&nbsp <i><b>-- guideposts</b></i> : poteaux avec des lames directionnelles situés aux intersections. <br>	
 	&nbsp&nbsp&nbsp <i><b>-- maps</b></i> : panneaux montrant des plans schématiques du réseau, situés en général dans les villages.<br>
-	&nbsp&nbsp&nbsp <i><b>-- connections</b></i> : itinéraires de liaisons entre carrefours appartenant à des réseaux différents. Ces itinéraires peuvent être classés à part car certains gestionnaires de réseau préfèrent qu'ils n'apparaissent que dans la partie appartenant au réseau. Si ce n'est pas le cas, ils peuvent être groupés avec les routes et ce fichier est laissé vide. <br>
+	&nbsp&nbsp&nbsp <i><b>-- connections</b></i> : pour les itinéraires entre carrefours allant vers des réseaux différents, les itinéraires dans <i> connections</i> surchargent la partie n'appartenant pas au réseau d'une couleur différente. <br>
 	
 	<h3>Fichier de configuration</h3>
 	Comme pour les données du réseau, ce fichier vient surcharger les valeurs par défaut de paramètres définis et initialisés préalablement. L'absence d'une donnée ne provoque donc pas d'erreur.<br>
