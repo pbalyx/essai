@@ -65,11 +65,11 @@
 	Les données géographiques sont acquises sous forme de fichier Geojson qui peuvent être obtenus directement depuis OpenStreetMap par une requête Overpass.<br>
 	Cependant, en javascript, on ne peut pas lire des fichiers locaux directement depuis une page html  (rejet requête CORS...). Pour contourner cette difficulté, ces fichiers sont lus au chargement de la page en tant que script de Javascript. Il suffit pour cela de rajouter une première ligne supplémentaire<br>
  	<i>varname</i> =<br> 
-	 <i>varname</i> étant le nom prédéfini de la donnée géographique. Ces noms sont détaillés ci-dessous. Le fichier ainsi complété est stocké sous forme d'un fichier texte <i>varname.txt</i>  dans le répertoire <i>network_data</i>.<br>
+	 <i>varname</i> étant le nom prédéfini de la donnée géographique. Ces noms sont détaillés ci-dessous. Le fichier ainsi complété est stocké sous forme d'un fichier Javascript <i>varname.js</i>  dans le répertoire <i>network_data</i>.<br>
 	Toutes les variables sont déclarées et initialisées dans le script principal. Elles sont surchargées par les valeurs lues dans les fichiers scripts. Pour les données optionnelles, quand il n'y a rien à ajouter, il est préférable que le fichier existe mais il peut être vide.<br>
 	
 	<h3>Données du réseau</h3>
-	Comme indiqué ci-dessus, ces données sont groupées dans des fichiers texte (.txt) avec des noms prédéfinis. <br>
+	Comme indiqué ci-dessus, ces données sont groupées dans des fichiers Javascript (.js) avec des noms <i>varname</i> prédéfinis. <br>
 	Les différentes couches de données sont ; <br>
 	&nbsp&nbsp&nbsp <i><b>-- routes</b></i> : itinéraires entre les carrefours.<br>
 	&nbsp&nbsp&nbsp <i><b>-- guideposts</b></i> : poteaux avec des lames directionnelles situés aux intersections. <br>	
