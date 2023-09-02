@@ -1,4 +1,4 @@
-network_name = "Réseau Bassin d'Aubenas _ js";
+network_name = "Réseau Bassin d'Aubenas";
 //test_button = true;
 //network_router = true;
 //mapCenter = "45.1447, 5.7266"; 
