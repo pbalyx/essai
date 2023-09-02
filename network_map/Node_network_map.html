@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8"> 
-    <title>Node_network_map V_1.3.1</title>
+    <title>Node_network_map V_1.3.2</title>
 			 
 	<link rel="stylesheet" type="text/css" href="leaflet_src/leaflet.css">
 	 
@@ -129,19 +129,19 @@ Scripts créés dynamiquement pour avoir le choix du dossier Network_data
 	document.body.appendChild(config_script);
 	
 	const routes_script = document.createElement('script');
-	routes_script.src = Network_data_dir + '/routes.txt';
+	routes_script.src = Network_data_dir + '/routes.js';
 	document.body.appendChild(routes_script);
 	
 	const connections_script = document.createElement('script');
-	connections_script.src = Network_data_dir + '/connections.txt';
+	connections_script.src = Network_data_dir + '/connections.js';
 	document.body.appendChild(connections_script);
 	
 	const guideposts_script = document.createElement('script');
-	guideposts_script.src = Network_data_dir + '/guideposts.txt';
+	guideposts_script.src = Network_data_dir + '/guideposts.js';
 	document.body.appendChild(guideposts_script);
 	
 	const maps_script = document.createElement('script');
-	maps_script.src = Network_data_dir + '/network_maps.txt';
+	maps_script.src = Network_data_dir + '/network_maps.js';
 	document.body.appendChild(maps_script);
 	
   </script>

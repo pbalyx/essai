@@ -1,5 +1,5 @@
 ///
-const version ="V_1.3.1";
+const version ="V_1.3.2";
 window.onload = (event) => {
 	console.log("version : ", version);
 	//console.log("test_button ", test_button);
