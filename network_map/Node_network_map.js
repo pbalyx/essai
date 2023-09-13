@@ -1,5 +1,5 @@
 ///
-const version ="V_1.3.2";
+const version ="V_1.3.3";
 window.onload = (event) => {
 	console.log("version : ", version);
 	//console.log("test_button ", test_button);
@@ -520,7 +520,7 @@ function updateInfo() {
 	var distStr = totalDist.toFixed(2);
 	var denivPlusStr = denivPlus.toFixed(0);
 	var denivMoinsStr = denivMoins.toFixed(0);
-	info_status.innerHTML = "";
+	//info_status.innerHTML = "";
 	info_dist.innerHTML = " Longueur : " + distStr  + " km,";
 	info_ascent.innerHTML = "Montée : " + denivPlusStr 
 						  + " m,   Descente : " + denivMoinsStr +  " m";
@@ -634,7 +634,8 @@ function set_largeNodes(setBig) {
 }
 
 function set_circuitMode() {
-	info_status.innerHTML = "";
+	info_status.innerHTML = "Edition en cours";
+	info_status.style.backgroundColor = "gold";
 	isTrackMode = true;
 	set_largeNodes(true);
 	currentNode = undefined;
@@ -724,6 +725,7 @@ function downloadFile() {
 //	console.log("download point" , trkptNode(circuitRoutes[0][0]));
 	var gpxStr = build_gpx();
 	writeFile(gpxStr, fileNameToSave);
+	info_status.style.backgroundColor = "Aqua";
 	info_status.innerHTML = "--- fichier <i>circuit.gpx</i> enregistré --- ";
 //	info_dist.innerHTML = "";
 //	info_ascent.innerHTML = "";
