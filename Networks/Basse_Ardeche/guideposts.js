@@ -1,4 +1,4 @@
-guideposts = 
+guideposts =
 {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
@@ -109,6 +109,7 @@ guideposts =
         "@id": "node/2832499033",
         "ele": "1320",
         "expected_lwn_route_relations": "2",
+        "hiking": "yes",
         "information": "guidepost",
         "lwn_ref": "Pétaloup",
         "name": "Pétaloup",
@@ -153,6 +154,7 @@ guideposts =
       "properties": {
         "@id": "node/3578177932",
         "ele": "149",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Serre Bouchet",
         "tourism": "information"
@@ -171,6 +173,7 @@ guideposts =
       "properties": {
         "@id": "node/3578179854",
         "ele": "335",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Serre Juillet",
         "tourism": "information"
@@ -189,6 +192,7 @@ guideposts =
       "properties": {
         "@id": "node/3578187613",
         "ele": "255",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Mourades",
         "tourism": "information"
@@ -207,6 +211,7 @@ guideposts =
       "properties": {
         "@id": "node/4029708386",
         "ele": "775",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col des Fraysses",
         "tourism": "information"
@@ -401,6 +406,7 @@ guideposts =
         "@id": "node/4360614826",
         "ele": "245",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bois des Bruyères",
         "tourism": "information"
@@ -419,6 +425,7 @@ guideposts =
       "properties": {
         "@id": "node/4360614827",
         "ele": "180",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chat du Devès",
         "tourism": "information"
@@ -437,6 +444,7 @@ guideposts =
       "properties": {
         "@id": "node/4360614828",
         "ele": "120",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Ferrière",
         "tourism": "information"
@@ -455,6 +463,7 @@ guideposts =
       "properties": {
         "@id": "node/4360614830",
         "ele": "225",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Épingle",
         "tourism": "information"
@@ -473,6 +482,7 @@ guideposts =
       "properties": {
         "@id": "node/4360614832",
         "ele": "245",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Lastic",
         "tourism": "information"
@@ -492,6 +502,7 @@ guideposts =
         "@id": "node/4360614833",
         "ele": "180",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pertus",
         "name:oc": "Lo Pertús",
@@ -513,6 +524,7 @@ guideposts =
       "properties": {
         "@id": "node/4360614834",
         "ele": "265",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Hubasses",
         "tourism": "information"
@@ -531,6 +543,7 @@ guideposts =
       "properties": {
         "@id": "node/4360614835",
         "ele": "105",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont de Lantousse",
         "tourism": "information"
@@ -550,6 +563,7 @@ guideposts =
         "@id": "node/4360614836",
         "ele": "100",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Salavas",
         "tourism": "information"
@@ -568,6 +582,7 @@ guideposts =
       "properties": {
         "@id": "node/4479810912",
         "ele": "854",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Font Rognon",
         "tourism": "information"
@@ -648,6 +663,7 @@ guideposts =
       "properties": {
         "@id": "node/4810460345",
         "ele": "700",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Dent de Rez",
         "survey:date": "2020-03-09",
@@ -667,6 +683,7 @@ guideposts =
       "properties": {
         "@id": "node/4810505086",
         "ele": "440",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Laulagnier",
         "survey:date": "2020-03-09",
@@ -686,6 +703,7 @@ guideposts =
       "properties": {
         "@id": "node/4818349396",
         "ele": "125",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Trouillères",
         "tourism": "information"
@@ -725,6 +743,7 @@ guideposts =
       "properties": {
         "@id": "node/5041762401",
         "ele": "280",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont Neuf",
         "tourism": "information"
@@ -743,6 +762,7 @@ guideposts =
       "properties": {
         "@id": "node/5041762991",
         "ele": "384",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Clos",
         "tourism": "information"
@@ -761,6 +781,7 @@ guideposts =
       "properties": {
         "@id": "node/5656798596",
         "ele": "144",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Vernades",
         "survey:date": "2018-03-17",
@@ -984,6 +1005,7 @@ guideposts =
       "properties": {
         "@id": "node/5911778370",
         "ele": "100",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Béal",
         "tourism": "information"
@@ -1002,6 +1024,7 @@ guideposts =
       "properties": {
         "@id": "node/5911778767",
         "ele": "185",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Champagnac",
         "tourism": "information"
@@ -1020,6 +1043,7 @@ guideposts =
       "properties": {
         "@id": "node/5911778896",
         "ele": "125",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Beaume",
         "survey:date": "2023-02-27",
@@ -1217,6 +1241,7 @@ guideposts =
       "properties": {
         "@id": "node/6388901944",
         "ele": "260",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Combe Veyras",
         "tourism": "information"
@@ -1997,6 +2022,7 @@ guideposts =
         "@id": "node/7028025133",
         "ele": "575",
         "ele:signed": "575",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Village",
         "survey:date": "2022-11-29",
@@ -2017,6 +2043,7 @@ guideposts =
         "@id": "node/7028025134",
         "ele": "585",
         "ele:signed": "585",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Village Haut",
         "survey:date": "2022-11-29",
@@ -2036,6 +2063,7 @@ guideposts =
       "properties": {
         "@id": "node/7028025135",
         "ele": "732",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chez Ceysson",
         "survey:date": "2019-12-02",
@@ -2055,6 +2083,7 @@ guideposts =
       "properties": {
         "@id": "node/7028025136",
         "ele": "470",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Fabrias",
         "survey:date": "2019-12-02",
@@ -2074,6 +2103,7 @@ guideposts =
       "properties": {
         "@id": "node/7040060374",
         "ele": "210",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Pierre",
         "survey:date": "2020-03-20",
@@ -2093,6 +2123,7 @@ guideposts =
       "properties": {
         "@id": "node/7040060375",
         "ele": "200",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Chazes",
         "survey:date": "2022-03-20",
@@ -2112,6 +2143,7 @@ guideposts =
       "properties": {
         "@id": "node/7040812124",
         "ele": "220",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Château d'eau",
         "survey:date": "2022-11-26",
@@ -2131,6 +2163,7 @@ guideposts =
       "properties": {
         "@id": "node/7040812125",
         "ele": "220",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Cerice",
         "survey:date": "2022-11-26",
@@ -2150,6 +2183,7 @@ guideposts =
       "properties": {
         "@id": "node/7047214140",
         "ele": "205",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Réméjadou",
         "survey:date": "2021-12-13",
@@ -2169,6 +2203,7 @@ guideposts =
       "properties": {
         "@id": "node/7049491454",
         "ele": "200",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Robert",
         "tourism": "information"
@@ -2187,6 +2222,7 @@ guideposts =
       "properties": {
         "@id": "node/7049491455",
         "ele": "128",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Peyroche",
         "survey:date": "2023-02-27",
@@ -2206,6 +2242,7 @@ guideposts =
       "properties": {
         "@id": "node/7049952114",
         "ele": "217",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Abeille",
         "tourism": "information"
@@ -2224,6 +2261,7 @@ guideposts =
       "properties": {
         "@id": "node/7049952115",
         "ele": "250",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Remène",
         "survey:date": "2022-03-07",
@@ -2243,6 +2281,7 @@ guideposts =
       "properties": {
         "@id": "node/7049952116",
         "ele": "232",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Rouseiret",
         "survey:date": "2022-03-07",
@@ -2262,6 +2301,7 @@ guideposts =
       "properties": {
         "@id": "node/7050058806",
         "ele": "149",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chauzon",
         "tourism": "information"
@@ -2280,6 +2320,7 @@ guideposts =
       "properties": {
         "@id": "node/7050058807",
         "ele": "163",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Traverses",
         "tourism": "information"
@@ -2298,6 +2339,7 @@ guideposts =
       "properties": {
         "@id": "node/7050058808",
         "ele": "140",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Voie Ferrée",
         "tourism": "information"
@@ -2316,6 +2358,7 @@ guideposts =
       "properties": {
         "@id": "node/7050058809",
         "ele": "150",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Granges",
         "tourism": "information"
@@ -2334,6 +2377,7 @@ guideposts =
       "properties": {
         "@id": "node/7050058810",
         "ele": "165",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Blaches",
         "tourism": "information"
@@ -2352,6 +2396,7 @@ guideposts =
       "properties": {
         "@id": "node/7050058811",
         "ele": "175",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Planas",
         "tourism": "information"
@@ -2370,6 +2415,7 @@ guideposts =
       "properties": {
         "@id": "node/7056829955",
         "ele": "155",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Servières",
         "tourism": "information"
@@ -2388,6 +2434,7 @@ guideposts =
       "properties": {
         "@id": "node/7056829956",
         "ele": "160",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Chabasses",
         "tourism": "information"
@@ -2406,6 +2453,7 @@ guideposts =
       "properties": {
         "@id": "node/7056829957",
         "ele": "220",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chazette",
         "tourism": "information"
@@ -2424,6 +2472,7 @@ guideposts =
       "properties": {
         "@id": "node/7056829958",
         "ele": "230",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Clauzel",
         "tourism": "information"
@@ -2442,6 +2491,7 @@ guideposts =
       "properties": {
         "@id": "node/7058707764",
         "ele": "140",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Viaduc",
         "tourism": "information"
@@ -2460,6 +2510,7 @@ guideposts =
       "properties": {
         "@id": "node/7058707765",
         "ele": "343",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Serre de Rimbaud",
         "tourism": "information"
@@ -2478,6 +2529,7 @@ guideposts =
       "properties": {
         "@id": "node/7086634663",
         "ele": "140",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pont",
         "tourism": "information"
@@ -2496,6 +2548,7 @@ guideposts =
       "properties": {
         "@id": "node/7086634664",
         "ele": "253",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Mare",
         "tourism": "information"
@@ -2514,6 +2567,7 @@ guideposts =
       "properties": {
         "@id": "node/7086634665",
         "ele": "272",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Barsac",
         "tourism": "information"
@@ -2532,6 +2586,7 @@ guideposts =
       "properties": {
         "@id": "node/7086634666",
         "ele": "145",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Lanas",
         "tourism": "information"
@@ -2550,6 +2605,7 @@ guideposts =
       "properties": {
         "@id": "node/7086634667",
         "ele": "155",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Lanas Centre",
         "tourism": "information"
@@ -2568,6 +2624,7 @@ guideposts =
       "properties": {
         "@id": "node/7086634668",
         "ele": "290",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Gras",
         "tourism": "information"
@@ -2587,6 +2644,7 @@ guideposts =
         "@id": "node/7086634669",
         "ele": "315",
         "ele:signed": "315",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Serre de Vinobre",
         "note": "Panneau incliné, presque arraché",
@@ -2607,6 +2665,7 @@ guideposts =
       "properties": {
         "@id": "node/7133381882",
         "ele": "480",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Andeol Nord",
         "tourism": "information"
@@ -2625,6 +2684,7 @@ guideposts =
       "properties": {
         "@id": "node/7133381883",
         "ele": "492",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Mas de Nevissac",
         "tourism": "information"
@@ -2643,6 +2703,7 @@ guideposts =
       "properties": {
         "@id": "node/7133381884",
         "ele": "609",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Grange",
         "tourism": "information"
@@ -2661,6 +2722,7 @@ guideposts =
       "properties": {
         "@id": "node/7133384285",
         "ele": "620",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Grange",
         "tourism": "information"
@@ -2679,6 +2741,7 @@ guideposts =
       "properties": {
         "@id": "node/7133384396",
         "ele": "555",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Peyron",
         "tourism": "information"
@@ -2697,6 +2760,7 @@ guideposts =
       "properties": {
         "@id": "node/7133384397",
         "ele": "575",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Mazel",
         "tourism": "information"
@@ -2715,6 +2779,7 @@ guideposts =
       "properties": {
         "@id": "node/7133384398",
         "ele": "684",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Coulet du Vernadel",
         "tourism": "information"
@@ -2733,6 +2798,7 @@ guideposts =
       "properties": {
         "@id": "node/7134038497",
         "ele": "208",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Poisson",
         "survey:date": "2020-01-15",
@@ -2752,6 +2818,7 @@ guideposts =
       "properties": {
         "@id": "node/7134038498",
         "ele": "282",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Houme",
         "tourism": "information"
@@ -2770,6 +2837,7 @@ guideposts =
       "properties": {
         "@id": "node/7137560438",
         "ele": "210",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Bouchets",
         "tourism": "information"
@@ -2788,6 +2856,7 @@ guideposts =
       "properties": {
         "@id": "node/7141378830",
         "ele": "381",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Granges Crémades",
         "tourism": "information"
@@ -2806,6 +2875,7 @@ guideposts =
       "properties": {
         "@id": "node/7141378831",
         "ele": "403",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Combes",
         "tourism": "information"
@@ -2824,6 +2894,7 @@ guideposts =
       "properties": {
         "@id": "node/7141378832",
         "ele": "462",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Table d'orientation",
         "tourism": "information"
@@ -2842,6 +2913,7 @@ guideposts =
       "properties": {
         "@id": "node/7141378833",
         "ele": "462",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Coste d'Haut",
         "tourism": "information"
@@ -2860,6 +2932,7 @@ guideposts =
       "properties": {
         "@id": "node/7141378835",
         "ele": "403",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bosc",
         "tourism": "information"
@@ -2878,6 +2951,7 @@ guideposts =
       "properties": {
         "@id": "node/7141378836",
         "ele": "350",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bois Vert",
         "tourism": "information"
@@ -2896,6 +2970,7 @@ guideposts =
       "properties": {
         "@id": "node/7157100873",
         "ele": "250",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Ucel",
         "tourism": "information"
@@ -2914,6 +2989,7 @@ guideposts =
       "properties": {
         "@id": "node/7157100874",
         "ele": "251",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Ucel Village",
         "tourism": "information"
@@ -2932,6 +3008,7 @@ guideposts =
       "properties": {
         "@id": "node/7157100875",
         "ele": "264",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Grand Village",
         "tourism": "information"
@@ -2950,6 +3027,7 @@ guideposts =
       "properties": {
         "@id": "node/7157100876",
         "ele": "308",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Mas d'Ucel",
         "tourism": "information"
@@ -2968,6 +3046,7 @@ guideposts =
       "properties": {
         "@id": "node/7157100877",
         "ele": "281",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Villa Paradis",
         "tourism": "information"
@@ -2986,6 +3065,7 @@ guideposts =
       "properties": {
         "@id": "node/7157103488",
         "ele": "330",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Peintre",
         "tourism": "information"
@@ -3004,6 +3084,7 @@ guideposts =
       "properties": {
         "@id": "node/7159128283",
         "ele": "250",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chambon",
         "tourism": "information"
@@ -3022,6 +3103,7 @@ guideposts =
       "properties": {
         "@id": "node/7159128284",
         "ele": "321",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Téoule",
         "tourism": "information"
@@ -3040,6 +3122,7 @@ guideposts =
       "properties": {
         "@id": "node/7167151576",
         "ele": "345",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Suel",
         "tourism": "information"
@@ -3079,6 +3162,7 @@ guideposts =
       "properties": {
         "@id": "node/7175747117",
         "ele": "220",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Petit Chaussy",
         "tourism": "information"
@@ -3097,6 +3181,7 @@ guideposts =
       "properties": {
         "@id": "node/7175747118",
         "ele": "236",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Trappe Loup",
         "tourism": "information"
@@ -3115,6 +3200,7 @@ guideposts =
       "properties": {
         "@id": "node/7175747119",
         "ele": "128",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Faysses",
         "tourism": "information"
@@ -3133,6 +3219,7 @@ guideposts =
       "properties": {
         "@id": "node/7175747120",
         "ele": "128",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Serre de Nicard",
         "tourism": "information"
@@ -3151,6 +3238,7 @@ guideposts =
       "properties": {
         "@id": "node/7199732526",
         "ele": "302",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bréchignac",
         "tourism": "information"
@@ -3169,6 +3257,7 @@ guideposts =
       "properties": {
         "@id": "node/7212239458",
         "ele": "250",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bayssac",
         "survey:date": "2020-02-14",
@@ -3188,6 +3277,7 @@ guideposts =
       "properties": {
         "@id": "node/7212243719",
         "ele": "235",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Lavilledieu (Le Feu)",
         "tourism": "information"
@@ -3205,6 +3295,7 @@ guideposts =
       "type": "Feature",
       "properties": {
         "@id": "node/7212243720",
+        "hiking": "yes",
         "information": "guidepost",
         "tourism": "information"
       },
@@ -3222,6 +3313,7 @@ guideposts =
       "properties": {
         "@id": "node/7255791982",
         "ele": "205",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont d'Aubenas",
         "tourism": "information"
@@ -3240,6 +3332,7 @@ guideposts =
       "properties": {
         "@id": "node/7255791983",
         "ele": "214",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont d'Ucel",
         "tourism": "information"
@@ -3258,6 +3351,7 @@ guideposts =
       "properties": {
         "@id": "node/7255791984",
         "ele": "380",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Taillades",
         "tourism": "information"
@@ -3276,6 +3370,7 @@ guideposts =
       "properties": {
         "@id": "node/7255816896",
         "ele": "265",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Mias",
         "survey:date": "2020-03-15",
@@ -3295,6 +3390,7 @@ guideposts =
       "properties": {
         "@id": "node/7272592210",
         "ele": "169",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Maurice d'Ardèche",
         "tourism": "information"
@@ -3313,6 +3409,7 @@ guideposts =
       "properties": {
         "@id": "node/7272592211",
         "ele": "155",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chalouzet",
         "tourism": "information"
@@ -3331,6 +3428,7 @@ guideposts =
       "properties": {
         "@id": "node/7272592212",
         "ele": "198",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chaussy",
         "tourism": "information"
@@ -3349,6 +3447,7 @@ guideposts =
       "properties": {
         "@id": "node/7272592213",
         "ele": "163",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Planche",
         "tourism": "information"
@@ -3367,6 +3466,7 @@ guideposts =
       "properties": {
         "@id": "node/7272592214",
         "ele": "310",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Hameau de Leyris",
         "tourism": "information"
@@ -3385,6 +3485,7 @@ guideposts =
       "properties": {
         "@id": "node/7272592215",
         "ele": "305",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Clos",
         "tourism": "information"
@@ -3403,6 +3504,7 @@ guideposts =
       "properties": {
         "@id": "node/7272592216",
         "ele": "195",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Rochecolombe",
         "tourism": "information"
@@ -3421,6 +3523,7 @@ guideposts =
       "properties": {
         "@id": "node/7272592217",
         "ele": "286",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Ron Chamorel",
         "tourism": "information"
@@ -3439,6 +3542,7 @@ guideposts =
       "properties": {
         "@id": "node/7272592218",
         "ele": "342",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Baux",
         "tourism": "information"
@@ -3458,6 +3562,7 @@ guideposts =
         "@id": "node/7272592266",
         "ele": "142",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Moulin",
         "survey:date": "2023-05-12",
@@ -3477,6 +3582,7 @@ guideposts =
       "properties": {
         "@id": "node/7280402741",
         "ele": "375",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Palas",
         "tourism": "information"
@@ -3495,6 +3601,7 @@ guideposts =
       "properties": {
         "@id": "node/7280402742",
         "ele": "420",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Clos de Vernet",
         "tourism": "information"
@@ -3513,6 +3620,7 @@ guideposts =
       "properties": {
         "@id": "node/7280402743",
         "ele": "405",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Serre Donde",
         "tourism": "information"
@@ -3531,6 +3639,7 @@ guideposts =
       "properties": {
         "@id": "node/7280402744",
         "ele": "211",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pradet",
         "tourism": "information"
@@ -3549,6 +3658,7 @@ guideposts =
       "properties": {
         "@id": "node/7280402745",
         "ele": "193",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Sauveplantade",
         "tourism": "information"
@@ -3567,6 +3677,7 @@ guideposts =
       "properties": {
         "@id": "node/7280402747",
         "ele": "383",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Tête de Crespi",
         "tourism": "information"
@@ -3585,6 +3696,7 @@ guideposts =
       "properties": {
         "@id": "node/7280402748",
         "ele": "380",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Montagu",
         "tourism": "information"
@@ -3603,6 +3715,7 @@ guideposts =
       "properties": {
         "@id": "node/7280402749",
         "ele": "310",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Leyris",
         "tourism": "information"
@@ -3621,6 +3734,7 @@ guideposts =
       "properties": {
         "@id": "node/7280402750",
         "ele": "317",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Charnier",
         "tourism": "information"
@@ -3639,6 +3753,7 @@ guideposts =
       "properties": {
         "@id": "node/7280402751",
         "ele": "300",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Gras de la Fauvette",
         "survey:date": "2020-09-28",
@@ -3658,6 +3773,7 @@ guideposts =
       "properties": {
         "@id": "node/7280402752",
         "ele": "150",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Mourre Frais",
         "tourism": "information"
@@ -3677,6 +3793,7 @@ guideposts =
         "@id": "node/7280419403",
         "ele": "364",
         "ele:signed": "364",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "École",
         "survey:date": "2020-03-09",
@@ -3697,6 +3814,7 @@ guideposts =
         "@id": "node/7280419404",
         "ele": "377",
         "ele:signed": "377",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bouisset",
         "survey:date": "2020-03-09",
@@ -3717,6 +3835,7 @@ guideposts =
         "@id": "node/7280419405",
         "ele": "390",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bréchon",
         "survey:date": "2020-03-09",
@@ -3737,6 +3856,7 @@ guideposts =
         "@id": "node/7280419406",
         "ele": "525",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Gerles",
         "survey:date": "2020-03-09",
@@ -3756,6 +3876,7 @@ guideposts =
       "properties": {
         "@id": "node/7280419407",
         "ele": "605",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col d'Eyrole",
         "tourism": "information"
@@ -3775,6 +3896,7 @@ guideposts =
         "@id": "node/7280419408",
         "ele": "466",
         "ele:signed": "466",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Hameau de Gogne",
         "survey:date": "2020-03-09",
@@ -3794,6 +3916,7 @@ guideposts =
       "properties": {
         "@id": "node/7280419409",
         "ele": "435",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Serrelia",
         "survey:date": "2020-03-09",
@@ -3813,6 +3936,7 @@ guideposts =
       "properties": {
         "@id": "node/7303938345",
         "ele": "267",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Faucon",
         "survey:date": "2022-03-21",
@@ -3832,6 +3956,7 @@ guideposts =
       "properties": {
         "@id": "node/7679791200",
         "ele": "363",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chomeil",
         "tourism": "information"
@@ -3850,6 +3975,7 @@ guideposts =
       "properties": {
         "@id": "node/8567312145",
         "ele": "834",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Traverses",
         "tourism": "information"
@@ -3868,6 +3994,7 @@ guideposts =
       "properties": {
         "@id": "node/8932343581",
         "ele": "195",
+        "hiking": "yes",
         "information": "guidepost",
         "map_size": "site",
         "name": "Chadeyron",
@@ -3888,6 +4015,7 @@ guideposts =
       "properties": {
         "@id": "node/9025379237",
         "ele": "195",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Vogüé",
         "survey:date": "2022-03-20",
@@ -3907,6 +4035,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643482",
         "ele": "270",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Gibaux",
         "tourism": "information"
@@ -3925,6 +4054,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643483",
         "ele": "370",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Lazuel",
         "survey:date": "2022-11-16",
@@ -3944,6 +4074,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643484",
         "ele": "340",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Voie romaine",
         "survey:date": "2022-11-16",
@@ -3963,6 +4094,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643485",
         "ele": "370",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Lazuel Ouest",
         "survey:date": "2022-11-16",
@@ -3982,6 +4114,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643486",
         "ele": "270",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Lachamp",
         "survey:date": "2022-11-16",
@@ -4001,6 +4134,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643488",
         "ele": "285",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Louchon",
         "survey:date": "2022-11-16",
@@ -4020,6 +4154,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643489",
         "ele": "495",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Turc",
         "survey:date": "2022-11-13",
@@ -4039,6 +4174,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643490",
         "ele": "515",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Farges",
         "survey:date": "2022-11-13",
@@ -4059,6 +4195,7 @@ guideposts =
         "@id": "node/9373643491",
         "ele": "555",
         "ele:signed": "560",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Montferou",
         "survey:date": "2021-08-05",
@@ -4078,9 +4215,11 @@ guideposts =
       "properties": {
         "@id": "node/9373643492",
         "ele": "500",
+        "ele:signed": "500",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Clos de la Bernarde",
-        "survey:date": "2022-11-10",
+        "survey:date": "2023-08-06",
         "tourism": "information"
       },
       "geometry": {
@@ -4097,9 +4236,11 @@ guideposts =
       "properties": {
         "@id": "node/9373643493",
         "ele": "450",
+        "ele:signed": "450",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint Antoine",
-        "survey:date": "2022-11-10",
+        "survey:date": "2023-08-06",
         "tourism": "information"
       },
       "geometry": {
@@ -4116,6 +4257,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643494",
         "ele": "420",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Faugère",
         "survey:date": "2022-11-10",
@@ -4135,6 +4277,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643496",
         "ele": "395",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bois du Glaizal",
         "survey:date": "2022-02-25",
@@ -4154,6 +4297,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643497",
         "ele": "365",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Rode",
         "survey:date": "2022-11-10",
@@ -4173,6 +4317,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643498",
         "ele": "495",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Daüs",
         "survey:date": "2021-09-06",
@@ -4192,6 +4337,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643500",
         "ele": "470",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Plantier",
         "survey:date": "2021-09-30",
@@ -4211,6 +4357,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643501",
         "ele": "380",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont d'Aigueneyre",
         "survey:date": "2021-09-06",
@@ -4230,6 +4377,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643502",
         "ele": "495",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'École",
         "survey:date": "2022-11-29",
@@ -4249,6 +4397,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643504",
         "ele": "400",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Meygris",
         "survey:date": "2021-09-30",
@@ -4269,6 +4418,7 @@ guideposts =
         "@id": "node/9373643505",
         "ele": "410",
         "ele:signed": "410",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Granges de Védignac",
         "survey:date": "2022-12-24",
@@ -4289,6 +4439,7 @@ guideposts =
         "@id": "node/9373643506",
         "ele": "455",
         "ele:signed": "450",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Vidal Guerin",
         "survey:date": "2021-09-30",
@@ -4309,6 +4460,7 @@ guideposts =
         "@id": "node/9373643507",
         "ele": "440",
         "ele:signed": "440",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Basse Lieure",
         "survey:date": "2022-05-16",
@@ -4329,6 +4481,7 @@ guideposts =
         "@id": "node/9373643508",
         "ele": "440",
         "ele:signed": "440",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Planche",
         "survey:date": "2021-09-30",
@@ -4349,6 +4502,7 @@ guideposts =
         "@id": "node/9373643509",
         "ele": "450",
         "ele:signed": "450",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Ailhon Place",
         "survey:date": "2022-02-10",
@@ -4369,6 +4523,7 @@ guideposts =
         "@id": "node/9373643510",
         "ele": "465",
         "ele:signed": "455",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bonnes Eglises",
         "survey:date": "2022-01-30",
@@ -4388,9 +4543,11 @@ guideposts =
       "properties": {
         "@id": "node/9373643511",
         "ele": "380",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chardes",
-        "survey:date": "2022-01-30",
+        "note": "panneau vandalisé, ne reste plus que le poteau",
+        "survey:date": "2023-08-03",
         "tourism": "information"
       },
       "geometry": {
@@ -4407,6 +4564,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643512",
         "ele": "330",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bouchet",
         "survey:date": "2022-01-30",
@@ -4427,6 +4585,7 @@ guideposts =
         "@id": "node/9373643513",
         "ele": "295",
         "ele:signed": "295",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Croix du Trible",
         "survey:date": "2022-03-05",
@@ -4446,6 +4605,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643514",
         "ele": "295",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Plantades",
         "survey:date": "2022-03-05",
@@ -4465,6 +4625,7 @@ guideposts =
       "properties": {
         "@id": "node/9373643515",
         "ele": "220",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Faysses",
         "survey:date": "2022-03-05",
@@ -4484,6 +4645,7 @@ guideposts =
       "properties": {
         "@id": "node/9445344340",
         "ele": "220",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Augnac",
         "survey:date": "2022-01-24",
@@ -4503,6 +4665,7 @@ guideposts =
       "properties": {
         "@id": "node/9445344341",
         "ele": "210",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Boyer",
         "survey:date": "2022-01-24",
@@ -4522,6 +4685,7 @@ guideposts =
       "properties": {
         "@id": "node/9445344342",
         "ele": "285",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Estourels",
         "survey:date": "2022-01-24",
@@ -4541,6 +4705,7 @@ guideposts =
       "properties": {
         "@id": "node/9445344343",
         "ele": "160",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pont",
         "survey:date": "2022-01-24",
@@ -4560,6 +4725,7 @@ guideposts =
       "properties": {
         "@id": "node/9445344344",
         "ele": "155",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Église",
         "survey:date": "2022-01-24",
@@ -4580,9 +4746,10 @@ guideposts =
         "@id": "node/9465803348",
         "ele": "330",
         "ele:signed": "330",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Mas du Rosier",
-        "survey:date": "2022-01-30",
+        "survey:date": "2023-08-03",
         "tourism": "information"
       },
       "geometry": {
@@ -4600,6 +4767,7 @@ guideposts =
         "@id": "node/9465803349",
         "ele": "260",
         "ele:signed": "260",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Gaude Haut",
         "survey:date": "2022-01-30",
@@ -4620,6 +4788,7 @@ guideposts =
         "@id": "node/9465803350",
         "ele": "240",
         "ele:signed": "240",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Gaude",
         "survey:date": "2022-05-16",
@@ -4639,6 +4808,7 @@ guideposts =
       "properties": {
         "@id": "node/9466197953",
         "ele": "150",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Salastre",
         "survey:date": "2022-11-04",
@@ -4658,6 +4828,7 @@ guideposts =
       "properties": {
         "@id": "node/9466197954",
         "ele": "165",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Moulinas",
         "survey:date": "2022-11-04",
@@ -4677,6 +4848,7 @@ guideposts =
       "properties": {
         "@id": "node/9466197955",
         "ele": "170",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bouchet",
         "survey:date": "2022-11-04",
@@ -4696,6 +4868,7 @@ guideposts =
       "properties": {
         "@id": "node/9466727284",
         "ele": "120",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Château",
         "survey:date": "2021-12-13",
@@ -4715,6 +4888,7 @@ guideposts =
       "properties": {
         "@id": "node/9466727285",
         "ele": "162",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Calvaire",
         "survey:date": "2021-12-13",
@@ -4734,6 +4908,7 @@ guideposts =
       "properties": {
         "@id": "node/9466727286",
         "ele": "174",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Dolmen",
         "survey:date": "2021-12-13",
@@ -4753,6 +4928,7 @@ guideposts =
       "properties": {
         "@id": "node/9466727287",
         "ele": "110",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Cimetière",
         "survey:date": "2021-12-13",
@@ -4772,6 +4948,7 @@ guideposts =
       "properties": {
         "@id": "node/9466727288",
         "ele": "118",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bourdaric",
         "tourism": "information"
@@ -4790,6 +4967,7 @@ guideposts =
       "properties": {
         "@id": "node/9482864416",
         "ele": "255",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Grangette",
         "tourism": "information"
@@ -4808,6 +4986,7 @@ guideposts =
       "properties": {
         "@id": "node/9482918717",
         "ele": "260",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bouchard",
         "tourism": "information"
@@ -4826,6 +5005,7 @@ guideposts =
       "properties": {
         "@id": "node/9482918724",
         "ele": "105",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint Alban",
         "tourism": "information"
@@ -4845,6 +5025,7 @@ guideposts =
         "@id": "node/9487441320",
         "ele": "185",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Piles",
         "survey:date": "2022-02-07",
@@ -4864,6 +5045,7 @@ guideposts =
       "properties": {
         "@id": "node/9487441321",
         "ele": "275",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Mas Gauthier",
         "survey:date": "2022-02-07",
@@ -4883,6 +5065,7 @@ guideposts =
       "properties": {
         "@id": "node/9487441322",
         "ele": "310",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Toufache",
         "survey:date": "2022-02-07",
@@ -4902,6 +5085,7 @@ guideposts =
       "properties": {
         "@id": "node/9487441326",
         "ele": "290",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Delbara",
         "survey:date": "2022-02-07",
@@ -4921,6 +5105,7 @@ guideposts =
       "properties": {
         "@id": "node/9487441327",
         "ele": "255",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Blancards",
         "survey:date": "2022-02-07",
@@ -4940,6 +5125,7 @@ guideposts =
       "properties": {
         "@id": "node/9487441328",
         "ele": "200",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Calade",
         "survey:date": "2022-02-07",
@@ -4959,6 +5145,7 @@ guideposts =
       "properties": {
         "@id": "node/9487441329",
         "ele": "190",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Lavoir",
         "tourism": "information"
@@ -4977,6 +5164,7 @@ guideposts =
       "properties": {
         "@id": "node/9522498513",
         "ele": "705",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Gamondès",
         "tourism": "information"
@@ -4995,6 +5183,7 @@ guideposts =
       "properties": {
         "@id": "node/9522515657",
         "ele": "740",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Conchis",
         "tourism": "information"
@@ -5013,6 +5202,7 @@ guideposts =
       "properties": {
         "@id": "node/9522560730",
         "ele": "910",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Paille",
         "tourism": "information"
@@ -5031,6 +5221,7 @@ guideposts =
       "properties": {
         "@id": "node/9552408635",
         "ele": "325",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Blache de Gros",
         "tourism": "information"
@@ -5049,6 +5240,7 @@ guideposts =
       "properties": {
         "@id": "node/9552408636",
         "ele": "220",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Rieusset",
         "tourism": "information"
@@ -5067,6 +5259,7 @@ guideposts =
       "properties": {
         "@id": "node/9552408637",
         "ele": "205",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Germain",
         "tourism": "information"
@@ -5085,6 +5278,7 @@ guideposts =
       "properties": {
         "@id": "node/9552408638",
         "ele": "403",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Terme Noir",
         "tourism": "information"
@@ -5103,6 +5297,7 @@ guideposts =
       "properties": {
         "@id": "node/9558886378",
         "ele": "343",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Issard de Madame",
         "survey:date": "2022-03-31",
@@ -5122,6 +5317,7 @@ guideposts =
       "properties": {
         "@id": "node/9558898075",
         "ele": "325",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bois Gardette",
         "survey:date": "2022-05-01",
@@ -5141,6 +5337,7 @@ guideposts =
       "properties": {
         "@id": "node/9558908717",
         "ele": "365",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Séveniers",
         "survey:date": "2022-04-14",
@@ -5161,6 +5358,7 @@ guideposts =
         "@id": "node/9566512236",
         "ele": "450",
         "ele:signed": "450",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Ailhon Sud",
         "survey:date": "2022-02-10",
@@ -5180,6 +5378,7 @@ guideposts =
       "properties": {
         "@id": "node/9566512237",
         "ele": "410",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Plaine des Rompudes",
         "survey:date": "2022-02-25",
@@ -5200,6 +5399,7 @@ guideposts =
         "@id": "node/9587733209",
         "ele": "310",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Basse Rue",
         "tourism": "information"
@@ -5218,6 +5418,7 @@ guideposts =
       "properties": {
         "@id": "node/9587733210",
         "ele": "327",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Place de l'Obélisque",
         "survey:date": "2022-03-21",
@@ -5237,6 +5438,7 @@ guideposts =
       "properties": {
         "@id": "node/9587733211",
         "ele": "325",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Grande Rue",
         "tourism": "information"
@@ -5255,6 +5457,7 @@ guideposts =
       "properties": {
         "@id": "node/9621325625",
         "ele": "336",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Lauzière",
         "tourism": "information"
@@ -5273,6 +5476,7 @@ guideposts =
       "properties": {
         "@id": "node/9621325626",
         "ele": "338",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Léauze",
         "tourism": "information"
@@ -5291,6 +5495,7 @@ guideposts =
       "properties": {
         "@id": "node/9674953646",
         "ele": "328",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bois Vignasse",
         "survey:date": "2022-03-04",
@@ -5310,6 +5515,7 @@ guideposts =
       "properties": {
         "@id": "node/9674953647",
         "ele": "460",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Perret",
         "survey:date": "2022-04-14",
@@ -5329,6 +5535,7 @@ guideposts =
       "properties": {
         "@id": "node/9674953648",
         "ele": "290",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Combasses",
         "survey:date": "2022-04-17",
@@ -5349,6 +5556,7 @@ guideposts =
         "@id": "node/9691598388",
         "ele": "165",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bausson",
         "survey:date": "2023-05-12",
@@ -5368,6 +5576,7 @@ guideposts =
       "properties": {
         "@id": "node/9779481496",
         "ele": "288",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Valette",
         "tourism": "information"
@@ -5386,6 +5595,7 @@ guideposts =
       "properties": {
         "@id": "node/9784044445",
         "ele": "330",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Clap",
         "tourism": "information"
@@ -5404,6 +5614,7 @@ guideposts =
       "properties": {
         "@id": "node/9784044446",
         "ele": "345",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Église",
         "tourism": "information"
@@ -5422,6 +5633,7 @@ guideposts =
       "properties": {
         "@id": "node/9790780827",
         "ele": "285",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Peyrou",
         "tourism": "information"
@@ -5440,6 +5652,7 @@ guideposts =
       "properties": {
         "@id": "node/9790780828",
         "ele": "283",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Fontaine des Chaberts",
         "tourism": "information"
@@ -5458,6 +5671,7 @@ guideposts =
       "properties": {
         "@id": "node/9790780831",
         "ele": "301",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Reyniers",
         "tourism": "information"
@@ -5476,6 +5690,7 @@ guideposts =
       "properties": {
         "@id": "node/9790974031",
         "ele": "550",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Chéoune",
         "tourism": "information"
@@ -5494,6 +5709,7 @@ guideposts =
       "properties": {
         "@id": "node/9790974032",
         "ele": "335",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Planchettes",
         "tourism": "information"
@@ -5512,6 +5728,7 @@ guideposts =
       "properties": {
         "@id": "node/9794888893",
         "ele": "340",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Patio",
         "tourism": "information"
@@ -5530,6 +5747,7 @@ guideposts =
       "properties": {
         "@id": "node/9794888894",
         "ele": "330",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Moulin des Prés",
         "tourism": "information"
@@ -5548,6 +5766,7 @@ guideposts =
       "properties": {
         "@id": "node/9795021321",
         "ele": "340",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Buis",
         "tourism": "information"
@@ -5566,6 +5785,7 @@ guideposts =
       "properties": {
         "@id": "node/9795021322",
         "ele": "408",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Fromenteyrol",
         "tourism": "information"
@@ -5584,6 +5804,7 @@ guideposts =
       "properties": {
         "@id": "node/9802625268",
         "ele": "530",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Blachères",
         "tourism": "information"
@@ -5602,6 +5823,7 @@ guideposts =
       "properties": {
         "@id": "node/9802625269",
         "ele": "451",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Berlandier",
         "tourism": "information"
@@ -5620,6 +5842,7 @@ guideposts =
       "properties": {
         "@id": "node/9804761746",
         "ele": "453",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Grands Champs",
         "tourism": "information"
@@ -5638,6 +5861,7 @@ guideposts =
       "properties": {
         "@id": "node/9804761747",
         "ele": "495",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Aulagniers",
         "tourism": "information"
@@ -5656,6 +5880,7 @@ guideposts =
       "properties": {
         "@id": "node/9804761749",
         "ele": "482",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Fauger",
         "tourism": "information"
@@ -5674,6 +5899,7 @@ guideposts =
       "properties": {
         "@id": "node/9806903497",
         "ele": "499",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Auriolles",
         "tourism": "information"
@@ -5692,6 +5918,7 @@ guideposts =
       "properties": {
         "@id": "node/9806903498",
         "ele": "504",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chemin du Seigneur",
         "tourism": "information"
@@ -5711,6 +5938,7 @@ guideposts =
         "@id": "node/9839247144",
         "ele": "406",
         "ele:signed": "415",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Château Est",
         "survey:date": "2023-01-30",
@@ -5730,6 +5958,7 @@ guideposts =
       "properties": {
         "@id": "node/9839260857",
         "ele": "510",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Conchy",
         "tourism": "information"
@@ -5748,6 +5977,7 @@ guideposts =
       "properties": {
         "@id": "node/9839260858",
         "ele": "465",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Concise",
         "tourism": "information"
@@ -5767,6 +5997,7 @@ guideposts =
         "@id": "node/9843242314",
         "ele": "500",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Michel de Boulogne",
         "name:signed": "no",
@@ -5788,6 +6019,7 @@ guideposts =
         "@id": "node/9843242315",
         "ele": "476",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Combemale",
         "survey:date": "2023-01-30",
@@ -5808,6 +6040,7 @@ guideposts =
         "@id": "node/9843271821",
         "ele": "388",
         "ele:signed": "385",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Boulogne",
         "survey:date": "2023-01-30",
@@ -5828,6 +6061,7 @@ guideposts =
         "@id": "node/9843271822",
         "ele": "480",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Mortiers",
         "survey:date": "2023-01-30",
@@ -5847,6 +6081,7 @@ guideposts =
       "properties": {
         "@id": "node/9843271823",
         "ele": "510",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Etienne de Boulogne",
         "tourism": "information"
@@ -5866,6 +6101,7 @@ guideposts =
         "@id": "node/9843364255",
         "ele": "475",
         "ele:signed": "475",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pourchary",
         "survey:date": "2023-01-30",
@@ -5885,6 +6121,7 @@ guideposts =
       "properties": {
         "@id": "node/9843559922",
         "ele": "510",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Etienne Nord",
         "tourism": "information"
@@ -5903,6 +6140,7 @@ guideposts =
       "properties": {
         "@id": "node/9843559923",
         "ele": "622",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Molières",
         "tourism": "information"
@@ -5922,6 +6160,7 @@ guideposts =
         "@id": "node/9843559924",
         "ele": "511",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Fougeyrolles",
         "survey:date": "2023-01-30",
@@ -5942,6 +6181,7 @@ guideposts =
         "@id": "node/9843616071",
         "ele": "536",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Chapelle",
         "survey:date": "2023-01-30",
@@ -5961,6 +6201,7 @@ guideposts =
       "properties": {
         "@id": "node/9846631433",
         "ele": "403",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont Sans Eau",
         "tourism": "information"
@@ -5979,6 +6220,7 @@ guideposts =
       "properties": {
         "@id": "node/9846631434",
         "ele": "460",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Mas Lapierre",
         "tourism": "information"
@@ -5997,6 +6239,7 @@ guideposts =
       "properties": {
         "@id": "node/9846631435",
         "ele": "485",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Village",
         "tourism": "information"
@@ -6015,6 +6258,7 @@ guideposts =
       "properties": {
         "@id": "node/9846631436",
         "ele": "363",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont du Devès",
         "tourism": "information"
@@ -6033,6 +6277,7 @@ guideposts =
       "properties": {
         "@id": "node/9846631437",
         "ele": "331",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Oise",
         "tourism": "information"
@@ -6051,6 +6296,7 @@ guideposts =
       "properties": {
         "@id": "node/9855776555",
         "ele": "788",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col de l'Escrinet",
         "tourism": "information"
@@ -6069,6 +6315,7 @@ guideposts =
       "properties": {
         "@id": "node/9855776556",
         "ele": "920",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Gourdon",
         "tourism": "information"
@@ -6087,6 +6334,7 @@ guideposts =
       "properties": {
         "@id": "node/9855776557",
         "ele": "878",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Signal Bosc",
         "tourism": "information"
@@ -6105,6 +6353,7 @@ guideposts =
       "properties": {
         "@id": "node/9855776558",
         "ele": "865",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Auriol",
         "tourism": "information"
@@ -6123,6 +6372,7 @@ guideposts =
       "properties": {
         "@id": "node/9855776559",
         "ele": "751",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Col d'Auzon",
         "tourism": "information"
@@ -6141,6 +6391,7 @@ guideposts =
       "properties": {
         "@id": "node/9855776560",
         "ele": "651",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chambonnet",
         "tourism": "information"
@@ -6159,6 +6410,7 @@ guideposts =
       "properties": {
         "@id": "node/9866010630",
         "ele": "645",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bois de Roumanou",
         "tourism": "information"
@@ -6177,6 +6429,7 @@ guideposts =
       "properties": {
         "@id": "node/9866010631",
         "ele": "633",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Christianet",
         "tourism": "information"
@@ -6195,6 +6448,7 @@ guideposts =
       "properties": {
         "@id": "node/9870351482",
         "ele": "876",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Serre de Suzon",
         "tourism": "information"
@@ -6213,6 +6467,7 @@ guideposts =
       "properties": {
         "@id": "node/9874453780",
         "ele": "585",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bise",
         "tourism": "information"
@@ -6231,6 +6486,7 @@ guideposts =
       "properties": {
         "@id": "node/9923928998",
         "ele": "655",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Genestelle",
         "tourism": "information"
@@ -6249,6 +6505,7 @@ guideposts =
       "properties": {
         "@id": "node/9924818856",
         "ele": "605",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Planche",
         "tourism": "information"
@@ -6267,6 +6524,7 @@ guideposts =
       "properties": {
         "@id": "node/9924818857",
         "ele": "630",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Croze",
         "tourism": "information"
@@ -6285,6 +6543,7 @@ guideposts =
       "properties": {
         "@id": "node/9924841528",
         "ele": "670",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Joseph des Bancs",
         "tourism": "information"
@@ -6303,6 +6562,7 @@ guideposts =
       "properties": {
         "@id": "node/9925164648",
         "ele": "415",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont de Gamond",
         "tourism": "information"
@@ -6321,6 +6581,7 @@ guideposts =
       "properties": {
         "@id": "node/9925164649",
         "ele": "625",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Rouge",
         "tourism": "information"
@@ -6339,6 +6600,7 @@ guideposts =
       "properties": {
         "@id": "node/9925164650",
         "ele": "655",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Genestelle",
         "tourism": "information"
@@ -6357,6 +6619,7 @@ guideposts =
       "properties": {
         "@id": "node/9927096875",
         "ele": "1288",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bourlateyron",
         "tourism": "information"
@@ -6375,6 +6638,7 @@ guideposts =
       "properties": {
         "@id": "node/9927096877",
         "ele": "1200",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Coulet Gras",
         "tourism": "information"
@@ -6393,6 +6657,7 @@ guideposts =
       "properties": {
         "@id": "node/9927096879",
         "ele": "1120",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Soupley",
         "tourism": "information"
@@ -6411,6 +6676,7 @@ guideposts =
       "properties": {
         "@id": "node/9927096880",
         "ele": "600",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pont",
         "tourism": "information"
@@ -6429,6 +6695,7 @@ guideposts =
       "properties": {
         "@id": "node/9931793929",
         "ele": "894",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Rocher de la Clé",
         "tourism": "information"
@@ -6447,6 +6714,7 @@ guideposts =
       "properties": {
         "@id": "node/9931793930",
         "ele": "1285",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bois de Rauset",
         "source": "survey",
@@ -6466,6 +6734,7 @@ guideposts =
       "properties": {
         "@id": "node/9931793931",
         "ele": "1200",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chabrol",
         "tourism": "information"
@@ -6484,6 +6753,7 @@ guideposts =
       "properties": {
         "@id": "node/9931793932",
         "ele": "754",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Mazoyer",
         "tourism": "information"
@@ -6502,6 +6772,7 @@ guideposts =
       "properties": {
         "@id": "node/9931793933",
         "ele": "749",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Mazoyer Bas",
         "tourism": "information"
@@ -6561,6 +6832,7 @@ guideposts =
       "properties": {
         "@id": "node/9949342430",
         "ele": "1145",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Village",
         "tourism": "information"
@@ -6579,6 +6851,7 @@ guideposts =
       "properties": {
         "@id": "node/9949342431",
         "ele": "1178",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Feuille",
         "tourism": "information"
@@ -6597,6 +6870,7 @@ guideposts =
       "properties": {
         "@id": "node/9949342432",
         "ele": "636",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Saint-Vincent",
         "tourism": "information"
@@ -6615,6 +6889,7 @@ guideposts =
       "properties": {
         "@id": "node/9949342433",
         "ele": "467",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Lermuse",
         "tourism": "information"
@@ -6633,6 +6908,7 @@ guideposts =
       "properties": {
         "@id": "node/9959324582",
         "ele": "425",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont de l'Huile",
         "tourism": "information"
@@ -6651,6 +6927,7 @@ guideposts =
       "properties": {
         "@id": "node/9959324588",
         "ele": "415",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Gamond",
         "note": "verifier position",
@@ -6670,6 +6947,7 @@ guideposts =
       "properties": {
         "@id": "node/9961607658",
         "ele": "295",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Sartre",
         "tourism": "information"
@@ -6688,6 +6966,7 @@ guideposts =
       "properties": {
         "@id": "node/9979454183",
         "ele": "1360",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Homond",
         "tourism": "information"
@@ -6706,6 +6985,7 @@ guideposts =
       "properties": {
         "@id": "node/9979454259",
         "ele": "1325",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Lachamp Raphaël",
         "tourism": "information"
@@ -6724,6 +7004,7 @@ guideposts =
       "properties": {
         "@id": "node/9979454260",
         "ele": "1351",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pied du Montivernoux",
         "tourism": "information"
@@ -6742,6 +7023,7 @@ guideposts =
       "properties": {
         "@id": "node/9979454261",
         "ele": "1338",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Quinsou",
         "tourism": "information"
@@ -6760,6 +7042,7 @@ guideposts =
       "properties": {
         "@id": "node/9979454262",
         "ele": "1120",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Mézilhac",
         "tourism": "information"
@@ -6778,6 +7061,7 @@ guideposts =
       "properties": {
         "@id": "node/9979897700",
         "ele": "1265",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Granges de Sausses",
         "tourism": "information"
@@ -6796,6 +7080,7 @@ guideposts =
       "properties": {
         "@id": "node/9979897701",
         "ele": "865",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Moucheyres",
         "tourism": "information"
@@ -6814,6 +7099,7 @@ guideposts =
       "properties": {
         "@id": "node/9979897703",
         "ele": "660",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Labastide",
         "tourism": "information"
@@ -6832,6 +7118,7 @@ guideposts =
       "properties": {
         "@id": "node/9979897704",
         "ele": "655",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Courbine",
         "tourism": "information"
@@ -6850,6 +7137,7 @@ guideposts =
       "properties": {
         "@id": "node/9981584957",
         "ele": "755",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Vialat",
         "tourism": "information"
@@ -6868,6 +7156,7 @@ guideposts =
       "properties": {
         "@id": "node/9981584958",
         "ele": "712",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Berlie",
         "tourism": "information"
@@ -6886,6 +7175,7 @@ guideposts =
       "properties": {
         "@id": "node/9981584959",
         "ele": "1150",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Faux Fay",
         "tourism": "information"
@@ -6904,6 +7194,7 @@ guideposts =
       "properties": {
         "@id": "node/9981584960",
         "ele": "950",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Pargeades",
         "tourism": "information"
@@ -6922,6 +7213,7 @@ guideposts =
       "properties": {
         "@id": "node/9981584961",
         "ele": "695",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chastagnier Gourd",
         "survey:date": "2022-09-02",
@@ -6941,6 +7233,7 @@ guideposts =
       "properties": {
         "@id": "node/9981584962",
         "ele": "640",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont de Gamarnes",
         "survey:date": "2022-09-02",
@@ -6960,6 +7253,7 @@ guideposts =
       "properties": {
         "@id": "node/9981584967",
         "ele": "615",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Abro",
         "tourism": "information"
@@ -6978,6 +7272,7 @@ guideposts =
       "properties": {
         "@id": "node/9988668683",
         "ele": "500",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bouchet",
         "tourism": "information"
@@ -6996,6 +7291,7 @@ guideposts =
       "properties": {
         "@id": "node/9988696229",
         "ele": "827",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "l'Huguenot",
         "tourism": "information"
@@ -7014,6 +7310,7 @@ guideposts =
       "properties": {
         "@id": "node/9988696230",
         "ele": "672",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Coulet",
         "survey:date": "2022-09-02",
@@ -7033,6 +7330,7 @@ guideposts =
       "properties": {
         "@id": "node/9992993634",
         "ele": "560",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Montagnac",
         "survey:date": "2020-09-01",
@@ -7052,6 +7350,7 @@ guideposts =
       "properties": {
         "@id": "node/9992993635",
         "ele": "560",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pra Neuf",
         "survey:date": "2020-09-01",
@@ -7071,6 +7370,7 @@ guideposts =
       "properties": {
         "@id": "node/9993017683",
         "ele": "590",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Fontbonne",
         "survey:date": "2022-09-01",
@@ -7090,6 +7390,7 @@ guideposts =
       "properties": {
         "@id": "node/9993141362",
         "ele": "316",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont de Bridou",
         "tourism": "information"
@@ -7108,6 +7409,7 @@ guideposts =
       "properties": {
         "@id": "node/9995368992",
         "ele": "775",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Fontalazon",
         "tourism": "information"
@@ -7126,6 +7428,7 @@ guideposts =
       "properties": {
         "@id": "node/9995368993",
         "ele": "525",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Moulin Lacoste",
         "tourism": "information"
@@ -7144,6 +7447,7 @@ guideposts =
       "properties": {
         "@id": "node/9995368997",
         "ele": "515",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Ruisseau de la Pauze",
         "tourism": "information"
@@ -7162,6 +7466,7 @@ guideposts =
       "properties": {
         "@id": "node/9995368998",
         "ele": "645",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Mille Soles",
         "survey:date": "2022-09-02",
@@ -7181,6 +7486,7 @@ guideposts =
       "properties": {
         "@id": "node/9995369012",
         "ele": "645",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col d'Aizac",
         "survey:date": "2022-09-02",
@@ -7200,6 +7506,7 @@ guideposts =
       "properties": {
         "@id": "node/9997581441",
         "ele": "1200",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Lyonnes",
         "tourism": "information"
@@ -7218,6 +7525,7 @@ guideposts =
       "properties": {
         "@id": "node/10006140599",
         "ele": "255",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Parc",
         "tourism": "information"
@@ -7236,6 +7544,7 @@ guideposts =
       "properties": {
         "@id": "node/10006140600",
         "ele": "255",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Vals les Bains",
         "survey:date": "2022-09-03",
@@ -7255,6 +7564,7 @@ guideposts =
       "properties": {
         "@id": "node/10006140601",
         "ele": "255",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont des Deux Eaux",
         "tourism": "information"
@@ -7273,6 +7583,7 @@ guideposts =
       "properties": {
         "@id": "node/10006222070",
         "ele": "245",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bateau",
         "tourism": "information"
@@ -7291,6 +7602,7 @@ guideposts =
       "properties": {
         "@id": "node/10006222071",
         "ele": "245",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pont de Vals",
         "tourism": "information"
@@ -7309,6 +7621,7 @@ guideposts =
       "properties": {
         "@id": "node/10006692628",
         "ele": "408",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Longe Serre",
         "survey:date": "2022-09-04",
@@ -7328,6 +7641,7 @@ guideposts =
       "properties": {
         "@id": "node/10006692640",
         "ele": "393",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Tesseaux",
         "tourism": "information"
@@ -7346,6 +7660,7 @@ guideposts =
       "properties": {
         "@id": "node/10006692738",
         "ele": "260",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Arlix",
         "survey:date": "2022-09-04",
@@ -7365,6 +7680,7 @@ guideposts =
       "properties": {
         "@id": "node/10006692739",
         "ele": "255",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Ruisseau (parking)",
         "survey:date": "2022-09-04",
@@ -7384,6 +7700,7 @@ guideposts =
       "properties": {
         "@id": "node/10006896534",
         "ele": "438",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col de la Loube",
         "tourism": "information"
@@ -7402,6 +7719,7 @@ guideposts =
       "properties": {
         "@id": "node/10006896535",
         "ele": "500",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Montgrand",
         "tourism": "information"
@@ -7420,6 +7738,7 @@ guideposts =
       "properties": {
         "@id": "node/10006896536",
         "ele": "435",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Longe Serre",
         "tourism": "information"
@@ -7438,6 +7757,7 @@ guideposts =
       "properties": {
         "@id": "node/10006896537",
         "ele": "420",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Coulet de Tesseaux",
         "tourism": "information"
@@ -7456,6 +7776,7 @@ guideposts =
       "properties": {
         "@id": "node/10006896541",
         "ele": "290",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pra Haut",
         "tourism": "information"
@@ -7474,6 +7795,7 @@ guideposts =
       "properties": {
         "@id": "node/10006896542",
         "ele": "265",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pra",
         "survey:date": "2022-01-01",
@@ -7493,6 +7815,7 @@ guideposts =
       "properties": {
         "@id": "node/10054227995",
         "ele": "335",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Granges",
         "survey:date": "2022-09-26",
@@ -7512,6 +7835,7 @@ guideposts =
       "properties": {
         "@id": "node/10054759220",
         "ele": "328",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col d'Autuche",
         "survey:date": "2022-09-26",
@@ -7531,6 +7855,7 @@ guideposts =
       "properties": {
         "@id": "node/10054759221",
         "ele": "515",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Sous les Eaux",
         "survey:date": "2022-09-26",
@@ -7550,6 +7875,7 @@ guideposts =
       "properties": {
         "@id": "node/10055722117",
         "ele": "560",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Thieure",
         "survey:date": "2022-09-26",
@@ -7569,6 +7895,7 @@ guideposts =
       "properties": {
         "@id": "node/10065279891",
         "ele": "718",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Faysse",
         "tourism": "information"
@@ -7587,6 +7914,7 @@ guideposts =
       "properties": {
         "@id": "node/10065279897",
         "ele": "654",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Haute Blachère",
         "tourism": "information"
@@ -7605,6 +7933,7 @@ guideposts =
       "properties": {
         "@id": "node/10065279898",
         "ele": "662",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Juvinas",
         "tourism": "information"
@@ -7623,6 +7952,7 @@ guideposts =
       "properties": {
         "@id": "node/10065279899",
         "ele": "652",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Sous Juvinas",
         "tourism": "information"
@@ -7641,6 +7971,7 @@ guideposts =
       "properties": {
         "@id": "node/10065279904",
         "ele": "535",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Joie",
         "tourism": "information"
@@ -7659,8 +7990,10 @@ guideposts =
       "properties": {
         "@id": "node/10081461692",
         "ele": "470",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Sétias",
+        "survey:date": "2023-09-23",
         "tourism": "information"
       },
       "geometry": {
@@ -7677,6 +8010,7 @@ guideposts =
       "properties": {
         "@id": "node/10081461693",
         "ele": "502",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bois d'Aval",
         "tourism": "information"
@@ -7695,6 +8029,7 @@ guideposts =
       "properties": {
         "@id": "node/10081461694",
         "ele": "512",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Thérondes",
         "tourism": "information"
@@ -7713,6 +8048,7 @@ guideposts =
       "properties": {
         "@id": "node/10081461695",
         "ele": "970",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Sainte-Marguerite",
         "tourism": "information"
@@ -7731,6 +8067,7 @@ guideposts =
       "properties": {
         "@id": "node/10116110955",
         "ele": "665",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Villaret",
         "tourism": "information"
@@ -7749,6 +8086,7 @@ guideposts =
       "properties": {
         "@id": "node/10116110956",
         "ele": "655",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Villaret Bas",
         "tourism": "information"
@@ -7768,6 +8106,7 @@ guideposts =
         "@id": "node/10116110957",
         "description": "position à voir",
         "ele": "670",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Aubert",
         "tourism": "information"
@@ -7786,6 +8125,7 @@ guideposts =
       "properties": {
         "@id": "node/10123873237",
         "ele": "595",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Mas",
         "tourism": "information"
@@ -7805,6 +8145,7 @@ guideposts =
         "@id": "node/10124122080",
         "ele": "280",
         "ele:signed": "280",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Plantier",
         "survey:date": "2022-03-05",
@@ -7825,6 +8166,7 @@ guideposts =
         "@id": "node/10143372798",
         "ele": "450",
         "ele:signed": "450",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bois de Vogüé",
         "survey:date": "2023-03-27",
@@ -7845,6 +8187,7 @@ guideposts =
         "@id": "node/10143372799",
         "ele": "400",
         "ele:signed": "400",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Merzelet",
         "survey:date": "2023-03-27",
@@ -7865,6 +8208,7 @@ guideposts =
         "@id": "node/10143393020",
         "ele": "400",
         "ele:signed": "400",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Merzelet Ouest",
         "survey:date": "2023-03-27",
@@ -7884,6 +8228,7 @@ guideposts =
       "properties": {
         "@id": "node/10146882628",
         "ele": "255",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Tinal",
         "tourism": "information"
@@ -7903,6 +8248,7 @@ guideposts =
         "@id": "node/10146882629",
         "ele": "260",
         "ele:signed": "260",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Crozes",
         "survey:date": "2023-03-27",
@@ -7923,6 +8269,7 @@ guideposts =
         "@id": "node/10146882630",
         "ele": "260",
         "ele:signed": "260",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Soudournas",
         "survey:date": "2023-03-27",
@@ -7942,6 +8289,7 @@ guideposts =
       "properties": {
         "@id": "node/10158089687",
         "ele": "220",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Notre Dame d'Ajude",
         "survey:date": "2022-11-04",
@@ -7961,6 +8309,7 @@ guideposts =
       "properties": {
         "@id": "node/10158089688",
         "ele": "220",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Orbeire",
         "survey:date": "2022-11-04",
@@ -7981,6 +8330,7 @@ guideposts =
         "@id": "node/10171720243",
         "ele": "390",
         "ele:signed": "390",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chaunes",
         "survey:date": "2022-12-24",
@@ -8000,6 +8350,7 @@ guideposts =
       "properties": {
         "@id": "node/10171839913",
         "ele": "465",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Cros",
         "tourism": "information"
@@ -8019,6 +8370,7 @@ guideposts =
         "@id": "node/10186279293",
         "ele": "250",
         "ele:signed": "250",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Fez",
         "survey:date": "2023-03-27",
@@ -8039,6 +8391,7 @@ guideposts =
         "@id": "node/10186323435",
         "ele": "250",
         "ele:signed": "250",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Village",
         "survey:date": "2023-03-27",
@@ -8058,6 +8411,7 @@ guideposts =
       "properties": {
         "@id": "node/10199092019",
         "ele": "252",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Nuelles",
         "tourism": "information"
@@ -8077,6 +8431,7 @@ guideposts =
         "@id": "node/10200021850",
         "ele": "350",
         "ele:signed": "350",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Vinobre",
         "survey:date": "2023-05-11",
@@ -8097,6 +8452,7 @@ guideposts =
         "@id": "node/10200021851",
         "ele": "185",
         "ele:signed": "185",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bannes",
         "survey:date": "2023-05-11",
@@ -8116,6 +8472,7 @@ guideposts =
       "properties": {
         "@id": "node/10207528636",
         "ele": "320",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Constantine",
         "tourism": "information"
@@ -8134,6 +8491,7 @@ guideposts =
       "properties": {
         "@id": "node/10207528637",
         "ele": "320",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Antoine",
         "tourism": "information"
@@ -8152,6 +8510,7 @@ guideposts =
       "properties": {
         "@id": "node/10207528638",
         "ele": "235",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chaudabri",
         "tourism": "information"
@@ -8170,6 +8529,7 @@ guideposts =
       "properties": {
         "@id": "node/10207604054",
         "ele": "265",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Temple",
         "survey:date": "2022-11-18",
@@ -8189,6 +8549,7 @@ guideposts =
       "properties": {
         "@id": "node/10207880375",
         "ele": "260",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Ferrières",
         "tourism": "information"
@@ -8207,6 +8568,7 @@ guideposts =
       "properties": {
         "@id": "node/10207880378",
         "ele": "210",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Mure",
         "tourism": "information"
@@ -8225,6 +8587,7 @@ guideposts =
       "properties": {
         "@id": "node/10210223360",
         "ele": "290",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Airette",
         "tourism": "information"
@@ -8243,6 +8606,7 @@ guideposts =
       "properties": {
         "@id": "node/10210280500",
         "ele": "265",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chadarent",
         "tourism": "information"
@@ -8262,6 +8626,7 @@ guideposts =
         "@id": "node/10212401385",
         "ele": "250",
         "ele:signed": "250",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Coop",
         "survey:date": "2023-03-27",
@@ -8282,6 +8647,7 @@ guideposts =
         "@id": "node/10212401398",
         "ele": "195",
         "ele:signed": "195",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Alobres",
         "survey:date": "2023-03-27",
@@ -8301,6 +8667,7 @@ guideposts =
       "properties": {
         "@id": "node/10244860373",
         "ele": "150",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Sous la Magnanerie",
         "tourism": "information"
@@ -8319,6 +8686,7 @@ guideposts =
       "properties": {
         "@id": "node/10244860374",
         "ele": "235",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint André",
         "tourism": "information"
@@ -8337,6 +8705,7 @@ guideposts =
       "properties": {
         "@id": "node/10244860375",
         "ele": "170",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Auche d'Ozil",
         "tourism": "information"
@@ -8355,6 +8724,7 @@ guideposts =
       "properties": {
         "@id": "node/10244860376",
         "ele": "270",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pertus de Fabria",
         "tourism": "information"
@@ -8373,6 +8743,7 @@ guideposts =
       "properties": {
         "@id": "node/10249292155",
         "ele": "170",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Tunnel",
         "tourism": "information"
@@ -8391,9 +8762,10 @@ guideposts =
       "properties": {
         "@id": "node/10259784214",
         "ele": "485",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Sétias",
-        "survey:date": "2022-12-12",
+        "survey:date": "2023-09-23",
         "tourism": "information"
       },
       "geometry": {
@@ -8410,6 +8782,7 @@ guideposts =
       "properties": {
         "@id": "node/10260265620",
         "ele": "395",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Goux",
         "survey:date": "2022-12-12",
@@ -8429,6 +8802,7 @@ guideposts =
       "properties": {
         "@id": "node/10297985496",
         "ele": "130",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Faysses",
         "survey:date": "2023-02-27",
@@ -8448,6 +8822,7 @@ guideposts =
       "properties": {
         "@id": "node/10298621644",
         "ele": "305",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Voie Romaine",
         "survey:date": "2022-12-17",
@@ -8468,6 +8843,7 @@ guideposts =
         "@id": "node/10309076313",
         "ele": "168",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Blaches",
         "name:signed": "no",
@@ -8489,6 +8865,7 @@ guideposts =
         "@id": "node/10309076314",
         "ele": "168",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Uzer",
         "name:signed": "no",
@@ -8510,6 +8887,7 @@ guideposts =
         "@id": "node/10309201992",
         "ele": "195",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Prade Haute",
         "survey:date": "2023-01-03",
@@ -8530,6 +8908,7 @@ guideposts =
         "@id": "node/10309201993",
         "ele": "195",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Blaches Hautes",
         "survey:date": "2023-01-03",
@@ -8550,6 +8929,7 @@ guideposts =
         "@id": "node/10375064910",
         "ele": "630",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bouteyre",
         "survey:date": "2022-11-07",
@@ -8570,6 +8950,7 @@ guideposts =
         "@id": "node/10375064918",
         "ele": "760",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chapelle Sainte-Philomène",
         "survey:date": "2022-11-07",
@@ -8590,6 +8971,7 @@ guideposts =
         "@id": "node/10537910779",
         "ele": "575",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Hubac",
         "survey:date": "2023-04-24",
@@ -8610,6 +8992,7 @@ guideposts =
         "@id": "node/10537910787",
         "ele": "433",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Rouvière",
         "note": "Orientation chapeau à vérifier",
@@ -8631,6 +9014,7 @@ guideposts =
         "@id": "node/10537910788",
         "ele": "570",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Ranc Courbier",
         "survey:date": "2023-04-24",
@@ -8651,6 +9035,7 @@ guideposts =
         "@id": "node/10537910789",
         "ele": "505",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Vaure",
         "survey:date": "2023-04-24",
@@ -8672,6 +9057,7 @@ guideposts =
         "description": "Pas de panneau, lames directionnelles sur les murs",
         "ele": "515",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Joux",
         "survey:date": "2023-04-24",
@@ -8692,6 +9078,7 @@ guideposts =
         "@id": "node/10537910791",
         "ele": "447",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "N.D. de Bonne Rencontre",
         "survey:date": "2023-04-24",
@@ -8732,6 +9119,7 @@ guideposts =
       "properties": {
         "@id": "node/10540221576",
         "ele": "460",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Combes",
         "note": "Position panneau à préciser",
@@ -8752,6 +9140,7 @@ guideposts =
         "@id": "node/10540221577",
         "ele": "350",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Valadiers",
         "note": "Position panneau à préciser",
@@ -8771,6 +9160,7 @@ guideposts =
       "properties": {
         "@id": "node/10540221578",
         "ele": "265",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Moulin de Landes",
         "tourism": "information"
@@ -8790,6 +9180,7 @@ guideposts =
         "@id": "node/10543547429",
         "ele": "180",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Auches",
         "survey:date": "2023-01-12",
@@ -8810,6 +9201,7 @@ guideposts =
         "@id": "node/10543547473",
         "ele": "240",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Montredon",
         "survey:date": "2023-01-12",
@@ -8829,6 +9221,7 @@ guideposts =
       "properties": {
         "@id": "node/10556441745",
         "ele": "225",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pecoulas",
         "note": "position du panneau à vérifier",
@@ -8849,6 +9242,7 @@ guideposts =
         "@id": "node/10676733832",
         "ele": "660",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Fourches",
         "survey:date": "2023-04-24",
@@ -8868,6 +9262,7 @@ guideposts =
       "properties": {
         "@id": "node/10676733847",
         "ele": "525",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Combe",
         "survey:date": "2023-04-24",
@@ -8887,6 +9282,7 @@ guideposts =
       "properties": {
         "@id": "node/10688955636",
         "ele": "115",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Michel",
         "tourism": "information"
@@ -8906,6 +9302,7 @@ guideposts =
         "@id": "node/10688955637",
         "ele": "120",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Ruoms",
         "name:signed": "no",
@@ -8926,9 +9323,10 @@ guideposts =
       "properties": {
         "@id": "node/10688955639",
         "ele": "125",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Champ du Gras",
-        "note": "position du panneau à vérifier",
+        "survey:date": "2023-06-08",
         "tourism": "information"
       },
       "geometry": {
@@ -8945,6 +9343,7 @@ guideposts =
       "properties": {
         "@id": "node/10688955640",
         "ele": "125",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Champ des Fours",
         "tourism": "information"
@@ -8963,6 +9362,7 @@ guideposts =
       "properties": {
         "@id": "node/10688955649",
         "ele": "120",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Gare",
         "tourism": "information"
@@ -8981,6 +9381,7 @@ guideposts =
       "properties": {
         "@id": "node/10690441116",
         "ele": "195",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Terriers",
         "tourism": "information"
@@ -8999,6 +9400,7 @@ guideposts =
       "properties": {
         "@id": "node/10690441117",
         "ele": "110",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Loubière",
         "tourism": "information"
@@ -9017,6 +9419,7 @@ guideposts =
       "properties": {
         "@id": "node/10690441118",
         "ele": "115",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Deserte",
         "tourism": "information"
@@ -9035,6 +9438,7 @@ guideposts =
       "properties": {
         "@id": "node/10690441119",
         "ele": "185",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chaussy",
         "note": "position du panneau à vérifier",
@@ -9054,6 +9458,7 @@ guideposts =
       "properties": {
         "@id": "node/10691391218",
         "ele": "125",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Bastide",
         "tourism": "information"
@@ -9072,6 +9477,7 @@ guideposts =
       "properties": {
         "@id": "node/10691391219",
         "ele": "280",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Sampzon",
         "tourism": "information"
@@ -9090,6 +9496,7 @@ guideposts =
       "properties": {
         "@id": "node/10691391220",
         "ele": "240",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bournas",
         "tourism": "information"
@@ -9108,6 +9515,7 @@ guideposts =
       "properties": {
         "@id": "node/10694502844",
         "ele": "465",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Col de la Cize",
         "note": "position du panneau à vérifier",
@@ -9127,6 +9535,7 @@ guideposts =
       "properties": {
         "@id": "node/10694502845",
         "ele": "445",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pas des Pigeons",
         "note": "position du panneau à vérifier",
@@ -9146,6 +9555,7 @@ guideposts =
       "properties": {
         "@id": "node/10694502846",
         "ele": "370",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Costes",
         "tourism": "information"
@@ -9164,6 +9574,7 @@ guideposts =
       "properties": {
         "@id": "node/10694502847",
         "ele": "145",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Aiguille",
         "tourism": "information"
@@ -9182,6 +9593,7 @@ guideposts =
       "properties": {
         "@id": "node/10695318950",
         "ele": "315",
+        "hiking": "yes",
         "information": "guidepost",
         "name:signed": "Sicouzac",
         "note": "position du panneau à vérifier",
@@ -9201,6 +9613,7 @@ guideposts =
       "properties": {
         "@id": "node/10695318951",
         "ele": "265",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Boriette",
         "tourism": "information"
@@ -9219,6 +9632,7 @@ guideposts =
       "properties": {
         "@id": "node/10702507591",
         "ele": "105",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Moulin",
         "tourism": "information"
@@ -9237,6 +9651,7 @@ guideposts =
       "properties": {
         "@id": "node/10702538443",
         "ele": "115",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Grospierre Gare",
         "note": "position du panneau à vérifier",
@@ -9256,6 +9671,7 @@ guideposts =
       "properties": {
         "@id": "node/10702538444",
         "ele": "110",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Vallier",
         "note": "position du panneau à vérifier",
@@ -9276,6 +9692,7 @@ guideposts =
         "@id": "node/10709975827",
         "ele": "295",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bastide",
         "survey:date": "2023-03-03",
@@ -9296,6 +9713,7 @@ guideposts =
         "@id": "node/10709975828",
         "ele": "360",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chassiers",
         "name:signed": "no",
@@ -9316,6 +9734,7 @@ guideposts =
       "properties": {
         "@id": "node/10709975829",
         "ele": "415",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chapelle Saint-Joseph",
         "survey:date": "2023-03-03",
@@ -9335,6 +9754,7 @@ guideposts =
       "properties": {
         "@id": "node/10719469263",
         "ele": "150",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Moulinas",
         "note": "position du panneau à vérifier",
@@ -9354,6 +9774,7 @@ guideposts =
       "properties": {
         "@id": "node/10719469264",
         "ele": "195",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chastelas",
         "tourism": "information"
@@ -9372,6 +9793,7 @@ guideposts =
       "properties": {
         "@id": "node/10719469265",
         "ele": "220",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Font Vive",
         "tourism": "information"
@@ -9390,6 +9812,7 @@ guideposts =
       "properties": {
         "@id": "node/10719469266",
         "ele": "445",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pas de l'Estret",
         "survey:date": "2019-04-15",
@@ -9409,6 +9832,7 @@ guideposts =
       "properties": {
         "@id": "node/10731177830",
         "ele": "130",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Grospierres",
         "tourism": "information"
@@ -9427,6 +9851,7 @@ guideposts =
       "properties": {
         "@id": "node/10731177831",
         "ele": "145",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Église",
         "tourism": "information"
@@ -9446,6 +9871,7 @@ guideposts =
         "@id": "node/10741173292",
         "ele": "220",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Maurice d'Ibie",
         "survey:date": "2023-03-13",
@@ -9466,6 +9892,7 @@ guideposts =
         "@id": "node/10741173293",
         "ele": "335",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Valos",
         "survey:date": "2023-03-13",
@@ -9486,6 +9913,7 @@ guideposts =
         "@id": "node/10741173294",
         "ele": "285",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Petit Montagu",
         "name:signed": "Montagu",
@@ -9508,6 +9936,7 @@ guideposts =
         "@id": "node/10741173295",
         "ele": "225",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "L'Ibie",
         "survey:date": "2023-03-13",
@@ -9528,6 +9957,7 @@ guideposts =
         "@id": "node/10741173296",
         "ele": "225",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Ausses",
         "survey:date": "2023-03-13",
@@ -9548,6 +9978,7 @@ guideposts =
         "@id": "node/10741903239",
         "ele": "190",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Chanebière",
         "note": "panneau à vérifier (pas indiqué surcarte Berg et Coiron)",
@@ -9567,6 +9998,7 @@ guideposts =
       "properties": {
         "@id": "node/10746344786",
         "ele": "425",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Fournery",
         "tourism": "information"
@@ -9586,6 +10018,7 @@ guideposts =
         "@id": "node/10746344787",
         "ele": "365",
         "ele:signed": "no",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Route de Saint-Andeol",
         "survey:date": "2022-03-21",
@@ -9605,6 +10038,7 @@ guideposts =
       "properties": {
         "@id": "node/10907615788",
         "ele": "190",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Brulade",
         "tourism": "information"
@@ -9623,6 +10057,7 @@ guideposts =
       "properties": {
         "@id": "node/10907615789",
         "ele": "200",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Darbousset",
         "note": "position du panneau à vérifier",
@@ -9642,6 +10077,7 @@ guideposts =
       "properties": {
         "@id": "node/10911629384",
         "ele": "150",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont Romain",
         "tourism": "information"
@@ -9660,6 +10096,7 @@ guideposts =
       "properties": {
         "@id": "node/10911629385",
         "ele": "270",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Gras",
         "tourism": "information"
@@ -9678,6 +10115,7 @@ guideposts =
       "properties": {
         "@id": "node/10911629386",
         "ele": "165",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Cigeaille",
         "note": "position du panneau à vérifier",
@@ -9697,6 +10135,7 @@ guideposts =
       "properties": {
         "@id": "node/10911629387",
         "ele": "190",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Champagnac",
         "note": "position du panneau à vérifier",
@@ -9716,6 +10155,7 @@ guideposts =
       "properties": {
         "@id": "node/10911629398",
         "ele": "180",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Gour d'Estelle",
         "note": "position du panneau à vérifier",
@@ -9735,6 +10175,7 @@ guideposts =
       "properties": {
         "@id": "node/10914394553",
         "ele": "140",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Sigaud",
         "note": "position du panneau à vérifier",
@@ -9754,6 +10195,7 @@ guideposts =
       "properties": {
         "@id": "node/10914394554",
         "ele": "110",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont de Miquenly",
         "note": "position du panneau à vérifier",
@@ -9773,6 +10215,7 @@ guideposts =
       "properties": {
         "@id": "node/10914394555",
         "ele": "125",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Vigier",
         "tourism": "information"
@@ -9791,6 +10234,7 @@ guideposts =
       "properties": {
         "@id": "node/10926352974",
         "ele": "110",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Bourdaric",
         "tourism": "information"
@@ -9809,6 +10253,7 @@ guideposts =
       "properties": {
         "@id": "node/10926352975",
         "ele": "125",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Mas de Boulle",
         "note": "position du panneau à vérifier",
@@ -9828,6 +10273,7 @@ guideposts =
       "properties": {
         "@id": "node/10926389263",
         "ele": "105",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Coulette",
         "note": "position du panneau à vérifier",
@@ -9847,6 +10293,7 @@ guideposts =
       "properties": {
         "@id": "node/10926389264",
         "ele": "105",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Martin",
         "tourism": "information"
@@ -9865,6 +10312,7 @@ guideposts =
       "properties": {
         "@id": "node/10926389265",
         "ele": "305",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Coucouru",
         "tourism": "information"
@@ -9883,6 +10331,7 @@ guideposts =
       "properties": {
         "@id": "node/10926389266",
         "ele": "305",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Sommet de Sigaud",
         "note": "position du panneau à vérifier",
@@ -9902,6 +10351,7 @@ guideposts =
       "properties": {
         "@id": "node/10926695401",
         "ele": "435",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "La Sauzède",
         "tourism": "information"
@@ -9919,6 +10369,7 @@ guideposts =
       "type": "Feature",
       "properties": {
         "@id": "node/10926695402",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "sans nom",
         "survey:date": "2023-05-24",
@@ -9938,6 +10389,7 @@ guideposts =
       "properties": {
         "@id": "node/10934215527",
         "ele": "520",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Costes 1",
         "note": "position du panneau et du carrefour à vérifier",
@@ -9957,6 +10409,7 @@ guideposts =
       "properties": {
         "@id": "node/10934215572",
         "ele": "370",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Fontaguillon",
         "note": "position du panneau à vérifier",
@@ -9976,6 +10429,7 @@ guideposts =
       "properties": {
         "@id": "node/10934215573",
         "ele": "370",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Buissières",
         "tourism": "information"
@@ -9994,6 +10448,7 @@ guideposts =
       "properties": {
         "@id": "node/10938964132",
         "ele": "370",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Croix du Planas",
         "tourism": "information"
@@ -10012,6 +10467,7 @@ guideposts =
       "properties": {
         "@id": "node/10938964133",
         "ele": "505",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Les Costes 2",
         "note": "position du panneau à vérifier",
@@ -10031,6 +10487,7 @@ guideposts =
       "properties": {
         "@id": "node/10938964134",
         "ele": "365",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Combe Grand",
         "note": "position du panneau à vérifier",
@@ -10050,6 +10507,7 @@ guideposts =
       "properties": {
         "@id": "node/10938964135",
         "ele": "360",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Patroux",
         "note": "position du panneau à vérifier",
@@ -10069,6 +10527,7 @@ guideposts =
       "properties": {
         "@id": "node/10938964136",
         "ele": "325",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Pont Laval",
         "note": "position du panneau à vérifier",
@@ -10088,16 +10547,18 @@ guideposts =
       "properties": {
         "@id": "node/10938964137",
         "ele": "410",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Mayres",
         "note": "position du panneau à vérifier",
+        "survey:date": "2023-08-29",
         "tourism": "information"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4519734,
-          44.4015257
+          4.4525152,
+          44.4011367
         ]
       },
       "id": "node/10938964137"
@@ -10107,6 +10568,7 @@ guideposts =
       "properties": {
         "@id": "node/10997747674",
         "ele": "665",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Le Cros",
         "note": "position du panneau à vérifier",
@@ -10126,6 +10588,7 @@ guideposts =
       "properties": {
         "@id": "node/10997747676",
         "ele": "745",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Ranc de Bal",
         "note": "position du panneau à vérifier",
@@ -10145,6 +10608,7 @@ guideposts =
       "properties": {
         "@id": "node/10997747677",
         "ele": "525",
+        "hiking": "yes",
         "information": "guidepost",
         "name": "Logères",
         "note": "position du panneau à vérifier",
@@ -10158,6 +10622,429 @@ guideposts =
         ]
       },
       "id": "node/10997747677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2463000348",
+        "bicycle": "yes",
+        "ele": "1446",
+        "ele:signed": "1446",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Rocher des Taillades",
+        "survey:date": "2023-10-09",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0877418,
+          44.6449686
+        ]
+      },
+      "id": "node/2463000348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11253385752",
+        "ele": "1430",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Col du Pendu",
+        "note": "position du panneau à vérifier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.040418,
+          44.651179
+        ]
+      },
+      "id": "node/11253385752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11253099831",
+        "ele": "1393",
+        "ele:signed": "1393",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Mas des Pergeyres",
+        "survey:date": "2023-10-09",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0755972,
+          44.6459143
+        ]
+      },
+      "id": "node/11253099831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11253109043",
+        "ele": "1412",
+        "ele:signed": "1412",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Bois des Rabeyres",
+        "survey:date": "2023-10-09",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.082416,
+          44.6444974
+        ]
+      },
+      "id": "node/11253109043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928766689",
+        "ele": "1320",
+        "ele:signed": "1307",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Col de la Croix de Bauzon",
+        "survey:date": "2023-10-09",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0966826,
+          44.6361963
+        ]
+      },
+      "id": "node/5928766689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11253109115",
+        "ele": "1425",
+        "ele:signed": "1425",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Fautouras",
+        "survey:date": "2023-10-09",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1103807,
+          44.6404601
+        ]
+      },
+      "id": "node/11253109115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11196102563",
+        "ele": "130",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Petites Pièces",
+        "survey:date": "2023-06-08",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3485531,
+          44.4687264
+        ]
+      },
+      "id": "node/11196102563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11196102562",
+        "ele": "170",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Carrières",
+        "survey:date": "2023-06-08",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.340567,
+          44.4699583
+        ]
+      },
+      "id": "node/11196102562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9409629335",
+        "ele": "285",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Bois du Roi",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4302191,
+          44.3910925
+        ]
+      },
+      "id": "node/9409629335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9409629339",
+        "ele": "327",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Pousaras",
+        "survey:date": "2023-08-29",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4304482,
+          44.3946989
+        ]
+      },
+      "id": "node/9409629339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9409629341",
+        "ele": "290",
+        "ele:signed": "no",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Barthe",
+        "survey:date": "2023-08-29",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4345352,
+          44.4032449
+        ]
+      },
+      "id": "node/9409629341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9409629340",
+        "ele": "421",
+        "ele:signed": "no",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Serre de la Desferre",
+        "survey:date": "2023-08-29",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4436718,
+          44.4031305
+        ]
+      },
+      "id": "node/9409629340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157940534",
+        "ele": "410",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Razal",
+        "survey:date": "2029-08-29",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4518849,
+          44.4016138
+        ]
+      },
+      "id": "node/11157940534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11141805459",
+        "ele": "270",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Monteil",
+        "note": "position du panneau à vérifier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2864168,
+          44.5180364
+        ]
+      },
+      "id": "node/11141805459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11139425798",
+        "ele": "485",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Colombières",
+        "note": "position du panneau à vérifier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2342317,
+          44.5330934
+        ]
+      },
+      "id": "node/11139425798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11139485378",
+        "ele": "360",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Pontet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2830238,
+          44.5780214
+        ]
+      },
+      "id": "node/11139485378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7086634662",
+        "ele": "190",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Portalas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3732234,
+          44.5093279
+        ]
+      },
+      "id": "node/7086634662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11139485361",
+        "ele": "450",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Champ Blanc",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2849912,
+          44.5816771
+        ]
+      },
+      "id": "node/11139485361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11212747640",
+        "ele": "455",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Leyronac",
+        "survey:date": "2023-09-23",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.300384,
+          44.6649259
+        ]
+      },
+      "id": "node/11212747640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10984470644",
+        "ele": "410",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Courtiol",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2644707,
+          44.7034195
+        ]
+      },
+      "id": "node/10984470644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10008091195",
+        "ele": "650",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Coulet_1",
+        "note": "à transférer dans CAPCA",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4403648,
+          44.7152012
+        ]
+      },
+      "id": "node/10008091195"
     }
   ]
 }
