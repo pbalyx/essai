@@ -1,4 +1,4 @@
-maps = 
+network_maps = 
 {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
