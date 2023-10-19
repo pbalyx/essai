@@ -4,9 +4,11 @@ function init_tests() {
 	// region tests
 
 	var b_test = L.easyButton( '<span>tests</span>', function(){
-	//	alert('test');
-		test_elev();
+		alert('test');
+	//	test_elev();
 	//	test_dist();
+	//  test_bounds();
+	//test_json();
 //	console.log(routes);
 //	doTraceRoutes();
 	});
@@ -41,6 +43,48 @@ function init_tests() {
 		console.log("routes sans elev ", count2);
 		console.log("routes avec elev ", count3);
 		info_status.innerHTML = `routes sans elev : ${count2},  routes avec elev : ${count3}`;
+	}
+
+	function test_bounds() {
+//		var bounds = L.latLngBounds(map.getBounds());
+		var bounds = map.getBounds();
+		console.log(bounds);
+		var guidepostsArray = guideposts.features;
+//		console.log(guidepostsArray[1]);//boulogne
+		var pt = guidepostsArray[1].geometry.coordinates;
+//		var pos = L.latLng(pt[1],pt[0]);
+		var pos = L.GeoJSON.coordsToLatLng(pt);
+//		console.log(guidepostsArray[1].geometry.coordinates, pos);//boulogne
+		var isHere = bounds.contains(pos);
+//		console.log(isHere);
+		var nbPts = 0;
+		for (var i = 0; i < guidepostsArray.length; i++) {
+			var pnt = L.GeoJSON.coordsToLatLng(guidepostsArray[i].geometry.coordinates);
+			if (bounds.contains(pnt)) {nbPts++}
+		}
+		console.log("nbPts ", nbPts);
+	}
+
+	function test_json() {
+		var js = new L.GeoJSON();
+		js.type = "FeatureCollection";
+		js.features = [];
+		var bounds = map.getBounds();
+		var guidepostsArray = guideposts.features;
+		var nbPts = 0;
+//		console.log(js);
+//		console.log(guideposts);
+		for (var i = 0; i < guidepostsArray.length; i++) {
+			var pnt = L.GeoJSON.coordsToLatLng(guidepostsArray[i].geometry.coordinates);
+			if (bounds.contains(pnt)) {
+				js.features.push(guidepostsArray[i]);
+			}
+		}
+	guidepostsLayer.clearLayers();
+	guidepostsLayer.addData(js);
+		console.log(guidepostsLayer);
+	guidepostsLayer.eachLayer(function(layer){nbPts++});
+		console.log(nbPts);
 	}
 
 /*

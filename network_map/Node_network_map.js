@@ -1,12 +1,11 @@
 ///
-const version ="V_1.3.3";
+const version ="V_1.4";
 window.onload = (event) => {
 	console.log("version : ", version);
-	//console.log("test_button ", test_button);
 	document.title = network_name;
 	doTraceRoutes();
 	setZoomAndCenter();
-	doShowGuideposts();
+	init_guideposts_and_maps();
 	if (network_router) {init_network_router() };
 	if (test_button) {init_tests() };
 };
@@ -77,8 +76,6 @@ var OSMLayer = L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.
 	}
 	
 function doTraceRoutes() {
-//	console.log("routes ",routes);
-
 //	var routesLayer = L.geoJSON([]);
 	var routesLayerTmp = L.geoJSON(routes, {style: routesStyle, onEachFeature: onEachFeatureDo });
 	routesLayerTmp.eachLayer(function(layer) {
@@ -100,6 +97,7 @@ var guidepostIcon = L.icon({
     iconAnchor: [6, 18],
     tooltipAnchor: [0, -22]
 });
+
 var guidepostsLayer = L.geoJSON(guideposts, {   //this layer disappears when moving the map
 		pointToLayer: function(feature, latlng) {
 			label ="*";
@@ -118,11 +116,54 @@ var guidepostsLayer = L.geoJSON(guideposts, {   //this layer disappears when mov
 		}
 	});; 
 
-function doShowGuideposts() {		
+var guidepostsArray = [];
+var guidepostsLayer_tmp = new L.GeoJSON();
+	guidepostsLayer_tmp.type = "FeatureCollection";
+	guidepostsLayer_tmp.features = [];
 
-	guidepostsLayer.addData(guideposts);
+var network_mapsArray = [];
+var networkMapsLayer_tmp = new L.GeoJSON();
+	networkMapsLayer_tmp.type = "FeatureCollection";
+	networkMapsLayer_tmp.features = [];
+
+function init_guideposts_and_maps() {	
+	guidepostsArray = guideposts.features;	
+	network_mapsArray = network_maps.features;	
+	update_guidepostLayer();
+	update_network_mapsLayer();
 	junctionLayer.addData(guideposts);
-	mapsLayer.addData(network_maps);
+}
+
+function update_guidepostLayer() {
+	guidepostsLayer_tmp.features = [];
+	var bounds = map.getBounds();
+//	console.log(map.getZoom());
+	if (map.getZoom() > 12) {
+		for (var i = 0; i < guidepostsArray.length; i++) {
+			var pnt = L.GeoJSON.coordsToLatLng(guidepostsArray[i].geometry.coordinates);
+			if (bounds.contains(pnt)) {
+				guidepostsLayer_tmp.features.push(guidepostsArray[i]);
+			}
+		}
+	}
+	guidepostsLayer.clearLayers();
+	guidepostsLayer.addData(guidepostsLayer_tmp.features);
+//	console.log("guidepostsLayer ",guidepostsLayer);
+}
+
+function update_network_mapsLayer() {
+	networkMapsLayer_tmp.features = [];
+	var bounds = map.getBounds();
+	if (map.getZoom() > 10) {
+		for (var i = 0; i < network_mapsArray.length; i++) {
+			var pnt = L.GeoJSON.coordsToLatLng(network_mapsArray[i].geometry.coordinates);
+			if (bounds.contains(pnt)) {
+				networkMapsLayer_tmp.features.push(network_mapsArray[i]);
+			}
+		}
+	}
+	network_mapsLayer.clearLayers();
+	network_mapsLayer.addData(networkMapsLayer_tmp.features);
 }
 
 var mapIcon = L.icon({
@@ -132,7 +173,7 @@ var mapIcon = L.icon({
     tooltipAnchor: [0, -22]
 });
 		
-var mapsLayer = L.geoJSON([], {   //this layer disappears when moving the map
+var network_mapsLayer = L.geoJSON([], {   //this layer disappears when moving the map
 	pointToLayer: function(feature, latlng) {
 		label ="*";
 		if (feature.properties.name) {
@@ -191,14 +232,16 @@ function setZoomAndCenter() {
 //	console.log(mapCenter, '   ',centerlatLng);
 }
 
-	var map = L.map('map', {
-		center: [46.6, 2.5],
-		zoom: 6,
-		layers: [OTMLayer, guidepostsLayer, mapsLayer, routesLayer, connectionsLayer ]
-	});
-	L.control.scale({maxWidth: 200, imperial: false}).addTo(map);
-	
-	junctionLayer.addTo(map);
+var network_nodes_Layer = new L.LayerGroup([]);;
+
+var map = L.map('map', {
+	center: [46.6, 2.5],
+	zoom: 6,
+	layers: [OTMLayer, guidepostsLayer, network_mapsLayer, routesLayer, connectionsLayer ]
+});
+L.control.scale({maxWidth: 200, imperial: false}).addTo(map);
+
+junctionLayer.addTo(map);
 
 //endregion
 
@@ -214,15 +257,15 @@ var baseMaps = {
 var overlayMaps = {
 	"Trajets": routesLayer,
     "Panneaux": guidepostsLayer,
-	"Plans": mapsLayer
+	"Plans": network_mapsLayer
 };
 
 // flags for visibility dependant of layerControl
 // (don't add layers on moveend if their layerControl checkBox is not checked)
-	var routes_visible = true;
-	var connections_visible = true;
-	var guideposts_visible = true;
-	var maps_visible = true;
+var routes_visible = true;
+var connections_visible = true;
+var guideposts_visible = true;
+var maps_visible = true;
 
 var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
 var map_moving =false; //is action directly from layerControl or from map_moving
@@ -231,8 +274,10 @@ map.on("movestart", function () {
 	map_moving = true;
 	map.removeLayer(routesLayer);
 	map.removeLayer(connectionsLayer);
-	map.removeLayer(guidepostsLayer);
-	map.removeLayer(mapsLayer);
+//	map.removeLayer(guidepostsLayer);
+	guidepostsLayer.clearLayers();
+//	map.removeLayer(network_mapsLayer);
+	network_mapsLayer.clearLayers();
 }); 
 
 map.on("moveend", function () {
@@ -240,12 +285,17 @@ map.on("moveend", function () {
 		map.addLayer(routesLayer);
 		map.addLayer(connectionsLayer);
 	};
-	if (guideposts_visible) { map.addLayer(guidepostsLayer);};	 
-	if (maps_visible) { map.addLayer(mapsLayer);};
+	if (guideposts_visible) {
+		update_guidepostLayer();
+	};	 
+	if (maps_visible) { 
+		update_network_mapsLayer();
+	};
 	if (network_router) {
-//	console.log("network_router ", network_router, "circuitLayer ", circuitLayer);
 		map.removeLayer(circuitLayer);
 		map.addLayer(circuitLayer);  //circuitLayer last added to leave it visible above routes
+		map.removeLayer(network_nodes_Layer);
+		map.addLayer(network_nodes_Layer);  //network_nodes_Layer above all
 	}
 	map_moving = false;
 });
@@ -288,11 +338,13 @@ map.on("overlayadd", e => {
 		case "Panneaux":
 			if (!map_moving) {
 				guideposts_visible = true;
+				update_guidepostLayer();
 			};
 		break;
 		case "Plans":
 			if (!map_moving) {
 				maps_visible = true;
+				update_network_mapsLayer();
 			};
 		break;
 		default:
@@ -309,7 +361,6 @@ function init_network_router() {
 
 //region network_nodes_Layer
 
-	var network_nodes_Layer = new L.LayerGroup([]);;
 	var network_nodes_Array =[];
 
 //	console.log(network_nodes.features.length);
@@ -638,6 +689,8 @@ function set_circuitMode() {
 	info_status.style.backgroundColor = "gold";
 	isTrackMode = true;
 	set_largeNodes(true);
+	network_nodes_Layer.removeFrom(map);
+	network_nodes_Layer.addTo(map);
 	currentNode = undefined;
 	nextNodes.length = 0;
 	circuitRoutes.length = 0;
@@ -764,9 +817,10 @@ b_undo.disable();
 b_download.disable();
 b_end.disable();
 
+// endregion
+
 }
 
-// endregion
 
 
 
