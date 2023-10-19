@@ -73,15 +73,19 @@
 	Les différentes couches de données sont ; <br>
 	&nbsp&nbsp&nbsp <i><b>-- routes</b></i> : itinéraires entre les carrefours.<br>
 	&nbsp&nbsp&nbsp <i><b>-- guideposts</b></i> : poteaux avec des lames directionnelles situés aux intersections. <br>	
-	&nbsp&nbsp&nbsp <i><b>-- maps</b></i> : panneaux montrant des plans schématiques du réseau, situés en général dans les villages.<br>
+	&nbsp&nbsp&nbsp <i><b>-- network_maps</b></i> : panneaux montrant des plans schématiques du réseau, situés en général dans les villages.<br>
 	&nbsp&nbsp&nbsp <i><b>-- connections</b></i> : pour les itinéraires entre carrefours allant vers des réseaux différents, les itinéraires dans <i> connections</i> surchargent la partie n'appartenant pas au réseau d'une couleur différente. <br>
 	
 	<h3>Fichier de configuration</h3>
 	Comme pour les données du réseau, ce fichier vient surcharger les valeurs par défaut de paramètres définis et initialisés préalablement. L'absence d'une donnée ne provoque donc pas d'erreur.<br>
 	Les paramètres actuels sont ceux qui définissent le positionnement initial de la carte, centre et niveau de zoom, à l'ouverture de la page. La syntaxe est par exemple :<br> 
-	 - mapCenter = "44.622, 4.38"; <br>
-	 - zoom = "14";<br>
+	 <i>- mapCenter = "44.622, 4.38"; </i><br>
+	 <i>- zoom = "14";</i><br>
     Les valeurs par défaut sont "auto" pour mapCenter (le centre est positionné automatiquement au centre de la couche de routes du réseau) et 13 pour le zoom.<br>
+	Un paramètre booléen supplémentaire <i>network_router</i> indique si le mode de construction de circuit est disponible ou pas. Par défaut, ce paramètre est <i>false</i>. S'il est mis à <i>true</i> dans le fichier de configuration :<br>
+	 <i>- network_router = true;</i><br>
+	  ce mode est accessible par l'icône circuit.<br>
+
 	D'autres paramètres pourront être ajoutés au fur et à mesure des mises à jour.<br>
 	
 </div>
