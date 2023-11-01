@@ -1,4 +1,4 @@
-guideposts = 
+guideposts =
 {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
@@ -11786,6 +11786,115 @@ guideposts =
         ]
       },
       "id": "node/11297983650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8939558619",
+        "ele": "400",
+        "information": "guidepost",
+        "name": "Le Chastelas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2545769,
+          44.6376912
+        ]
+      },
+      "id": "node/8939558619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8939602219",
+        "ele": "509",
+        "information": "guidepost",
+        "name": "La Brousse",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2595839,
+          44.651444
+        ]
+      },
+      "id": "node/8939602219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8939602235",
+        "ele": "611",
+        "information": "guidepost",
+        "name": "Sérangelier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2539178,
+          44.6524327
+        ]
+      },
+      "id": "node/8939602235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8939602269",
+        "ele": "570",
+        "information": "guidepost",
+        "name": "Le Monteil",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2499086,
+          44.64775
+        ]
+      },
+      "id": "node/8939602269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8939602270",
+        "ele": "393",
+        "information": "guidepost",
+        "name": "Bonneval",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.265331,
+          44.6480885
+        ]
+      },
+      "id": "node/8939602270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11305076476",
+        "ele": "485",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Larmande",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2715251,
+          44.6417006
+        ]
+      },
+      "id": "node/11305076476"
     }
   ]
 }
