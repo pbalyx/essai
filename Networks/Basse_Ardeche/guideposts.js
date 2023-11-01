@@ -1,4 +1,4 @@
-guideposts =
+guideposts = 
 {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
@@ -4193,7 +4193,7 @@ guideposts =
       "type": "Feature",
       "properties": {
         "@id": "node/9373643491",
-        "ele": "555",
+        "ele": "560",
         "ele:signed": "560",
         "hiking": "yes",
         "information": "guidepost",
@@ -11045,6 +11045,747 @@ guideposts =
         ]
       },
       "id": "node/10008091195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5938682082",
+        "ele": "460",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Roche",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1854293,
+          44.5445674
+        ]
+      },
+      "id": "node/5938682082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5938682193",
+        "ele": "275",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Colobrouze",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1900812,
+          44.5422043
+        ]
+      },
+      "id": "node/5938682193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6440981382",
+        "ele": "270",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Pont du Gua",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1909697,
+          44.5422273
+        ]
+      },
+      "id": "node/6440981382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11291325283",
+        "ele": "440",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Entrée de Champussac",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1920835,
+          44.567782
+        ]
+      },
+      "id": "node/11291325283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5993794877",
+        "ele": "690",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Chalas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1118309,
+          44.5963289
+        ]
+      },
+      "id": "node/5993794877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6061745508",
+        "ele:signed": "1365",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Grangette",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.111343,
+          44.6116103
+        ]
+      },
+      "id": "node/6061745508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11010647119",
+        "ele": "1410",
+        "ele:signed": "no",
+        "information": "guidepost",
+        "name": "Méjean",
+        "name:signed": "no",
+        "note": "nom d'après fiche rando",
+        "survey:date": "2023-06-26",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1316821,
+          44.6103796
+        ]
+      },
+      "id": "node/11010647119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558620983",
+        "ele": "1390",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Rocher des Barres",
+        "survey:date": "2023-06-26",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.138543,
+          44.6083398
+        ]
+      },
+      "id": "node/4558620983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4813256690",
+        "ele": "695",
+        "hiking": "yes",
+        "information": "guidepost",
+        "mtb": "yes",
+        "name": "Les Cebeyres",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1697114,
+          44.5870347
+        ]
+      },
+      "id": "node/4813256690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11290888568",
+        "ele": "590",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Valousset",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1857146,
+          44.5861196
+        ]
+      },
+      "id": "node/11290888568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11289228589",
+        "ele": "1265",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Cros de l'Aygue",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1689682,
+          44.6124752
+        ]
+      },
+      "id": "node/11289228589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857158104",
+        "ele": "1205",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Col des Langoustines",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.175795,
+          44.6126532
+        ]
+      },
+      "id": "node/5857158104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857157145",
+        "ele": "1210",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Col de Sucheyre",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.185604,
+          44.609852
+        ]
+      },
+      "id": "node/5857157145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11291325287",
+        "ele": "455",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "St Pierre de Malet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2006236,
+          44.544851
+        ]
+      },
+      "id": "node/11291325287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11291325285",
+        "ele": "620",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Loup du Perrier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2129537,
+          44.5524587
+        ]
+      },
+      "id": "node/11291325285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11291325286",
+        "ele": "630",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Collet de la Berle",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2140025,
+          44.5485804
+        ]
+      },
+      "id": "node/11291325286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11291325284",
+        "ele": "500",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Sur le Sauze",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2017502,
+          44.5648125
+        ]
+      },
+      "id": "node/11291325284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6407113529",
+        "ele": "535",
+        "hiking": "yes",
+        "information": "guidepost",
+        "mapillary": "319857012885323",
+        "name": "Croix de la Marre",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2084463,
+          44.560914
+        ]
+      },
+      "id": "node/6407113529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857037942",
+        "ele": "460",
+        "hiking": "yes",
+        "information": "guidepost",
+        "mapillary": "902739437248878",
+        "name": "Sous les Combes",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2102249,
+          44.5720848
+        ]
+      },
+      "id": "node/5857037942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6407116590",
+        "ele": "475",
+        "hiking": "yes",
+        "information": "guidepost",
+        "mapillary": "1639892276401484",
+        "name": "La Croix de Rocles",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2136404,
+          44.5680777
+        ]
+      },
+      "id": "node/6407116590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857036251",
+        "ele": "525",
+        "hiking": "yes",
+        "information": "guidepost",
+        "mapillary": "259466625878904",
+        "name": "Le Jal",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2167583,
+          44.5702463
+        ]
+      },
+      "id": "node/5857036251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5695377842",
+        "ele": "625",
+        "hiking": "yes",
+        "information": "guidepost",
+        "mapillary": "804644646833077",
+        "name": "Bouteillac",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2100307,
+          44.5787331
+        ]
+      },
+      "id": "node/5695377842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5695377219",
+        "ele": "1090",
+        "hiking": "yes",
+        "information": "guidepost",
+        "mapillary": "251877773393032",
+        "name": "Le Pissas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2187863,
+          44.5886172
+        ]
+      },
+      "id": "node/5695377219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857156935",
+        "ele": "1069",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Col du Merle",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2096379,
+          44.599824
+        ]
+      },
+      "id": "node/5857156935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558596302",
+        "ele": "827",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Ségur",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.10616,
+          44.5997735
+        ]
+      },
+      "id": "node/4558596302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6061745770",
+        "ele": "1330",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "L'Escoufour",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1042603,
+          44.6141071
+        ]
+      },
+      "id": "node/6061745770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857154910",
+        "ele": "555",
+        "hiking": "yes",
+        "information": "guidepost",
+        "mapillary": "4047845461941875",
+        "name": "Le Vernet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2229327,
+          44.5734902
+        ]
+      },
+      "id": "node/5857154910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558596302",
+        "ele": "827",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Ségur",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.10616,
+          44.5997735
+        ]
+      },
+      "id": "node/4558596302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6061745770",
+        "ele": "1330",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "L'Escoufour",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1042603,
+          44.6141071
+        ]
+      },
+      "id": "node/6061745770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857154910",
+        "ele": "555",
+        "hiking": "yes",
+        "information": "guidepost",
+        "mapillary": "4047845461941875",
+        "name": "Le Vernet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2229327,
+          44.5734902
+        ]
+      },
+      "id": "node/5857154910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11297983654",
+        "ele": "485",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Soulhets",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2804086,
+          44.6441243
+        ]
+      },
+      "id": "node/11297983654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11297983653",
+        "ele": "310",
+        "ele:signed": "310",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Chambon",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2955765,
+          44.6424268
+        ]
+      },
+      "id": "node/11297983653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11297983655",
+        "ele": "413",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Chabanne",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2919153,
+          44.6473112
+        ]
+      },
+      "id": "node/11297983655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11297983656",
+        "ele": "413",
+        "ele:signed": "413",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Coste",
+        "survey:date": "2021-12-06",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2918134,
+          44.6468265
+        ]
+      },
+      "id": "node/11297983656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11297983646",
+        "ele": "440",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Nougeyrolles",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2891526,
+          44.6535889
+        ]
+      },
+      "id": "node/11297983646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11297983652",
+        "ele": "290",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Pont de Prades",
+        "note": "position du panneau à vérifier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3114203,
+          44.6422464
+        ]
+      },
+      "id": "node/11297983652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11297983651",
+        "ele": "430",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Puy de Prades",
+        "note": "position du panneau à vérifier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3035507,
+          44.6474753
+        ]
+      },
+      "id": "node/11297983651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11297983650",
+        "ele": "415",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Martinesche",
+        "note": "position du panneau à vérifier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3080515,
+          44.6493911
+        ]
+      },
+      "id": "node/11297983650"
     }
   ]
 }

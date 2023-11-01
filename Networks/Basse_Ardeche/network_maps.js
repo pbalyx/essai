@@ -1,4 +1,4 @@
-network_maps = 
+network_maps =
 {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
@@ -693,6 +693,156 @@ network_maps =
         ]
       },
       "id": "node/11011562956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1954447190",
+        "ele": "670",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Laboule",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1653735,
+          44.5878227
+        ]
+      },
+      "id": "node/1954447190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10691391221",
+        "information": "map",
+        "name": "Sampzon Info Rando",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3347435,
+          44.4175678
+        ]
+      },
+      "id": "node/10691391221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10556441748",
+        "ele": "185",
+        "ele:signed": "no",
+        "information": "map",
+        "name": "Lagorce Info rando",
+        "name:signed": "no",
+        "survey:date": "2023-01-04",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4176157,
+          44.4473565
+        ]
+      },
+      "id": "node/10556441748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9487441317",
+        "ele": "290",
+        "information": "map",
+        "name": "Montréal Info Rando",
+        "survey:date": "2022-02-07",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2923168,
+          44.5280489
+        ]
+      },
+      "id": "node/9487441317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9545933226",
+        "ele": "455",
+        "information": "map",
+        "name": "Sanilhac Info Rando",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2503265,
+          44.5371134
+        ]
+      },
+      "id": "node/9545933226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7298359511",
+        "ele": "465",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Fabras",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2871544,
+          44.6515211
+        ]
+      },
+      "id": "node/7298359511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11297983649",
+        "ele": "320",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Prades",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3161356,
+          44.6384123
+        ]
+      },
+      "id": "node/11297983649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10976731109",
+        "information": "map",
+        "map_type": "toposcope",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3862325,
+          44.7785882
+        ]
+      },
+      "id": "node/10976731109"
     }
   ]
 }
