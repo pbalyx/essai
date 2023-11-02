@@ -1,8 +1,13 @@
 ///
-const version ="V_1.4";
+const version ="V_1.4.2";
+const num = 2;
+// 1.4.1 : ajouté des target="_blank" pour toutes les attributions
+// 1.4.2 : version ok pour portables (Responsive web design)
+
 window.onload = (event) => {
 	console.log("version : ", version);
 	document.title = network_name;
+//	document.title = network_name + ", " + version + ",  N : " + num;
 	doTraceRoutes();
 	setZoomAndCenter();
 	init_guideposts_and_maps();
@@ -16,25 +21,25 @@ window.onload = (event) => {
 //region OTM
 	var OTMLayer = L.tileLayer('https://a.tile.opentopomap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
-		attribution: '&copy  <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a href="https://www.opentopomap.org/">OpenTopoMap</a> | <a href="https://www.openstreetmap.org/user/pb07/diary">pb07</a>'
+		attribution: '&copy  <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> | <a href="https://www.opentopomap.org/ target="_blank"">OpenTopoMap</a> | <a href="https://www.openstreetmap.org/user/pb07/diary" target="_blank">pb07</a>'
 	}); 
 
 //region OSM/ 	
 var OSMLayer = L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
 		maxZoom: 19,
-		attribution: '&copy <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a href="https://www.openstreetmap.org/user/pb07/diary">pb07</a>'
+		attribution: '&copy <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> | <a href="https://www.openstreetmap.org/user/pb07/diary" target="_blank">pb07</a>'
 	});	
 
 // region PlanIGN
 	var PlanIGNLayer = L.tileLayer('https://wxs.ign.fr/pratique/wmts/?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image%2Fpng', {
 		maxZoom: 19,
-		attribution: ' Carte: <a href="https://geoservices.ign.fr/planign">Plan IGN</a> | Tracés: <a href="https://www.openstreetmap.org">OpenStreetMap</a> | <a href="https://www.openstreetmap.org/user/pb07/diary">pb07</a>'
+		attribution: ' Carte: <a href="https://geoservices.ign.fr/planign" target="_blank">Plan IGN</a> | Tracés: <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> | <a href="https://www.openstreetmap.org/user/pb07/diary" target="_blank">pb07</a>'
 	});
 
 // region IGNPhoto
 	var IGNPhoto = L.tileLayer('https://wxs.ign.fr/pratique/wmts/?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image%2Fjpeg', {
 		maxZoom: 19,
-		attribution: '<a href="[[https://www.geoportail.gouv.fr/depot/api/cgu/CGU_API_libre.pdf|{{https://wxs.ign.fr/static/logos/IGN/IGN.gif|32}}]]">IGN Image aérienne</a> | Tracés: <a href="https://www.openstreetmap.org">OpenStreetMap</a> | <a href="https://www.openstreetmap.org/user/pb07/diary">pb07</a></a>'
+		attribution: '<a href="[[https://www.geoportail.gouv.fr/depot/api/cgu/CGU_API_libre.pdf|{{https://wxs.ign.fr/static/logos/IGN/IGN.gif|32}}]]" target="_blank">IGN Image aérienne</a> | Tracés: <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> | <a href="https://www.openstreetmap.org/user/pb07/diary" target="_blank">pb07</a></a>'
 	});
 
 //endregion
