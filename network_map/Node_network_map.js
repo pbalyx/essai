@@ -1,20 +1,28 @@
 ///
-const version ="V_1.4.2";
-const num = 2;
+const version ="V_1.4.3";
+const num = 7;
 // 1.4.1 : ajouté des target="_blank" pour toutes les attributions
-// 1.4.2 : version ok pour portables (Responsive web design)
+// 1.4.2 : version ok pour portables (Responsive web design) 
+//			avec aide intégrée
+// 1.4.3 : modification du menu itinéraires
 
 window.onload = (event) => {
 	console.log("version : ", version);
+//	document.title = network_loc + ", " + version + ",  N : " + num;
 	document.title = network_name;
-//	document.title = network_name + ", " + version + ",  N : " + num;
+	help_header_span.innerHTML = network_name;
+	help_network_info.innerHTML = network_info;
+
 	doTraceRoutes();
 	setZoomAndCenter();
 	init_guideposts_and_maps();
-	if (network_router) {init_network_router() };
+	if (network_router) {
+		init_network_router();
+		help_circuit.style.display= "block";
+		console.log(network_router, help_circuit);
+	};
 	if (test_button) {init_tests() };
 };
-
 
 //region Map Tiles
 
@@ -360,7 +368,17 @@ map.on("overlayadd", e => {
 //endregion
 
 	var circuitLayer = L.polyline([], {color: 'red'});
-	circuitLayer.addTo(map);		
+	circuitLayer.addTo(map);	
+
+var help_visible = false;
+b_help.onclick = show_help;
+b_close_help.onclick = show_help;
+function show_help() {
+	console.log('show help');
+	help_visible = ! help_visible;
+	if (help_visible) { help_div.style.display = "block"; }
+	else { help_div.style.display = "none"; }	
+}
 
 function init_network_router() {
 
@@ -474,7 +492,9 @@ const nextStyle = {
 var info_status = document.getElementById('info_status');
 var info_dist = document.getElementById('info_dist');
 var info_ascent = document.getElementById('info_ascent');
-
+var help_header_span = document.getElementById('help_header_span');
+var help_network_info = document.getElementById('help_network_info');
+var help_circuit = document.getElementById('help_circuit');
 let isTrackMode = false;
 var startNode = undefined;
 var currentNode = undefined;
@@ -689,32 +709,59 @@ function set_largeNodes(setBig) {
 	}
 }
 
-function set_circuitMode() {
+function buttons_show(_show) {
+	if(_show) {
+		b_undo.enable();
+		b_download.enable();
+		b_clear.enable();
+	} else {
+		b_undo.disable();
+		b_download.disable();
+		b_clear.disable();
+	}
+}
+
+function start_circuitMode() {
 	info_status.innerHTML = "Edition en cours";
 	info_status.style.backgroundColor = "gold";
-	isTrackMode = true;
 	set_largeNodes(true);
 	network_nodes_Layer.removeFrom(map);
 	network_nodes_Layer.addTo(map);
 	currentNode = undefined;
 	nextNodes.length = 0;
+	circuitNodes.length = 0;
 	circuitRoutes.length = 0;
 	circuitInfos.length = 0;
 	totalDist =0;
 }
 
-function end_circuitMode() {
-	isTrackMode = false;
-	set_largeNodes(false);
-	
-	circuitLayer.setLatLngs([]);
-	info_status.innerHTML = "";
-	info_dist.innerHTML = "";
-	info_ascent.innerHTML = "";
+function toggle_circuitMode() {
+	isTrackMode = !isTrackMode;
+	buttons_show(isTrackMode);
+	if (isTrackMode) {
+		if (nextNodes.length == 0) {
+			start_circuitMode();
+			console.log('démarrer circuit', );
+		} else {
+			for (var i = 0; i < nextNodes.length; i++) { 
+				nextNodes[i].setStyle(nextStyle);
+			}		
+			currentNode.setStyle(selectedStyle);
+			console.log('continuer circuit', );
+		}
+	} else {
+		set_largeNodes(false);
+		if (nextNodes.length == 0) {
+			console.log('circuit vide');
+			info_status.innerHTML = "";
+		} else {
+			console.log('circuit en cours');
+		}	
+	}
 }
 
 function undoLast() {
-//	console.log("undo");
+	console.log("undo", circuitNodes);
 	if (circuitNodes.length > 1) {
 		var lastNode = circuitNodes.pop();
 		circuitRoutes.pop();
@@ -722,8 +769,21 @@ function undoLast() {
 		next_circuit_node(circuitNodes[circuitNodes.length -1],true);	
 	} else { 
 		console.log("restart");
-		set_circuitMode();
+		start_circuitMode();
 	}
+}
+
+function clear_circuit() {
+	currentNode = undefined;
+	nextNodes.length = 0;
+	set_largeNodes(true);
+	circuitRoutes.length = 0;
+	circuitInfos.length = 0;
+	totalDist =0;
+	circuitLayer.setLatLngs([]);
+//	info_status.innerHTML = "";
+	info_dist.innerHTML = "";
+	info_ascent.innerHTML = "";
 }
 
 // endregion 
@@ -794,10 +854,7 @@ function downloadFile() {
 // region buttons
 
 var b_circuit = L.easyButton( '<img src="./icons/icon-circuit.png">', function(){
-	b_undo.enable();
-	b_download.enable();
-	b_end.enable();
-	set_circuitMode();
+	toggle_circuitMode();
 });
 
 var b_undo = L.easyButton( '<img src="./icons/icon-undo.png">', function(){
@@ -808,19 +865,18 @@ var b_download = L.easyButton( '<img src="./icons/icon-download.png">', function
 	downloadFile();
 });
 
-var b_end = L.easyButton( '<img src="./icons/icon-end.png">', function(){
-  end_circuitMode();
-b_undo.disable();
-b_download.disable();
-b_end.disable();
+var b_clear = L.easyButton( '<img src="./icons/icon-end.png">', function(){
+	if (confirm("Effacer le circuit en cours ?")) {
+		clear_circuit();
+	}
 });
 
-easyBar = L.easyBar([b_circuit, b_undo, b_download, b_end]);	
+easyBar = L.easyBar([b_circuit, b_undo, b_download, b_clear]);	
 easyBar.addTo(map);
 
 b_undo.disable();
 b_download.disable();
-b_end.disable();
+b_clear.disable();
 
 // endregion
 

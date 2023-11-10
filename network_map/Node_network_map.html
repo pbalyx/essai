@@ -2,9 +2,9 @@
 <html>
 <head>
     <meta charset="UTF-8"> 
-	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"> 
 	
-	<title>Node_network_map V_1.4.2</title>
+	<title>Node_network_map V_1.4.3</title>
 			 
 	<link rel="stylesheet" type="text/css" href="leaflet_src/leaflet.css">
 	 
@@ -12,31 +12,32 @@
 	<script src="leaflet_src/easy-button.js" ></script> 
 
 	<style>
-	<!--	#map {height: calc(100vh - 20px); }-->
+	html {
+		overscroll-behavior: none !important;	
+	}
 	#main {
 		display: flex;
 		flex-direction: column;
 		height: 95vh; /* Ajuster la hauteur du cadre principal selon vos besoins */
-		border: 1px solid blue;
 
+		border: 1px solid blue;
 	} 
 	.map {
 		flex: 1; /* Fait en sorte que la carte prenne tout l'espace disponible en hauteur */
-		border: 1px solid blue;
  	}
 	#info {
 		padding: 2px;
 		background-color: lightgray;
+		font-size: 1em;
 	}
 	#info_status {
 		padding-left: 10px;
 		padding-right: 10px;
 		background-color: yellow;
-		margin-left: 10%;
 		float: left;
 	}
 	#info_dist {
-		margin-left: 2%;
+		margin-left: 0%;
 		padding-left: 10px;
 		padding-right: 10px;
 		background-color: white;
@@ -52,7 +53,7 @@
 	
 	.leaflet-tooltip {
 		padding: 0px 4px 0px 4px ;
-		background-color: aquamarine;
+		background-color: red;
 		font-size: 2em;
 		font-weight: bold;
 		line-height: 2em;
@@ -99,11 +100,86 @@
 	.leaflet-fade-anim .leaflet-tile {
 		will-change: auto !important;
 	}
+	
+	#b_help {
+		position: absolute;
+		top: 20px;
+		left: 60px;
+		background-color: white;
+		z-index:1000;
+		font-size: 1.4em;
+		font-weight: bold;
+	}
+	#help_div {
+		background-color: white;
+		border: 2px solid blue;
+		position: absolute;
+		left: 100px;
+		top: 20px;
+		width: 50%;
+		font-size: 0.9em;
+	 	display: none;
+		z-index:2000;
+	}
+		#help_header {
+		background-color: lightgray;
+		padding:10px;
 
-	</style>
+	}
+	#help_body {
+		background-color: white;
+		padding:10px;
+	}
+	
+	#b_close_help {
+		float: right;
+
+		background-color: white;		
+	}
+
+	
+@media screen and (max-width: 650px) {
+	#main {
+		height: 88vh; 
+	}
+	#info {
+		font-size: 0.8em;
+	}
+	#help_div {
+		width: 70vw;
+	}
+
+}
+
+</style>
 
 </head>
 <body>
+	<div id= "help_div"> 
+		<div id= "help_header">
+			<span id="help_header_span">-</span>
+			<button id= "b_close_help"><b>X</b></button>
+		</div>
+		<div id= "help_body">
+			<span id="help_network_info">--</span><br><br>
+			
+			<div id="help_circuit" style="display: none">
+				Cette carte permet d'éditer un itinéraire dans le réseau de sentiers et de carrefours.<br>			
+				<img src="./icons/icon-circuit.png" style="height:18px"> pour lancer ou quitter le mode édition.<br>
+				&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+				Cliquer sur un des carrefours pour définir le départ.   <br>
+
+				&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+				Cliquer ensuite de proche en proche sur les carrefours en orange pour construire le circuit.<br>
+				&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp La longueur du trajet et les dénivelés sont indiqués au fur et à mesure au bas de l'écran.<br>
+				
+				<img src="./icons/icon-undo.png" style="height:16px"> pour revenir en arrière.<br>
+				<img src="./icons/icon-download.png" style="height:16px"> pour télécharger l'itinéraire en fichier .gpx <br>
+				<img src="./icons/icon-end.png" style="height:16px"> pour revenir à zéro.<br> <br>
+			</div>
+		</div>
+
+	</div>
 	<div id="main">
 		<div id="map" class="map"></div>
 		<div id="info" >
@@ -111,10 +187,14 @@
 			<span id="info_dist"> </span>
 			<span id="info_ascent"> </span>
 		</div>
+		<button id="b_help">?<button>
 	</div>
+
 	<!--init default values;-->
 	<script>
 		var network_name = "Node_network_map";
+		var network_info = "";
+		var network_loc = "sandbox";
 		var Network_data_dir = "../network_data";
 		var mapCenter = "auto";
 		var zoom = 6;	
@@ -129,7 +209,7 @@
 	
 <!--overwrite with scripts 
 Scripts créés dynamiquement pour avoir le choix du dossier Network_data
-	<script src= "../Network_data/config.txt" ></script> -->
+	<script src= "../Network_data/config.js" ></script> -->
   <script>
 	
     // Récupérer les paramètres de l'URL
