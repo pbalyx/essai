@@ -4,7 +4,7 @@
     <meta charset="UTF-8"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"> 
 	
-	<title>Node_network_map V_1.4.3</title>
+	<title>Node_network_map V_1.4.4</title>
 			 
 	<link rel="stylesheet" type="text/css" href="leaflet_src/leaflet.css">
 	 
@@ -12,13 +12,19 @@
 	<script src="leaflet_src/easy-button.js" ></script> 
 
 	<style>
+	<!--	#map {height: calc(100vh - 20px); }-->
 	html {
 		overscroll-behavior: none !important;	
 	}
 	#main {
+		position: fixed;
+		top: 3px;
+		left: 3px;
+		width: 98vw;
+		height: 98vh; /* Ajuster la hauteur du cadre principal selon vos besoins */
+
 		display: flex;
 		flex-direction: column;
-		height: 95vh; /* Ajuster la hauteur du cadre principal selon vos besoins */
 
 		border: 1px solid blue;
 	} 
@@ -34,6 +40,7 @@
 		padding-left: 10px;
 		padding-right: 10px;
 		background-color: yellow;
+	/*	margin-left: 10%;*/
 		float: left;
 	}
 	#info_dist {
@@ -92,6 +99,13 @@
 		height: 30px;
 	   border: 1px solid blue;
 	}
+	
+	#confirm_dialog {
+		text-align: center;
+		line-height: 1.8em;
+		border: 3px solid blue;
+	
+	}
 
 /* Surcharge de la règle will-change dans Leaflet */
 	.leaflet-zoom-anim .leaflet-zoom-animated {
@@ -103,8 +117,8 @@
 	
 	#b_help {
 		position: absolute;
-		top: 20px;
-		left: 60px;
+		top: 12px;
+		left: 50px;
 		background-color: white;
 		z-index:1000;
 		font-size: 1.4em;
@@ -133,20 +147,23 @@
 	
 	#b_close_help {
 		float: right;
-
 		background-color: white;		
 	}
-
+	
 	
 @media screen and (max-width: 650px) {
 	#main {
-		height: 88vh; 
+		height: 88vh;
+		width: 97vw;
 	}
 	#info {
 		font-size: 0.8em;
 	}
 	#help_div {
-		width: 70vw;
+		font-size: 0.8em;
+		top: 60px;
+		left: 52px;
+		width: 84vw;
 	}
 
 }
@@ -180,6 +197,7 @@
 		</div>
 
 	</div>
+
 	<div id="main">
 		<div id="map" class="map"></div>
 		<div id="info" >
@@ -189,6 +207,11 @@
 		</div>
 		<button id="b_help">?<button>
 	</div>
+	<dialog id="confirm_dialog">
+		Effacer l'itinéraire en cours ?<br>
+		<button id="b_ok" >Effacer</button>&nbsp&nbsp&nbsp
+		<button id="b_cancel" >Annuler</button>	
+	</dialog>
 
 	<!--init default values;-->
 	<script>
@@ -209,7 +232,7 @@
 	
 <!--overwrite with scripts 
 Scripts créés dynamiquement pour avoir le choix du dossier Network_data
-	<script src= "../Network_data/config.js" ></script> -->
+	<script src= "../Network_data/config.txt" ></script> -->
   <script>
 	
     // Récupérer les paramètres de l'URL

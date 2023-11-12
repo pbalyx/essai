@@ -1,9 +1,8 @@
 ///
-const version ="V_1.4.3";
-const num = 7;
+const version ="V_1.4.4";
+const num = 10;
 // 1.4.1 : ajouté des target="_blank" pour toutes les attributions
-// 1.4.2 : version ok pour portables (Responsive web design) 
-//			avec aide intégrée
+// 1.4.2 : version ok pour portables (Responsive web design) avec aide intégrée
 // 1.4.3 : modification du menu itinéraires
 
 window.onload = (event) => {
@@ -19,7 +18,6 @@ window.onload = (event) => {
 	if (network_router) {
 		init_network_router();
 		help_circuit.style.display= "block";
-		console.log(network_router, help_circuit);
 	};
 	if (test_button) {init_tests() };
 };
@@ -741,34 +739,34 @@ function toggle_circuitMode() {
 	if (isTrackMode) {
 		if (nextNodes.length == 0) {
 			start_circuitMode();
-			console.log('démarrer circuit', );
+//			console.log('démarrer circuit', );
 		} else {
 			for (var i = 0; i < nextNodes.length; i++) { 
 				nextNodes[i].setStyle(nextStyle);
 			}		
 			currentNode.setStyle(selectedStyle);
-			console.log('continuer circuit', );
+//			console.log('continuer circuit', );
 		}
 	} else {
 		set_largeNodes(false);
 		if (nextNodes.length == 0) {
-			console.log('circuit vide');
+//			console.log('circuit vide');
 			info_status.innerHTML = "";
 		} else {
-			console.log('circuit en cours');
+//			console.log('circuit en cours');
 		}	
 	}
 }
 
 function undoLast() {
-	console.log("undo", circuitNodes);
+//	console.log("undo", circuitNodes);
 	if (circuitNodes.length > 1) {
 		var lastNode = circuitNodes.pop();
 		circuitRoutes.pop();
 		circuitInfos.pop();
 		next_circuit_node(circuitNodes[circuitNodes.length -1],true);	
 	} else { 
-		console.log("restart");
+//		console.log("restart");
 		start_circuitMode();
 	}
 }
@@ -866,10 +864,33 @@ var b_download = L.easyButton( '<img src="./icons/icon-download.png">', function
 });
 
 var b_clear = L.easyButton( '<img src="./icons/icon-end.png">', function(){
-	if (confirm("Effacer le circuit en cours ?")) {
+/*	if (confirm2("Effacer le circuit en cours ?")) {
+		console.log("clear");
 		clear_circuit();
-	}
+	}*/
+	//openDialog();
+		confirm_dialog.showModal();
+
 });
+
+var confirm_dialog = document.getElementById("confirm_dialog");
+b_ok.onclick = delete_and_close;
+b_cancel.onclick = closeDialog;
+
+function openDialog() {
+	confirm_dialog.show();
+}
+
+function closeDialog() {
+	confirm_dialog.close();
+}
+
+function delete_and_close() {
+	clear_circuit();
+	confirm_dialog.close();
+}
+
+
 
 easyBar = L.easyBar([b_circuit, b_undo, b_download, b_clear]);	
 easyBar.addTo(map);
