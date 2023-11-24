@@ -3,7 +3,7 @@ network_nodes =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-11-16T17:50:57Z",
+  "timestamp": "2023-11-23T22:41:15Z",
   "features": [
     {
       "type": "Feature",
@@ -3081,6 +3081,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1743969366",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Le suc de Montat",
+        "name": "Le suc de Montat",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0188458,
+          44.6491512
+        ]
+      },
+      "id": "node/1743969366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1749441712",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Robert",
@@ -3135,7 +3153,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1762274364",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Col des Langoustines",
         "name": "Col des Langoustines",
         "network:type": "node_network"
@@ -3166,6 +3184,24 @@ network_nodes =
         ]
       },
       "id": "node/1763736743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1763737230",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Col de Meyrand",
+        "name": "Col de Meyrand",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0769563,
+          44.6090853
+        ]
+      },
+      "id": "node/1763737230"
     },
     {
       "type": "Feature",
@@ -3207,7 +3243,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1763737845",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "L'Escoufour",
         "name": "L'Escoufour",
         "network:type": "node_network"
@@ -3220,6 +3256,24 @@ network_nodes =
         ]
       },
       "id": "node/1763737845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1763739381",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Le Frayt",
+        "name": "Le Frayt",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0955886,
+          44.6260706
+        ]
+      },
+      "id": "node/1763739381"
     },
     {
       "type": "Feature",
@@ -3722,6 +3776,24 @@ network_nodes =
         ]
       },
       "id": "node/1798803295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1819033554",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "La scierie",
+        "name": "La scierie",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0199173,
+          44.6389943
+        ]
+      },
+      "id": "node/1819033554"
     },
     {
       "type": "Feature",
@@ -4643,6 +4715,24 @@ network_nodes =
         ]
       },
       "id": "node/2074422637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2074831688",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Les Chambons bis",
+        "name": "Les Chambons bis",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0532968,
+          44.629824
+        ]
+      },
+      "id": "node/2074831688"
     },
     {
       "type": "Feature",
@@ -6259,6 +6349,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2490069762",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Le Bez Altiport",
+        "name": "Le Bez Altiport",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0503384,
+          44.6357573
+        ]
+      },
+      "id": "node/2490069762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2502953669",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Soupley",
@@ -7234,6 +7342,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2913958034",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Plat des Laires",
+        "name": "Plat des Laires",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0151693,
+          44.627208
+        ]
+      },
+      "id": "node/2913958034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2923119682",
         "expected_lwn_route_relations": "1",
         "lwn_ref": "Le Coulet",
@@ -7354,7 +7480,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/3022716189",
-        "expected_lwn_route_relations": "1",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Col du Pendu",
         "name": "Col du Pendu",
         "network:type": "node_network"
@@ -8297,6 +8423,78 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4869273104",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "?",
+        "name": "?",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0435435,
+          44.6318868
+        ]
+      },
+      "id": "node/4869273104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928807874",
+        "expected_lwn_route_relations": "4",
+        "lwn_ref": "Billeterie Station",
+        "name": "Billeterie Station",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0893789,
+          44.6297139
+        ]
+      },
+      "id": "node/5928807874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11367012844",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Le Buisson",
+        "name": "Le Buisson",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0292065,
+          44.6547013
+        ]
+      },
+      "id": "node/11367012844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4869213680",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Le Bez",
+        "name": "Le Bez",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0505533,
+          44.6382781
+        ]
+      },
+      "id": "node/4869213680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6328964227",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Valousset",
@@ -8316,7 +8514,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/4714935340",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Col de la Croix de Bauzon",
         "name": "Col de la Croix de Bauzon",
         "network:type": "node_network"

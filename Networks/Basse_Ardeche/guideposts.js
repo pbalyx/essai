@@ -10649,11 +10649,12 @@ guideposts =
       "type": "Feature",
       "properties": {
         "@id": "node/11253385752",
-        "ele": "1430",
+        "ele": "1436",
+        "ele:signed": "1436",
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col du Pendu",
-        "note": "position du panneau à vérifier",
+        "survey:date": "2023-11-20",
         "tourism": "information"
       },
       "geometry": {
@@ -11895,6 +11896,457 @@ guideposts =
         ]
       },
       "id": "node/11305076476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4869286803",
+        "ele": "1300",
+        "ele:signed": "no",
+        "information": "guidepost",
+        "name": "Plat des Laires",
+        "name:signed": "no",
+        "note": "nom d'après le plan",
+        "survey:date": "2023-11-20",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0151151,
+          44.6271779
+        ]
+      },
+      "id": "node/4869286803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8932565977",
+        "ele": "1300",
+        "ele:signed": "no",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "?",
+        "name:signed": "no",
+        "survey:date": "2023-11-20",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0435764,
+          44.6318793
+        ]
+      },
+      "id": "node/8932565977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4869707558",
+        "ele": "1165",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Chambons bis",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0532256,
+          44.6297282
+        ]
+      },
+      "id": "node/4869707558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11372137558",
+        "ele": "1380",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Col de Meyrand",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0769362,
+          44.6091489
+        ]
+      },
+      "id": "node/11372137558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928766657",
+        "ele": "1365",
+        "ele:signed": "1365",
+        "information": "guidepost",
+        "name": "Départ Station",
+        "survey:date": "2023-06-26",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0892428,
+          44.6301128
+        ]
+      },
+      "id": "node/5928766657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11367012812",
+        "ele": "1365",
+        "ele:signed": "1365",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Billeterie Station",
+        "survey:date": "2023-06-26",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0893254,
+          44.629661
+        ]
+      },
+      "id": "node/11367012812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11367012813",
+        "ele": "1105",
+        "ele:signed": "no",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La scierie",
+        "name:signed": "no",
+        "note": "nom d'après le plan",
+        "survey:date": "2023-11-20",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0200654,
+          44.6388455
+        ]
+      },
+      "id": "node/11367012813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11367012814",
+        "ele": "1300",
+        "ele:signed": "no",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le suc de Montat",
+        "survey:date": "2023-11-20",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0189791,
+          44.6492385
+        ]
+      },
+      "id": "node/11367012814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11367012845",
+        "ele": "1394",
+        "ele:signed": "1394",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Buisson",
+        "survey:date": "2023-11-20",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0291809,
+          44.6546765
+        ]
+      },
+      "id": "node/11367012845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4869213671",
+        "ele": "1240",
+        "ele:signed": "no",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Bez Altiport",
+        "name:signed": "no",
+        "note": "nom d'après le plan",
+        "survey:date": "2023-11-20",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0502158,
+          44.6357025
+        ]
+      },
+      "id": "node/4869213671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8932368899",
+        "ele": "1224",
+        "ele:signed": "1224",
+        "information": "guidepost",
+        "name": "Le Bez",
+        "survey:date": "2023-11-20",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.05061,
+          44.6381731
+        ]
+      },
+      "id": "node/8932368899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11367012811",
+        "ele": "1405",
+        "ele:signed": "no",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Frayt",
+        "name:signed": "no",
+        "note": "nom d'après le plan",
+        "survey:date": "2023-06-26",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0956607,
+          44.6260952
+        ]
+      },
+      "id": "node/11367012811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11353815140",
+        "ele": "370",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Laplagne",
+        "survey:date": "2019-04-15",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2733249,
+          44.3483084
+        ]
+      },
+      "id": "node/11353815140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11353815141",
+        "ele": "370",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Col de la Serre",
+        "survey:date": "2019-04-15",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2817745,
+          44.3542689
+        ]
+      },
+      "id": "node/11353815141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11353815143",
+        "ele": "385",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Sous le Puy Lacher",
+        "survey:date": "2019-04-15",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2891794,
+          44.35729
+        ]
+      },
+      "id": "node/11353815143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11353815144",
+        "ele": "380",
+        "ele:signed": "no",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Serpentière",
+        "survey:date": "2019-04-15",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2908666,
+          44.3599221
+        ]
+      },
+      "id": "node/11353815144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11353815145",
+        "ele": "430",
+        "ele:signed": "no",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Colombou",
+        "survey:date": "2019-04-15",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3031001,
+          44.3707761
+        ]
+      },
+      "id": "node/11353815145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11349857877",
+        "ele": "105",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Brugières",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38811,
+          44.400303
+        ]
+      },
+      "id": "node/11349857877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11349782065",
+        "ele": "115",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Vieux Vallon",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4015935,
+          44.39964
+        ]
+      },
+      "id": "node/11349782065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11349782066",
+        "ele": "140",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Château",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3987202,
+          44.4000942
+        ]
+      },
+      "id": "node/11349782066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11349857873",
+        "ele": "110",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Puits de Ronze",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3947713,
+          44.4054597
+        ]
+      },
+      "id": "node/11349857873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359920336",
+        "ele": "235",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Combe d'Arc",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4132065,
+          44.3885089
+        ]
+      },
+      "id": "node/4359920336"
     }
   ]
 }
