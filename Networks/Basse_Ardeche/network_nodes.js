@@ -3,7 +3,7 @@ network_nodes =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-11-23T22:41:15Z",
+  "timestamp": "2023-11-26T17:54:09Z",
   "features": [
     {
       "type": "Feature",
@@ -1808,6 +1808,42 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1363161790",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Lafont",
+        "name": "Lafont",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2695285,
+          44.6223718
+        ]
+      },
+      "id": "node/1363161790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1363161816",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Le Rieu",
+        "name": "Le Rieu",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2702515,
+          44.6228716
+        ]
+      },
+      "id": "node/1363161816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1364311136",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "Croix du Planas",
@@ -1821,6 +1857,60 @@ network_nodes =
         ]
       },
       "id": "node/1364311136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1364321678",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Les Hugoux",
+        "name": "Les Hugoux",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2611854,
+          44.6227694
+        ]
+      },
+      "id": "node/1364321678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1364322123",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Gonthier",
+        "name": "Gonthier",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2593037,
+          44.6293552
+        ]
+      },
+      "id": "node/1364322123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1364322181",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Le Peschier",
+        "name": "Le Peschier",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.261841,
+          44.6311364
+        ]
+      },
+      "id": "node/1364322181"
     },
     {
       "type": "Feature",
@@ -1959,6 +2049,24 @@ network_nodes =
         ]
       },
       "id": "node/1387572066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1395015745",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Lachamp",
+        "name": "Lachamp",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4848217,
+          44.495448
+        ]
+      },
+      "id": "node/1395015745"
     },
     {
       "type": "Feature",
@@ -2684,9 +2792,28 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1648835216",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Les Salelles",
+        "name": "Les Salelles",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4650159,
+          44.4724297
+        ]
+      },
+      "id": "node/1648835216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1648836274",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Saint-Maurice d'Ibie",
+        "name": "Saint-Maurice d'Ibie",
         "network:type": "node_network"
       },
       "geometry": {
@@ -2944,7 +3071,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1732300253",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Chanebière",
         "network:type": "node_network"
       },
@@ -2956,6 +3083,60 @@ network_nodes =
         ]
       },
       "id": "node/1732300253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1734288766",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Les Mourades",
+        "name": "Les Mourades",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4838407,
+          44.4709163
+        ]
+      },
+      "id": "node/1734288766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1734322203",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "L'Abri des Dames",
+        "name": "L'Abri des Dames",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5055192,
+          44.4730505
+        ]
+      },
+      "id": "node/1734322203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1734334850",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Boutène",
+        "name": "Boutène",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4871152,
+          44.4900764
+        ]
+      },
+      "id": "node/1734334850"
     },
     {
       "type": "Feature",
@@ -9685,8 +9866,9 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/4771628185",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Chez Ceysson",
+        "name": "Chez Ceysson",
         "network:type": "node_network"
       },
       "geometry": {
