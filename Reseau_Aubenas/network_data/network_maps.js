@@ -1,9 +1,9 @@
 network_maps =
 {
   "type": "FeatureCollection",
-  "generator": "overpass-ide",
+  "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-06-28T05:49:51Z",
+  "timestamp": "2023-12-10T09:16:45Z",
   "features": [
     {
       "type": "Feature",
@@ -144,9 +144,11 @@ network_maps =
       "type": "Feature",
       "properties": {
         "@id": "node/11011562955",
+        "ele": "215",
+        "hiking": "yes",
         "information": "map",
         "map_type": "scheme",
-        "name": "St-Etienne de Fontbellon - Via Ardèche",
+        "name": "St-Etienne de Fontbellon Via Ardèche",
         "tourism": "information"
       },
       "geometry": {
@@ -219,6 +221,8 @@ network_maps =
       "type": "Feature",
       "properties": {
         "@id": "node/10214798223",
+        "ele": "320",
+        "hiking": "yes",
         "information": "map",
         "map_type": "scheme",
         "name": "Aubenas Bossuet",
@@ -544,6 +548,8 @@ network_maps =
       "type": "Feature",
       "properties": {
         "@id": "node/10118766951",
+        "ele": "1145",
+        "hiking": "yes",
         "information": "map",
         "map_type": "scheme",
         "name": "Mézilhac",
