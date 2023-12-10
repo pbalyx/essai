@@ -3,7 +3,7 @@ network_nodes =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-12-07T17:00:15Z",
+  "timestamp": "2023-12-10T10:20:06Z",
   "features": [
     {
       "type": "Feature",
@@ -80,6 +80,7 @@ network_nodes =
         "@id": "node/282734856",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "L'Airette",
+        "name": "L'Airette",
         "network:type": "node_network"
       },
       "geometry": {
@@ -446,6 +447,7 @@ network_nodes =
         "@id": "node/519532866",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Saint-Antoine",
+        "name": "Saint-Antoine",
         "network:type": "node_network"
       },
       "geometry": {
@@ -3932,23 +3934,6 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/1798343862",
-        "expected_lwn_route_relations": "3",
-        "lwn_ref": "Le Village",
-        "network:type": "node_network"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3527556,
-          44.8070288
-        ]
-      },
-      "id": "node/1798343862"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/1798343865",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "La Feuille",
@@ -5055,8 +5040,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.0532968,
-          44.629824
+          4.0532948,
+          44.6298116
         ]
       },
       "id": "node/2074831688"
@@ -8466,6 +8451,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3310612450",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Aubenas Bossuet",
+        "name": "Aubenas Bossuet",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3847417,
+          44.6221883
+        ]
+      },
+      "id": "node/3310612450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3345449573",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Champlautier",
@@ -9133,8 +9136,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.0505533,
-          44.6382781
+          4.0505681,
+          44.6382485
         ]
       },
       "id": "node/4869213680"
@@ -9169,8 +9172,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.0966007,
-          44.6361357
+          4.0966128,
+          44.6361338
         ]
       },
       "id": "node/4714935340"
@@ -10697,6 +10700,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11403462484",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "St-Etienne de Fontbellon Via Ardèche",
+        "name": "St-Etienne de Fontbellon Via Ardèche",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3803288,
+          44.5996952
+        ]
+      },
+      "id": "node/11403462484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6700697511",
         "expected_lwn_route_relations": "1",
         "lwn_ref": "Saint-Etienne de Fontbellon",
@@ -11738,6 +11759,24 @@ network_nodes =
         ]
       },
       "id": "node/5677400430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10206264826",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Mézilhac",
+        "name": "Mézilhac",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3519381,
+          44.8078643
+        ]
+      },
+      "id": "node/10206264826"
     },
     {
       "type": "Feature",

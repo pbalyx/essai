@@ -888,6 +888,66 @@ network_maps =
         ]
       },
       "id": "node/10118766954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11011562955",
+        "ele": "215",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "St-Etienne de Fontbellon Via Ardèche",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3802458,
+          44.5997343
+        ]
+      },
+      "id": "node/11011562955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10214798223",
+        "ele": "320",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Aubenas Bossuet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3847127,
+          44.6222305
+        ]
+      },
+      "id": "node/10214798223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10118766951",
+        "ele": "1145",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Mézilhac",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517366,
+          44.8079457
+        ]
+      },
+      "id": "node/10118766951"
     }
   ]
 }
