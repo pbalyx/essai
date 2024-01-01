@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-12-07T17:02:15Z",
+  "timestamp": "2023-12-31T18:36:59Z",
   "features": [
     {
       "type": "Feature",
@@ -42,6 +42,26 @@ network_maps =
         ]
       },
       "id": "node/8932368898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11466334345",
+        "ele": "570",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Mayres",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1164774,
+          44.6654157
+        ]
+      },
+      "id": "node/11466334345"
     },
     {
       "type": "Feature",
@@ -156,6 +176,26 @@ network_maps =
         ]
       },
       "id": "node/10688955638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11427411609",
+        "ele": "305",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Larnas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5983013,
+          44.4488433
+        ]
+      },
+      "id": "node/11427411609"
     },
     {
       "type": "Feature",
@@ -295,6 +335,26 @@ network_maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11439227369",
+        "ele": "470",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Thueyts",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2211586,
+          44.6753899
+        ]
+      },
+      "id": "node/11439227369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7298359511",
         "ele": "465",
         "information": "map",
@@ -392,6 +452,26 @@ network_maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11011562955",
+        "ele": "215",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "St-Etienne de Fontbellon Via Ardèche",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3802458,
+          44.5997343
+        ]
+      },
+      "id": "node/11011562955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6699827837",
         "ele": "210",
         "information": "map",
@@ -445,6 +525,26 @@ network_maps =
         ]
       },
       "id": "node/10214798224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10214798223",
+        "ele": "320",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Aubenas Bossuet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3847127,
+          44.6222305
+        ]
+      },
+      "id": "node/10214798223"
     },
     {
       "type": "Feature",
@@ -838,6 +938,26 @@ network_maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/10118766951",
+        "ele": "1145",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Mézilhac",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517366,
+          44.8079457
+        ]
+      },
+      "id": "node/10118766951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10118766955",
         "information": "map",
         "map_type": "scheme",
@@ -888,66 +1008,6 @@ network_maps =
         ]
       },
       "id": "node/10118766954"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11011562955",
-        "ele": "215",
-        "hiking": "yes",
-        "information": "map",
-        "map_type": "scheme",
-        "name": "St-Etienne de Fontbellon Via Ardèche",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3802458,
-          44.5997343
-        ]
-      },
-      "id": "node/11011562955"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10214798223",
-        "ele": "320",
-        "hiking": "yes",
-        "information": "map",
-        "map_type": "scheme",
-        "name": "Aubenas Bossuet",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3847127,
-          44.6222305
-        ]
-      },
-      "id": "node/10214798223"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10118766951",
-        "ele": "1145",
-        "hiking": "yes",
-        "information": "map",
-        "map_type": "scheme",
-        "name": "Mézilhac",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517366,
-          44.8079457
-        ]
-      },
-      "id": "node/10118766951"
     }
   ]
 }
