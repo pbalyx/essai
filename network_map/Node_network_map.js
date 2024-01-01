@@ -1,5 +1,5 @@
 ///
-const version ="V_1.5.0";
+const version ="V_1.5.1";
 const num = 0;
 // 1.4.1 : ajouté des target="_blank" pour toutes les attributions
 // 1.4.2 : version ok pour portables (Responsive web design) avec aide intégrée
@@ -7,6 +7,7 @@ const num = 0;
 // 1.5.0 : 
 //		- chargement des network_nodes depuis network_map => avoir les noms sans les guideposts
 //		- intégration du circuit au script, seul le bouton disparaît
+// 1.5.1 : quelques détection d'erreurs
 
 window.onload = (event) => {
 	console.log("version : ", version);
@@ -611,24 +612,33 @@ function searchRoutesAndNodesFromHere() {
 //	console.log("currentNode", currentNode);
 	currentNode_Lat_Lng = currentNode.getLatLng();
 //	console.log("currentNode_Lat_Lng", currentNode_Lat_Lng);
-
+	var route_found = false;
 	routesLayer.eachLayer(function(layer) {
 		var coordArray = layer.feature.geometry.coordinates;
-		firstPoint = L.GeoJSON.coordsToLatLng(coordArray[0] );
-		lastPoint = L.GeoJSON.coordsToLatLng(coordArray[coordArray.length - 1] );
-		if (currentNode_Lat_Lng.equals(firstPoint)) {
-//console.log("firstPoint", firstPoint, layer.feature.properties.name);
-			nextRoutes.push(layer);
-			nextRoutesIsForward.push(true);
-			selectNextPoint(lastPoint);
+		try {
+			firstPoint = L.GeoJSON.coordsToLatLng(coordArray[0] );
+			lastPoint = L.GeoJSON.coordsToLatLng(coordArray[coordArray.length - 1] );
+			if (currentNode_Lat_Lng.equals(firstPoint)) {
+	//console.log("firstPoint", firstPoint, layer.feature.properties.name);
+				route_found = true;
+				nextRoutes.push(layer);
+				nextRoutesIsForward.push(true);
+				selectNextPoint(lastPoint);
+			}
+			if (currentNode_Lat_Lng.equals(lastPoint)) {
+	//console.log("lastPoint", lastPoint, layer.feature.properties.name);
+				route_found = true;
+				nextRoutes.push(layer);
+				nextRoutesIsForward.push(false);
+				selectNextPoint(firstPoint);
+			}
 		}
-		if (currentNode_Lat_Lng.equals(lastPoint)) {
-//console.log("lastPoint", lastPoint, layer.feature.properties.name);
-			nextRoutes.push(layer);
-			nextRoutesIsForward.push(false);
-			selectNextPoint(firstPoint);
+		catch(err) {
+		  	info_status.innerHTML = err.message + layer.feature.properties.name;
+//			info_dist.innerHTML = layer.feature.properties.name;
 		}
-	});		
+	});
+	if (!route_found) { info_status.innerHTML = "Pas de route depuis ce point " };
 }
 
 function next_circuit_node(_newNodeLayer, undo) {
