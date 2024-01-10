@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-12-31T18:36:59Z",
+  "timestamp": "2024-01-10T16:59:02Z",
   "features": [
     {
       "type": "Feature",
@@ -27,6 +27,26 @@ network_maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11492577618",
+        "ele": "1385",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Bel-Air",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0253413,
+          44.6781202
+        ]
+      },
+      "id": "node/11492577618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8932368898",
         "description": "Carte des sentiers partant du Col du Bez",
         "information": "map",
@@ -42,6 +62,26 @@ network_maps =
         ]
       },
       "id": "node/8932368898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11483812204",
+        "ele": "865",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Astet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0601081,
+          44.6842164
+        ]
+      },
+      "id": "node/11483812204"
     },
     {
       "type": "Feature",
@@ -62,6 +102,26 @@ network_maps =
         ]
       },
       "id": "node/11466334345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11492577617",
+        "ele": "1265",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "La Chavade",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0212804,
+          44.6976803
+        ]
+      },
+      "id": "node/11492577617"
     },
     {
       "type": "Feature",
@@ -738,6 +798,7 @@ network_maps =
       "type": "Feature",
       "properties": {
         "@id": "node/10118766961",
+        "ele": "283",
         "information": "map",
         "map_type": "scheme",
         "name": "Vesseaux",
@@ -746,8 +807,8 @@ network_maps =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.444195,
-          44.6529421
+          4.4441132,
+          44.6529478
         ]
       },
       "id": "node/10118766961"

@@ -3,7 +3,7 @@ guideposts =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-12-31T18:38:00Z",
+  "timestamp": "2024-01-10T16:58:00Z",
   "features": [
     {
       "type": "Feature",
@@ -663,6 +663,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11492577622",
+        "ele": "1385",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Pra Bargès",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0246922,
+          44.6607246
+        ]
+      },
+      "id": "node/11492577622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4869213671",
         "ele": "1240",
         "ele:signed": "no",
@@ -745,6 +764,44 @@ guideposts =
         ]
       },
       "id": "node/11253109043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11492577602",
+        "ele": "905",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Pré du Poux",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0475339,
+          44.68332
+        ]
+      },
+      "id": "node/11492577602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11483812203",
+        "ele": "900",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Chabannaux",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0570168,
+          44.6851679
+        ]
+      },
+      "id": "node/11483812203"
     },
     {
       "type": "Feature",
@@ -1101,6 +1158,83 @@ guideposts =
         ]
       },
       "id": "node/11473487174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11483812200",
+        "ele": "1320",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Lesparet/Besselias",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0329587,
+          44.6954553
+        ]
+      },
+      "id": "node/11483812200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11483812201",
+        "ele": "1040",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Rocher du Cheylard",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.041059,
+          44.6869853
+        ]
+      },
+      "id": "node/11483812201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11483812199",
+        "ele": "1355",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Cros de Boutazon",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0545854,
+          44.6995945
+        ]
+      },
+      "id": "node/11483812199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11483812198",
+        "ele": "1330",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "?",
+        "survey:date": "2023-06-19",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0727413,
+          44.7012017
+        ]
+      },
+      "id": "node/11483812198"
     },
     {
       "type": "Feature",
@@ -7220,6 +7354,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11205102770",
+        "ele": "410",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Roche",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2223723,
+          44.6729615
+        ]
+      },
+      "id": "node/11205102770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11395075221",
         "ele": "420",
         "hiking": "yes",
@@ -11158,25 +11311,6 @@ guideposts =
         ]
       },
       "id": "node/9790780831"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9790780828",
-        "ele": "283",
-        "hiking": "yes",
-        "information": "guidepost",
-        "name": "Fontaine des Chaberts",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4427453,
-          44.6537864
-        ]
-      },
-      "id": "node/9790780828"
     },
     {
       "type": "Feature",

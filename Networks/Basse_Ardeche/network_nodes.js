@@ -3,7 +3,7 @@ network_nodes =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-12-31T18:39:02Z",
+  "timestamp": "2024-01-10T17:00:02Z",
   "features": [
     {
       "type": "Feature",
@@ -194,6 +194,25 @@ network_nodes =
         ]
       },
       "id": "node/384755850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/411869970",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "?",
+        "name": "?",
+        "network:type": "node_network",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0727948,
+          44.7011434
+        ]
+      },
+      "id": "node/411869970"
     },
     {
       "type": "Feature",
@@ -1579,6 +1598,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1334793731",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Cros de Boutazon",
+        "name": "Cros de Boutazon",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0547399,
+          44.6995478
+        ]
+      },
+      "id": "node/1334793731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1340191449",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "Les Carrières",
@@ -2764,6 +2801,78 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1616568862",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Astet",
+        "name": "Astet",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.060202,
+          44.6840113
+        ]
+      },
+      "id": "node/1616568862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1616569190",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Les Chabannaux",
+        "name": "Les Chabannaux",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0571659,
+          44.6851656
+        ]
+      },
+      "id": "node/1616569190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1616569868",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "La Chavade",
+        "name": "La Chavade",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0211651,
+          44.6976222
+        ]
+      },
+      "id": "node/1616569868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1616827852",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Lesparet/Besselias",
+        "name": "Lesparet/Besselias",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.032857,
+          44.6954161
+        ]
+      },
+      "id": "node/1616827852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1617959588",
         "expected_lwn_route_relations": "1",
         "lwn_ref": "Lalevade-d'Ardèche",
@@ -3501,6 +3610,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1744765368",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Pré du Poux",
+        "name": "Pré du Poux",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0475541,
+          44.6833785
+        ]
+      },
+      "id": "node/1744765368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1744765380",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "La Croix de Briges",
@@ -3538,7 +3665,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1744766056",
-        "expected_lwn_route_relations": "1",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Cocu",
         "name": "Cocu",
         "network:type": "node_network"
@@ -7165,23 +7292,6 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/2505644300",
-        "expected_lwn_route_relations": "3",
-        "lwn_ref": "Fontaine des Chaberts",
-        "network:type": "node_network"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4427454,
-          44.653816
-        ]
-      },
-      "id": "node/2505644300"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/2505644641",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Lachamp",
@@ -7907,6 +8017,24 @@ network_nodes =
         ]
       },
       "id": "node/2841914673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841933532",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Bel-Air",
+        "name": "Bel-Air",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0251159,
+          44.6780895
+        ]
+      },
+      "id": "node/2841933532"
     },
     {
       "type": "Feature",
@@ -9403,6 +9531,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4223634462",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Pra Bargès",
+        "name": "Pra Bargès",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0247923,
+          44.660763
+        ]
+      },
+      "id": "node/4223634462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6070026158",
         "expected_lwn_route_relations": "1",
         "lwn_ref": "Entrée de Champussac",
@@ -9458,7 +9604,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/11367012844",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Buisson",
         "name": "Le Buisson",
         "network:type": "node_network"
@@ -9566,7 +9712,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/7717688812",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Aleyrac",
         "name": "Aleyrac",
         "network:type": "node_network"
@@ -9579,6 +9725,24 @@ network_nodes =
         ]
       },
       "id": "node/7717688812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11015774701",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Rocher du Cheylard",
+        "name": "Rocher du Cheylard",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0410547,
+          44.6868542
+        ]
+      },
+      "id": "node/11015774701"
     },
     {
       "type": "Feature",
@@ -11863,6 +12027,24 @@ network_nodes =
         ]
       },
       "id": "node/5842532884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11497581030",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Vesseaux",
+        "name": "Vesseaux",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4441509,
+          44.653027
+        ]
+      },
+      "id": "node/11497581030"
     },
     {
       "type": "Feature",
