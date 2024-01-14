@@ -3,7 +3,7 @@ guideposts =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-01-10T16:58:00Z",
+  "timestamp": "2024-01-14T09:39:45Z",
   "features": [
     {
       "type": "Feature",
@@ -4015,6 +4015,139 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11508241873",
+        "ele": "395",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Forestière",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5913517,
+          44.3957534
+        ]
+      },
+      "id": "node/11508241873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11506859150",
+        "ele": "365",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Mourade",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5797539,
+          44.4035876
+        ]
+      },
+      "id": "node/11506859150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508238926",
+        "ele": "365",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Terre des Moines",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5858586,
+          44.4020776
+        ]
+      },
+      "id": "node/11508238926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508241874",
+        "ele": "395",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Laoul",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5934761,
+          44.3995576
+        ]
+      },
+      "id": "node/11508241874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11506859151",
+        "ele": "345",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Pins de Saint-Montan",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5877576,
+          44.4117426
+        ]
+      },
+      "id": "node/11506859151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11506859152",
+        "ele": "345",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Bardalène",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5928216,
+          44.416471
+        ]
+      },
+      "id": "node/11506859152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11506859153",
+        "ele": "365",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Aven des Aubes",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5958458,
+          44.4134736
+        ]
+      },
+      "id": "node/11506859153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7280419406",
         "ele": "525",
         "ele:signed": "no",
@@ -4222,7 +4355,7 @@ guideposts =
       "type": "Feature",
       "properties": {
         "@id": "node/11427411607",
-        "ele": "135",
+        "ele": "140",
         "hiking": "yes",
         "information": "guidepost",
         "name": "Valescure",
@@ -4335,6 +4468,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11506859155",
+        "ele": "115",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Soulière",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6150839,
+          44.4294857
+        ]
+      },
+      "id": "node/11506859155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11427411608",
         "ele": "290",
         "hiking": "yes",
@@ -4350,6 +4502,82 @@ guideposts =
         ]
       },
       "id": "node/11427411608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508575396",
+        "ele": "270",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Moure",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6301955,
+          44.4601853
+        ]
+      },
+      "id": "node/11508575396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508575409",
+        "ele": "350",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Gandaubert",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6172109,
+          44.4661368
+        ]
+      },
+      "id": "node/11508575409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508575395",
+        "ele": "365",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Bayne",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6306086,
+          44.4695497
+        ]
+      },
+      "id": "node/11508575395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508956487",
+        "ele": "355",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Brugette",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6275991,
+          44.4742601
+        ]
+      },
+      "id": "node/11508956487"
     },
     {
       "type": "Feature",
@@ -10673,6 +10901,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11509093715",
+        "ele": "180",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Chaussay",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.578622,
+          44.5022456
+        ]
+      },
+      "id": "node/11509093715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11386601614",
         "hiking": "yes",
         "information": "guidepost",
@@ -13671,6 +13918,158 @@ guideposts =
         ]
       },
       "id": "node/9927096879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11509093716",
+        "ele": "145",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Verger",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.623152,
+          44.5014852
+        ]
+      },
+      "id": "node/11509093716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11509093717",
+        "ele": "115",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Bonnefoy",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6262071,
+          44.498408
+        ]
+      },
+      "id": "node/11509093717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508956488",
+        "ele": "130",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Pignatelle",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6299809,
+          44.4974964
+        ]
+      },
+      "id": "node/11508956488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508575394",
+        "ele": "135",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Saint-Ostian",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6627709,
+          44.4820082
+        ]
+      },
+      "id": "node/11508575394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508962504",
+        "ele": "115",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Chapelle Saint-Ostian",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6636105,
+          44.4804207
+        ]
+      },
+      "id": "node/11508962504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508962505",
+        "ele": "105",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Hautes Rives",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6562424,
+          44.4931763
+        ]
+      },
+      "id": "node/11508962505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11512225481",
+        "ele": "115",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "L'Auche",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6265502,
+          44.5022527
+        ]
+      },
+      "id": "node/11512225481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508962506",
+        "ele": "100",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Pignes",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6676304,
+          44.4863329
+        ]
+      },
+      "id": "node/11508962506"
     }
   ]
 }

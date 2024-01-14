@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-01-10T16:59:02Z",
+  "timestamp": "2024-01-14T09:49:00Z",
   "features": [
     {
       "type": "Feature",
@@ -256,6 +256,26 @@ network_maps =
         ]
       },
       "id": "node/11427411609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11506859154",
+        "ele": "115",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Saint-Montan Info",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6252361,
+          44.4387076
+        ]
+      },
+      "id": "node/11506859154"
     },
     {
       "type": "Feature",
@@ -1069,6 +1089,26 @@ network_maps =
         ]
       },
       "id": "node/10118766954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11512225482",
+        "ele": "105",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Saint-Thomé",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6291635,
+          44.5032758
+        ]
+      },
+      "id": "node/11512225482"
     }
   ]
 }
