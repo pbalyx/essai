@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-01-14T09:49:00Z",
+  "timestamp": "2024-01-22T21:58:14Z",
   "features": [
     {
       "type": "Feature",
@@ -256,6 +256,26 @@ network_maps =
         ]
       },
       "id": "node/11427411609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11540527822",
+        "ele": "130",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Saint-Marcel-d'Ardèche",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6160495,
+          44.3261852
+        ]
+      },
+      "id": "node/11540527822"
     },
     {
       "type": "Feature",
@@ -1098,7 +1118,7 @@ network_maps =
         "hiking": "yes",
         "information": "map",
         "map_type": "scheme",
-        "name": "Saint-Thomé",
+        "name:signed": "Saint-Thomé",
         "tourism": "information"
       },
       "geometry": {

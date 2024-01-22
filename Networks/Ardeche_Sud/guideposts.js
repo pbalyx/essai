@@ -3,7 +3,7 @@ guideposts =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-01-14T09:39:45Z",
+  "timestamp": "2024-01-22T21:56:15Z",
   "features": [
     {
       "type": "Feature",
@@ -3299,6 +3299,291 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11527704675",
+        "ele": "325",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Malbosc",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5017123,
+          44.3648359
+        ]
+      },
+      "id": "node/11527704675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11527704674",
+        "ele": "295",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Claud de Goudaud",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5134322,
+          44.3558008
+        ]
+      },
+      "id": "node/11527704674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11535141734",
+        "ele": "310",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Charette",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5284164,
+          44.3666844
+        ]
+      },
+      "id": "node/11535141734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11535141735",
+        "ele": "300",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Puits de la Vieille",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5347705,
+          44.3674983
+        ]
+      },
+      "id": "node/11535141735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11535141733",
+        "ele": "265",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Plaine du Cayre",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5446062,
+          44.3523861
+        ]
+      },
+      "id": "node/11535141733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11535141736",
+        "ele": "275",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Grand Champ",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5408323,
+          44.360575
+        ]
+      },
+      "id": "node/11535141736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11535141737",
+        "ele": "255",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Aven de Fontanille",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5512232,
+          44.3592672
+        ]
+      },
+      "id": "node/11535141737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11535141738",
+        "ele": "260",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Champ Vermeil",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5558608,
+          44.3596699
+        ]
+      },
+      "id": "node/11535141738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11540527812",
+        "ele": "160",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Peyrobe",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6035719,
+          44.3217527
+        ]
+      },
+      "id": "node/11540527812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11540527813",
+        "ele": "165",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Chaveyron",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6053717,
+          44.321106
+        ]
+      },
+      "id": "node/11540527813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11540527824",
+        "ele": "140",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Plan de Lage",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6064908,
+          44.3350133
+        ]
+      },
+      "id": "node/11540527824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11540527823",
+        "ele": "165",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Lafare",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6092367,
+          44.3324708
+        ]
+      },
+      "id": "node/11540527823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11538273593",
+        "ele": "155",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Capelade",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6086788,
+          44.3387806
+        ]
+      },
+      "id": "node/11538273593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10602192326",
+        "ele": "135",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Garoune Bas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6091211,
+          44.3468064
+        ]
+      },
+      "id": "node/10602192326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10602192347",
+        "ele": "130",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Garoune",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6083666,
+          44.3485861
+        ]
+      },
+      "id": "node/10602192347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4359920336",
         "ele": "235",
         "hiking": "yes",
@@ -3518,6 +3803,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11527704676",
+        "ele": "400",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Deves",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5033511,
+          44.3809887
+        ]
+      },
+      "id": "node/11527704676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10938964134",
         "ele": "365",
         "hiking": "yes",
@@ -3553,6 +3857,25 @@ guideposts =
         ]
       },
       "id": "node/10938964132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11527704677",
+        "ele": "370",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Chapelle Sainte-Anne",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5060481,
+          44.3924531
+        ]
+      },
+      "id": "node/11527704677"
     },
     {
       "type": "Feature",
@@ -4015,6 +4338,139 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/10676146441",
+        "ele": "395",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Chêne Rond",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.581949,
+          44.3809394
+        ]
+      },
+      "id": "node/10676146441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11528526360",
+        "ele": "395",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Terre Longue",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5824361,
+          44.388821
+        ]
+      },
+      "id": "node/11528526360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11528526361",
+        "ele": "395",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Chalon",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5842385,
+          44.3874276
+        ]
+      },
+      "id": "node/11528526361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11528526359",
+        "ele": "310",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Moure de Trian",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5930791,
+          44.3761482
+        ]
+      },
+      "id": "node/11528526359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11528526358",
+        "ele": "320",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Bois du Sorbier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5993125,
+          44.3774786
+        ]
+      },
+      "id": "node/11528526358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11528526357",
+        "ele": "325",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Combe du Renard",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5993447,
+          44.3783797
+        ]
+      },
+      "id": "node/11528526357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11528526356",
+        "ele": "240",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Plaine de Mias",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6076274,
+          44.3758126
+        ]
+      },
+      "id": "node/11528526356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11508241873",
         "ele": "395",
         "hiking": "yes",
@@ -4030,6 +4486,25 @@ guideposts =
         ]
       },
       "id": "node/11508241873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11528526362",
+        "ele": "395",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Combe des Acacias",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5909816,
+          44.3943103
+        ]
+      },
+      "id": "node/11528526362"
     },
     {
       "type": "Feature",
@@ -4063,11 +4538,30 @@ guideposts =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5858586,
-          44.4020776
+          4.5856415,
+          44.4017197
         ]
       },
       "id": "node/11508238926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11532552020",
+        "ele": "365",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Marchetie",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5868714,
+          44.4017657
+        ]
+      },
+      "id": "node/11532552020"
     },
     {
       "type": "Feature",
@@ -4087,6 +4581,82 @@ guideposts =
         ]
       },
       "id": "node/11508241874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11524983692",
+        "ele": "395",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Combe Chabaud",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5935592,
+          44.4000865
+        ]
+      },
+      "id": "node/11524983692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11524916362",
+        "ele": "410",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Relais",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6001172,
+          44.4008281
+        ]
+      },
+      "id": "node/11524916362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11524916363",
+        "ele": "400",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Combe Longe",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6009433,
+          44.3993027
+        ]
+      },
+      "id": "node/11524916363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11524916361",
+        "ele": "325",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Estoupines",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6035504,
+          44.4083493
+        ]
+      },
+      "id": "node/11524916361"
     },
     {
       "type": "Feature",
@@ -4464,6 +5034,44 @@ guideposts =
         ]
       },
       "id": "node/11426002836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11540527825",
+        "ele": "175",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Souchas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.617058,
+          44.3409158
+        ]
+      },
+      "id": "node/11540527825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11540527826",
+        "ele": "175",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Chapelle Saint-Julien",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6167147,
+          44.3437663
+        ]
+      },
+      "id": "node/11540527826"
     },
     {
       "type": "Feature",
