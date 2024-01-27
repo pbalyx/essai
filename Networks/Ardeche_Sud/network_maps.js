@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-01-22T21:58:14Z",
+  "timestamp": "2024-01-27T17:43:45Z",
   "features": [
     {
       "type": "Feature",
@@ -236,6 +236,47 @@ network_maps =
         ]
       },
       "id": "node/10688955638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11552206631",
+        "ele": "55",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Sauze",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5529647,
+          44.3122637
+        ]
+      },
+      "id": "node/11552206631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11554799622",
+        "ele": "360",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Saint-Remèze",
+        "survey:date": "2024-01-26",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5011383,
+          44.3919682
+        ]
+      },
+      "id": "node/11554799622"
     },
     {
       "type": "Feature",
