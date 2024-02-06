@@ -3,7 +3,7 @@ guideposts =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-01-27T17:42:46Z",
+  "timestamp": "2024-02-06T16:51:45Z",
   "features": [
     {
       "type": "Feature",
@@ -428,13 +428,14 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Notre-Dame des Songes",
+        "survey:date": "2024-01-29",
         "tourism": "information"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2961447,
-          44.3824765
+          4.2962252,
+          44.3825762
         ]
       },
       "id": "node/4171927167"
@@ -447,13 +448,14 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Combe de Bonne Fille",
+        "survey:date": "2024-01-29",
         "tourism": "information"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3135254,
-          44.3965432
+          4.3134905,
+          44.3966314
         ]
       },
       "id": "node/4171927171"
@@ -1458,6 +1460,26 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11574610125",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Lengarnayre",
+        "note": "Pas de lames directionnelles ni de chapeau",
+        "survey:date": "2024-01-31",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2302674,
+          44.4232986
+        ]
+      },
+      "id": "node/11574610125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10719469263",
         "ele": "150",
         "hiking": "yes",
@@ -1502,6 +1524,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Font Vive",
+        "survey:date": "2024-01-29",
         "tourism": "information"
       },
       "geometry": {
@@ -1559,13 +1582,14 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Cham de Rode",
+        "survey:date": "2024-01-31",
         "tourism": "information"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2480374,
-          44.41178
+          4.2480106,
+          44.4116957
         ]
       },
       "id": "node/7045134442"
@@ -1597,6 +1621,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Église",
+        "survey:date": "2024-01-29",
         "tourism": "information"
       },
       "geometry": {
@@ -1615,7 +1640,7 @@ guideposts =
         "ele": "115",
         "hiking": "yes",
         "information": "guidepost",
-        "name": "Grospierre Gare",
+        "name": "Grospierres Gare",
         "note": "position du panneau à vérifier",
         "tourism": "information"
       },
@@ -1655,6 +1680,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Croix de Raoux",
+        "survey:date": "2024-01-31",
         "tourism": "information"
       },
       "geometry": {
@@ -2041,7 +2067,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pas de l'Estret",
-        "survey:date": "2019-04-15",
+        "survey:date": "2024-01-29",
         "tourism": "information"
       },
       "geometry": {
@@ -2061,14 +2087,14 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col de la Cize",
-        "note": "position du panneau à vérifier",
+        "survey:date": "2024-01-29",
         "tourism": "information"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3115571,
-          44.3807587
+          4.311533,
+          44.3807558
         ]
       },
       "id": "node/10694502844"
@@ -2101,13 +2127,14 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Plot de la Molle",
+        "survey:date": "2024-01-29",
         "tourism": "information"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3130471,
-          44.3913166
+          4.3129344,
+          44.3913741
         ]
       },
       "id": "node/5910334290"
@@ -3456,6 +3483,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11585255059",
+        "ele": "50",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Broutières",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5924002,
+          44.2913121
+        ]
+      },
+      "id": "node/11585255059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11552206630",
         "ele": "50",
         "hiking": "yes",
@@ -3471,6 +3517,25 @@ guideposts =
         ]
       },
       "id": "node/11552206630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11585255060",
+        "ele": "50",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Sablas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5662444,
+          44.301353
+        ]
+      },
+      "id": "node/11585255060"
     },
     {
       "type": "Feature",
@@ -3494,6 +3559,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11578387607",
+        "ele": "140",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Trignan Bas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5811615,
+          44.3111906
+        ]
+      },
+      "id": "node/11578387607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11543718401",
         "ele": "160",
         "hiking": "yes",
@@ -3509,6 +3593,44 @@ guideposts =
         ]
       },
       "id": "node/11543718401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11585255057",
+        "ele": "75",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Chemin de la Croix Vieille",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6068891,
+          44.3040273
+        ]
+      },
+      "id": "node/11585255057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11585255058",
+        "ele": "65",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Vachère",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6007156,
+          44.3033941
+        ]
+      },
+      "id": "node/11585255058"
     },
     {
       "type": "Feature",
@@ -3798,6 +3920,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11584753707",
+        "ele": "140",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Champ de Grézas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5991459,
+          44.3336756
+        ]
+      },
+      "id": "node/11584753707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11540527824",
         "ele": "140",
         "hiking": "yes",
@@ -3884,8 +4025,8 @@ guideposts =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.6083666,
-          44.3485861
+          4.6082835,
+          44.3486336
         ]
       },
       "id": "node/10602192347"
@@ -4792,8 +4933,8 @@ guideposts =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.6076274,
-          44.3758126
+          4.6076059,
+          44.3758452
         ]
       },
       "id": "node/11528526356"
@@ -4868,8 +5009,8 @@ guideposts =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5856415,
-          44.4017197
+          4.5857166,
+          44.4017964
         ]
       },
       "id": "node/11508238926"
@@ -4892,6 +5033,25 @@ guideposts =
         ]
       },
       "id": "node/11532552020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11506859151",
+        "ele": "345",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Pins de Saint-Montan",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5851183,
+          44.4114897
+        ]
+      },
+      "id": "node/11506859151"
     },
     {
       "type": "Feature",
@@ -4987,25 +5147,6 @@ guideposts =
         ]
       },
       "id": "node/11524916361"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11506859151",
-        "ele": "345",
-        "hiking": "yes",
-        "information": "guidepost",
-        "name": "Pins de Saint-Montan",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.5877576,
-          44.4117426
-        ]
-      },
-      "id": "node/11506859151"
     },
     {
       "type": "Feature",
@@ -5406,6 +5547,101 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11584753704",
+        "ele": "115",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Coulange",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6305549,
+          44.3557001
+        ]
+      },
+      "id": "node/11584753704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11584753702",
+        "ele": "160",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Croix de Romanet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6175536,
+          44.3702037
+        ]
+      },
+      "id": "node/11584753702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11584753703",
+        "ele": "80",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Seilloux",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6403031,
+          44.3640482
+        ]
+      },
+      "id": "node/11584753703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11584822370",
+        "ele": "70",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Pradelle",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6429789,
+          44.3707554
+        ]
+      },
+      "id": "node/11584822370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11584822369",
+        "ele": "170",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Darbousset",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6262741,
+          44.3775438
+        ]
+      },
+      "id": "node/11584822369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11506859155",
         "ele": "115",
         "hiking": "yes",
@@ -5487,6 +5723,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bayne",
+        "note": "Poteau manquant",
         "tourism": "information"
       },
       "geometry": {
@@ -13653,8 +13890,8 @@ guideposts =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3603638,
-          44.7180185
+          4.3603128,
+          44.7179904
         ]
       },
       "id": "node/9959324588"
@@ -14917,30 +15154,12 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/11508575394",
-        "ele": "135",
-        "hiking": "yes",
-        "information": "guidepost",
-        "name": "Saint-Ostian",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6627709,
-          44.4820082
-        ]
-      },
-      "id": "node/11508575394"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/11508962504",
-        "ele": "115",
+        "ele": "120",
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chapelle Saint-Ostian",
+        "note": "Poteau à déplacer de l'autre côté du pont",
         "tourism": "information"
       },
       "geometry": {

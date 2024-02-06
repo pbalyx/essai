@@ -1,5 +1,5 @@
 ///
-const version ="V_1.5.1";
+const version ="V_1.5.2";
 const num = 0;
 // 1.4.1 : ajouté des target="_blank" pour toutes les attributions
 // 1.4.2 : version ok pour portables (Responsive web design) avec aide intégrée
@@ -8,6 +8,7 @@ const num = 0;
 //		- chargement des network_nodes depuis network_map => avoir les noms sans les guideposts
 //		- intégration du circuit au script, seul le bouton disparaît
 // 1.5.1 : quelques détection d'erreurs
+// 1.5.2 : modifs mineures sur les textes
 
 window.onload = (event) => {
 	console.log("version : ", version);
@@ -362,8 +363,8 @@ var baseMaps = {
 
 var overlayMaps = {
 	"Trajets": routesLayer,
-    "Panneaux": guidepostsLayer,
-	"Plans": network_mapsLayer
+    "Poteaux directionnels": guidepostsLayer,
+	"Panneaux Info Rando": network_mapsLayer
 };
 
 // flags for visibility dependant of layerControl
@@ -465,7 +466,7 @@ var help_visible = false;
 b_help.onclick = show_help;
 b_close_help.onclick = show_help;
 function show_help() {
-	console.log('show help');
+//	console.log('show help');
 	help_visible = ! help_visible;
 	if (help_visible) { help_div.style.display = "block"; }
 	else { help_div.style.display = "none"; }	

@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-01-27T17:43:45Z",
+  "timestamp": "2024-02-06T16:52:44Z",
   "features": [
     {
       "type": "Feature",
