@@ -1,5 +1,5 @@
 ///
-const version ="V_1.5.2";
+const version ="V_1.5.2a";
 const num = 0;
 // 1.4.1 : ajouté des target="_blank" pour toutes les attributions
 // 1.4.2 : version ok pour portables (Responsive web design) avec aide intégrée
@@ -7,8 +7,8 @@ const num = 0;
 // 1.5.0 : 
 //		- chargement des network_nodes depuis network_map => avoir les noms sans les guideposts
 //		- intégration du circuit au script, seul le bouton disparaît
-// 1.5.1 : quelques détection d'erreurs
-// 1.5.2 : modifs mineures sur les textes
+// 1.5.1 : quelques détections d'erreurs
+// 1.5.2a : modifs mineures sur les textes + correction bugs
 
 window.onload = (event) => {
 	console.log("version : ", version);
@@ -271,21 +271,16 @@ function onNetworkNode_over(e) {
 	var popupContent = tmpNodeLayer.feature.properties.lwn_ref;
 	if (!popupContent) { popupContent = tmpNodeLayer.feature.properties.lwn_name };
 	if (!popupContent) { popupContent = '***' };
-//	console.log(popupContent, tmpNodeLayer.feature.properties.lwn_name);
-//	var popupContent = "truc";
-	if (!guideposts_visible) {
+	if (!guideposts_visible || map.getZoom() < 13) {
 		tmpNodeLayer.bindTooltip(popupContent, {direction: 'center', offset: L.point({x: 0, y: -15})}).openTooltip();
 	}
-//	console.log(tmpNodeLayer.feature.properties);
 }
 
 function onNetworkNode_out(e) {
 	var tmpNodeLayer = e.target;  
 	var mouseEvent = e.originalEvent;
 	mouseEvent.preventDefault();	
-//	var popupContent = tmpNodeLayer.feature.properties.name;
-		tmpNodeLayer.closeTooltip();	
-//	console.log(tmpNodeLayer.feature.properties);
+	tmpNodeLayer.unbindTooltip();	
 }
 
 // region network_nodes Styles
@@ -417,12 +412,12 @@ map.on("overlayremove", e => {
 				connections_visible = false;
 			};
 		break;
-		case "Panneaux":
+		case "Poteaux directionnels":
 			if (!map_moving) {
 				guideposts_visible = false;
 			};
 		break;
-		case "Plans":
+		case "Panneaux Info Rando":
 			if (!map_moving) {
 				maps_visible = false;
 			};
@@ -442,13 +437,13 @@ map.on("overlayadd", e => {
 				connections_visible = true;
 			};
 		break;
-		case "Panneaux":
+		case "Poteaux directionnels":
 			if (!map_moving) {
 				guideposts_visible = true;
 				update_guidepostLayer();
 			};
 		break;
-		case "Plans":
+		case "Panneaux Info Rando":
 			if (!map_moving) {
 				maps_visible = true;
 				update_network_mapsLayer();
