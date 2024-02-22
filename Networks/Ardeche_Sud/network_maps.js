@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-02-06T16:52:44Z",
+  "timestamp": "2024-02-22T15:01:56Z",
   "features": [
     {
       "type": "Feature",
@@ -52,6 +52,7 @@ network_maps =
         "information": "map",
         "map_size": "region",
         "map_type": "scheme",
+        "name": "Le Bez",
         "tourism": "information"
       },
       "geometry": {
@@ -126,12 +127,32 @@ network_maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11631255789",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Chandolas",
+        "survey:date": "2024-02-16",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2530105,
+          44.4031028
+        ]
+      },
+      "id": "node/11631255789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10907615790",
         "ele": "100",
         "ele:signed": "no",
         "information": "map",
         "map_type": "scheme",
-        "name": "Salavas Info Rando",
+        "name": "Salavas",
         "tourism": "information"
       },
       "geometry": {
@@ -206,7 +227,7 @@ network_maps =
         "@id": "node/10697541585",
         "information": "map",
         "map_type": "scheme",
-        "name": "Labeaume Info Rando",
+        "name": "Labeaume",
         "survey:date": "2023-02-27",
         "tourism": "information"
       },
@@ -225,7 +246,7 @@ network_maps =
         "@id": "node/10688955638",
         "information": "map",
         "map_type": "scheme",
-        "name": "Ruoms Info Rando",
+        "name": "Ruoms",
         "tourism": "information"
       },
       "geometry": {
@@ -345,7 +366,7 @@ network_maps =
         "ele": "155",
         "information": "map",
         "map_type": "scheme",
-        "name": "Rosières Info Rando",
+        "name": "Rosières",
         "survey:date": "2022-01-24",
         "tourism": "information"
       },
@@ -364,7 +385,7 @@ network_maps =
         "@id": "node/10554827661",
         "information": "map",
         "map_type": "scheme",
-        "name": "Largentière Info rando",
+        "name": "Largentière",
         "name:signed": "no",
         "survey:date": "2023-01-13",
         "tourism": "information"
@@ -405,6 +426,7 @@ network_maps =
         "information": "map",
         "map_size": "city",
         "map_type": "scheme",
+        "name": "Balazuc",
         "tourism": "information"
       },
       "geometry": {

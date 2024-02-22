@@ -3,7 +3,7 @@ network_nodes =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-02-06T16:53:45Z",
+  "timestamp": "2024-02-22T11:16:34Z",
   "features": [
     {
       "type": "Feature",
@@ -5639,8 +5639,26 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/2052642556",
+        "@id": "node/2052636388",
         "expected_lwn_route_relations": "2",
+        "lwn_ref": "Les Treilles",
+        "name": "Les Treilles",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1992124,
+          44.4291485
+        ]
+      },
+      "id": "node/2052636388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052642556",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Lengarnayre",
         "name": "Lengarnayre",
         "network:type": "node_network"
@@ -6060,6 +6078,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2139302098",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Le Pont de Maisonneuve",
+        "name": "Le Pont de Maisonneuve",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2341499,
+          44.3925199
+        ]
+      },
+      "id": "node/2139302098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2140259664",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "La Combe du Merle",
@@ -6336,8 +6372,9 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2242678719",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Moulin",
+        "name": "Le Moulin",
         "network:type": "node_network"
       },
       "geometry": {
@@ -6423,8 +6460,9 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2254763961",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Rouret",
+        "name": "Le Rouret",
         "network:type": "node_network"
       },
       "geometry": {
@@ -6456,6 +6494,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2254765021",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Comps",
+        "name": "Comps",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2629111,
+          44.3900525
+        ]
+      },
+      "id": "node/2254765021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2254942246",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "Gourdon",
@@ -6474,7 +6530,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2255622910",
-        "expected_lwn_route_relations": "1",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Chandolas",
         "name": "Chandolas",
         "network:type": "node_network"
@@ -8510,6 +8566,24 @@ network_nodes =
         ]
       },
       "id": "node/2608191424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2640847825",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Les Crozes",
+        "name": "Les Crozes",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1923147,
+          44.4427757
+        ]
+      },
+      "id": "node/2640847825"
     },
     {
       "type": "Feature",
@@ -10835,6 +10909,78 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/10812291815",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Le Raynal",
+        "name": "Le Raynal",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1866583,
+          44.4329975
+        ]
+      },
+      "id": "node/10812291815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10812221319",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Le Suel",
+        "name": "Le Suel",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1873296,
+          44.4427036
+        ]
+      },
+      "id": "node/10812221319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10812221322",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Les Laurences",
+        "name": "Les Laurences",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1871533,
+          44.4429658
+        ]
+      },
+      "id": "node/10812221322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10812210689",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Le Monteil",
+        "name": "Le Monteil",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1913636,
+          44.4433136
+        ]
+      },
+      "id": "node/10812210689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6070026158",
         "expected_lwn_route_relations": "1",
         "lwn_ref": "Entrée de Champussac",
@@ -11065,6 +11211,25 @@ network_nodes =
         ]
       },
       "id": "node/5086149977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11631255790",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Les Escourtouzes",
+        "name": "Les Escourtouzes",
+        "network:type": "node_network",
+        "note": "Carrefour d'après le plan, pas de panneau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2318662,
+          44.3950588
+        ]
+      },
+      "id": "node/11631255790"
     },
     {
       "type": "Feature",

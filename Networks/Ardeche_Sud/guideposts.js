@@ -3,7 +3,7 @@ guideposts =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-02-06T16:51:45Z",
+  "timestamp": "2024-02-22T14:15:45Z",
   "features": [
     {
       "type": "Feature",
@@ -459,6 +459,106 @@ guideposts =
         ]
       },
       "id": "node/4171927171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11650598449",
+        "ele:signed": "195",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Raynal",
+        "survey:date": "2024-02-21",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1866936,
+          44.4330204
+        ]
+      },
+      "id": "node/11650598449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11650598425",
+        "ele": "245",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Laurences",
+        "survey:date": "2024-02-21",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1871174,
+          44.443002
+        ]
+      },
+      "id": "node/11650598425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11650598426",
+        "ele": "245",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Suel",
+        "survey:date": "2024-02-21",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1873058,
+          44.4427407
+        ]
+      },
+      "id": "node/11650598426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11650598446",
+        "ele": "240",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Crozes",
+        "survey:date": "2024-02-21",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1922739,
+          44.4427981
+        ]
+      },
+      "id": "node/11650598446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11650598427",
+        "ele": "245",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Monteil",
+        "survey:date": "2024-02-21",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1913888,
+          44.4433372
+        ]
+      },
+      "id": "node/11650598427"
     },
     {
       "type": "Feature",
@@ -1460,7 +1560,29 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7047323607",
+        "ele": "110",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Pont de Maisonneuve",
+        "note": "Poteau en partie caché",
+        "survey:date": "2024-02-16",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2343067,
+          44.3925173
+        ]
+      },
+      "id": "node/7047323607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11574610125",
+        "ele": "205",
         "hiking": "yes",
         "information": "guidepost",
         "name": "Lengarnayre",
@@ -1476,6 +1598,25 @@ guideposts =
         ]
       },
       "id": "node/11574610125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11607548645",
+        "ele": "140",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Comps",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2628616,
+          44.3900185
+        ]
+      },
+      "id": "node/11607548645"
     },
     {
       "type": "Feature",
@@ -1544,13 +1685,14 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chandolas",
+        "survey:date": "2024-02-16",
         "tourism": "information"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2535911,
-          44.4034299
+          4.2535965,
+          44.4034127
         ]
       },
       "id": "node/7047053438"
@@ -1671,6 +1813,26 @@ guideposts =
         ]
       },
       "id": "node/10702507591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11602461091",
+        "ele": "230",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Treilles",
+        "survey:date": "2024-02-02",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1991323,
+          44.4291179
+        ]
+      },
+      "id": "node/11602461091"
     },
     {
       "type": "Feature",
@@ -8341,6 +8503,8 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col du Merle",
+        "note": "2024-02-19 Panneau manquant",
+        "survey:date": "2024-02-19",
         "tourism": "information"
       },
       "geometry": {
