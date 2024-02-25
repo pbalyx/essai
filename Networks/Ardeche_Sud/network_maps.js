@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-02-22T15:01:56Z",
+  "timestamp": "2024-02-25T16:58:48Z",
   "features": [
     {
       "type": "Feature",
@@ -83,6 +83,26 @@ network_maps =
         ]
       },
       "id": "node/11483812204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11660093580",
+        "ele": "560",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Valgorge",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1265678,
+          44.5875332
+        ]
+      },
+      "id": "node/11660093580"
     },
     {
       "type": "Feature",
@@ -378,6 +398,26 @@ network_maps =
         ]
       },
       "id": "node/9482918723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11663102623",
+        "ele": "440",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Rocles",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2209977,
+          44.5657336
+        ]
+      },
+      "id": "node/11663102623"
     },
     {
       "type": "Feature",

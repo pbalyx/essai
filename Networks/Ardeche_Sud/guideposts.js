@@ -3,7 +3,7 @@ guideposts =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-02-22T14:15:45Z",
+  "timestamp": "2024-02-25T16:57:45Z",
   "features": [
     {
       "type": "Feature",
@@ -620,6 +620,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11662965529",
+        "ele": "365",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Parot",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1846591,
+          44.5645373
+        ]
+      },
+      "id": "node/11662965529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11291325283",
         "ele": "440",
         "hiking": "yes",
@@ -635,6 +654,83 @@ guideposts =
         ]
       },
       "id": "node/11291325283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6448215119",
+        "ele": "1210",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Loubaresse",
+        "survey:date": "2017-03-20",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0501718,
+          44.6002125
+        ]
+      },
+      "id": "node/6448215119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11660886877",
+        "ele": "1165",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Loubaresse",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0516564,
+          44.5974521
+        ]
+      },
+      "id": "node/11660886877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11662797778",
+        "ele": "1165",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Issartasses",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0590405,
+          44.5943866
+        ]
+      },
+      "id": "node/11662797778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11662797777",
+        "ele": "1370",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Pratarabiat",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0580803,
+          44.6087403
+        ]
+      },
+      "id": "node/11662797777"
     },
     {
       "type": "Feature",
@@ -827,6 +923,27 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8932368899",
+        "ele": "1224",
+        "ele:signed": "1224",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Bez",
+        "survey:date": "2023-11-20",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.05061,
+          44.6381731
+        ]
+      },
+      "id": "node/8932368899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11253385752",
         "ele": "1436",
         "ele:signed": "1436",
@@ -924,6 +1041,44 @@ guideposts =
         ]
       },
       "id": "node/11483812203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11660093579",
+        "ele": "590",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Saint Martin",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1153428,
+          44.5905188
+        ]
+      },
+      "id": "node/11660093579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11660093578",
+        "ele": "740",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Couderc",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0924488,
+          44.5959069
+        ]
+      },
+      "id": "node/11660093578"
     },
     {
       "type": "Feature",
@@ -2268,7 +2423,7 @@ guideposts =
         "ele": "315",
         "hiking": "yes",
         "information": "guidepost",
-        "name:signed": "Sicouzac",
+        "name": "Sicouzac",
         "note": "position du panneau à vérifier",
         "tourism": "information"
       },
@@ -6655,6 +6810,44 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11663102618",
+        "ele": "425",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Pradettes",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2197907,
+          44.5623014
+        ]
+      },
+      "id": "node/11663102618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11662965528",
+        "ele": "470",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Champussac",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1947845,
+          44.5692343
+        ]
+      },
+      "id": "node/11662965528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5857037942",
         "ele": "460",
         "hiking": "yes",
@@ -6731,6 +6924,25 @@ guideposts =
         ]
       },
       "id": "node/5695377842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11663102622",
+        "ele": "425",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Pont de Charles",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2217863,
+          44.5665361
+        ]
+      },
+      "id": "node/11663102622"
     },
     {
       "type": "Feature",
