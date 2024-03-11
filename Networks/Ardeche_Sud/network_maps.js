@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-02-25T16:58:48Z",
+  "timestamp": "2024-03-03T22:58:00Z",
   "features": [
     {
       "type": "Feature",
@@ -23,6 +23,27 @@ network_maps =
         ]
       },
       "id": "node/1954447190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11688125791",
+        "ele": "685",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Saint-André Lachamp",
+        "note": "Position à vérifier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1646177,
+          44.5049668
+        ]
+      },
+      "id": "node/11688125791"
     },
     {
       "type": "Feature",
@@ -167,6 +188,27 @@ network_maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11684837177",
+        "ele": "255",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Lablachère",
+        "survey:date": "2024-02-28",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2141688,
+          44.4632396
+        ]
+      },
+      "id": "node/11684837177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10907615790",
         "ele": "100",
         "ele:signed": "no",
@@ -281,6 +323,26 @@ network_maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4359920339",
+        "ele": "315",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Maison Forestière",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4797948,
+          44.3503509
+        ]
+      },
+      "id": "node/4359920339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11552206631",
         "ele": "55",
         "hiking": "yes",
@@ -378,6 +440,46 @@ network_maps =
         ]
       },
       "id": "node/11506859154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5840257687",
+        "ele": "235",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Ribes",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2106122,
+          44.4912629
+        ]
+      },
+      "id": "node/5840257687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11685099889",
+        "ele": "170",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Joyeuse",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2415763,
+          44.479871
+        ]
+      },
+      "id": "node/11685099889"
     },
     {
       "type": "Feature",
