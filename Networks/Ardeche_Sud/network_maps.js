@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-03-03T22:58:00Z",
+  "timestamp": "2024-04-26T07:53:13Z",
   "features": [
     {
       "type": "Feature",
@@ -1081,6 +1081,46 @@ network_maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11749724157",
+        "ele": "565",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Montpezat",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2079474,
+          44.7108639
+        ]
+      },
+      "id": "node/11749724157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5037976715",
+        "ele": "540",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Burzet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2437454,
+          44.7403226
+        ]
+      },
+      "id": "node/5037976715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10118766959",
         "information": "map",
         "map_type": "scheme",
@@ -1309,8 +1349,8 @@ network_maps =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4583631,
-          44.701226
+          4.4583926,
+          44.7012913
         ]
       },
       "id": "node/10118766954"

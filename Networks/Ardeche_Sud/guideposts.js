@@ -3,7 +3,7 @@ guideposts =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-03-03T22:57:00Z",
+  "timestamp": "2024-04-26T07:52:15Z",
   "features": [
     {
       "type": "Feature",
@@ -48,10 +48,12 @@ guideposts =
       "properties": {
         "@id": "node/2461842063",
         "bicycle": "yes",
-        "ele": "602",
+        "ele": "605",
+        "ele:signed": "605",
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Perringues",
+        "survey:date": "2024-04-22",
         "tourism": "information"
       },
       "geometry": {
@@ -603,6 +605,26 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11758786490",
+        "ele": "330",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Plantades",
+        "survey:date": "2024-03-23",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1643487,
+          44.4517753
+        ]
+      },
+      "id": "node/11758786490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11677416245",
         "ele": "312",
         "hiking": "yes",
@@ -618,6 +640,45 @@ guideposts =
         ]
       },
       "id": "node/11677416245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11758786489",
+        "ele": "295",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Passerelle",
+        "survey:date": "2024-03-23",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1732892,
+          44.4585839
+        ]
+      },
+      "id": "node/11758786489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11758751516",
+        "ele": "280",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Source du Picou",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1720179,
+          44.4646686
+        ]
+      },
+      "id": "node/11758751516"
     },
     {
       "type": "Feature",
@@ -718,7 +779,7 @@ guideposts =
       "type": "Feature",
       "properties": {
         "@id": "node/5938682082",
-        "ele": "460",
+        "ele": "420",
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Roche",
@@ -727,8 +788,8 @@ guideposts =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.1854293,
-          44.5445674
+          4.186824,
+          44.5441163
         ]
       },
       "id": "node/5938682082"
@@ -1744,6 +1805,46 @@ guideposts =
         ]
       },
       "id": "node/11395075217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11843394803",
+        "ele": "700",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "L'Herm",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1554606,
+          44.7130321
+        ]
+      },
+      "id": "node/11843394803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11009735802",
+        "ele": "1280",
+        "ele:signed": "1280",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Cros du Loup",
+        "survey:date": "2023-06-16",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1818348,
+          44.7501359
+        ]
+      },
+      "id": "node/11009735802"
     },
     {
       "type": "Feature",
@@ -5418,13 +5519,14 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Abri des Dames",
+        "survey:date": "2024-03-25",
         "tourism": "information"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5054299,
-          44.4730256
+          4.5054876,
+          44.4730868
         ]
       },
       "id": "node/11378174321"
@@ -6023,7 +6125,7 @@ guideposts =
         "name": "Louvatoux (Les Hermessennes)",
         "name:signed": "Les Hermessennes",
         "note": "D'après le plan, ce croisement devrait être Louvatoux mais il est marqué Les Hermessennes. Le panneau Les Hermessennes est 1.6 km plus au Nord. Les lames directionnelles sont aussi erronées",
-        "survey:date": "2023-11-29",
+        "survey:date": "2024-03-25",
         "tourism": "information"
       },
       "geometry": {
@@ -9456,9 +9558,12 @@ guideposts =
       "properties": {
         "@id": "node/10171839913",
         "ele": "465",
+        "ele:signed": "465",
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Cros",
+        "name:signed": "Les Cros",
+        "survey:date": "2024-04-22",
         "tourism": "information"
       },
       "geometry": {
@@ -9574,11 +9679,12 @@ guideposts =
       "type": "Feature",
       "properties": {
         "@id": "node/7028025135",
-        "ele": "732",
+        "ele": "730",
+        "ele:signed": "730",
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chez Ceysson",
-        "survey:date": "2019-12-02",
+        "survey:date": "2024-04-22",
         "tourism": "information"
       },
       "geometry": {
@@ -10084,10 +10190,11 @@ guideposts =
       "properties": {
         "@id": "node/7028025136",
         "ele": "470",
+        "ele:signed": "470",
         "hiking": "yes",
         "information": "guidepost",
         "name": "Fabrias",
-        "survey:date": "2019-12-02",
+        "survey:date": "2024-04-22",
         "tourism": "information"
       },
       "geometry": {
@@ -10378,7 +10485,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Village",
-        "survey:date": "2022-11-29",
+        "survey:date": "2024-04-22",
         "tourism": "information"
       },
       "geometry": {
@@ -10399,7 +10506,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Village Haut",
-        "survey:date": "2022-11-29",
+        "survey:date": "2024-04-22",
         "tourism": "information"
       },
       "geometry": {
@@ -13939,6 +14046,64 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11749724158",
+        "ele": "625",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Château",
+        "survey:date": "2023-10-02",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2057534,
+          44.7089605
+        ]
+      },
+      "id": "node/11749724158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11749724159",
+        "ele": "495",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Rocher Noir",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2135713,
+          44.7045961
+        ]
+      },
+      "id": "node/11749724159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11749724156",
+        "ele": "520",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Croix de Mission",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2154938,
+          44.7075556
+        ]
+      },
+      "id": "node/11749724156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11439227366",
         "ele": "710",
         "hiking": "yes",
@@ -13973,6 +14138,85 @@ guideposts =
         ]
       },
       "id": "node/11439227367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11843394805",
+        "ele": "650",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Plantades",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2301977,
+          44.7080799
+        ]
+      },
+      "id": "node/11843394805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11749779917",
+        "ele": "640",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Croisette",
+        "survey:date": "2023-10-02",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1998699,
+          44.7163066
+        ]
+      },
+      "id": "node/11749779917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11749724153",
+        "ele": "605",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Chemin des Endettés",
+        "survey:date": "2023-10-02",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2032643,
+          44.7145903
+        ]
+      },
+      "id": "node/11749724153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11843394804",
+        "ele": "800",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Champs",
+        "note": "position du poteau et du carrefour à vérifier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2230844,
+          44.7146522
+        ]
+      },
+      "id": "node/11843394804"
     },
     {
       "type": "Feature",
@@ -14093,6 +14337,122 @@ guideposts =
         ]
       },
       "id": "node/9981584958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11009735801",
+        "ele": "1267",
+        "ele:signed": "1267",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Verrerie",
+        "survey:date": "2023-06-15",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1947201,
+          44.7556269
+        ]
+      },
+      "id": "node/11009735801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11805852408",
+        "ele": "1275",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Croix de Moïse",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2013068,
+          44.7576106
+        ]
+      },
+      "id": "node/11805852408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11843455316",
+        "ele": "600",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Croisette",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2436329,
+          44.7420816
+        ]
+      },
+      "id": "node/11843455316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11843455315",
+        "ele": "650",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Méjassole",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2461944,
+          44.7458798
+        ]
+      },
+      "id": "node/11843455315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11843455313",
+        "ele": "1260",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Rampe de la Tuilière",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2039818,
+          44.7651171
+        ]
+      },
+      "id": "node/11843455313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11843455314",
+        "ele": "1220",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Brousse",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2119345,
+          44.764742
+        ]
+      },
+      "id": "node/11843455314"
     },
     {
       "type": "Feature",
