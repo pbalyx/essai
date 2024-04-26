@@ -1,4 +1,5 @@
 network_name = "Réseau Ardèche Sud";
+network_date = "2024-04-26";
 network_info = "Carte (encore incomplète) de sentiers balisés réunissant les réseaux de dix communautés de communes du Sud Ardèche";
 test_button = false;
 network_router = true;

@@ -176,7 +176,7 @@
 <body>
 	<div id= "help_div"> 
 		<div id= "help_header">
-			<span id="help_header_span">-</span>
+			<span id="help_header_title">-</span>
 			<button id= "b_close_help"><b>X</b></button>
 			<span id= "help_header_version"> V_</span>
 		</div>
@@ -197,7 +197,7 @@
 				&nbsp&nbsp&nbsp
 				<img src="./icons/icon-download.png" style="height:16px"> pour télécharger l'itinéraire en fichier .gpx <br>
 				&nbsp&nbsp&nbsp
-				<img src="./icons/icon-end.png" style="height:16px"> pour revenir à zéro.<br> <br>
+				<img src="./icons/icon-end.png" style="height:16px"> pour effacer l'itinéraire en cours.<br> <br>
 			</div>
 		</div>
 
@@ -221,6 +221,7 @@
 	<!--init default values;-->
 	<script>
 		var network_name = "Node_network_map";
+		var network_date = "";
 		var network_info = "";
 		var network_loc = "sandbox";
 		var Network_data_dir = "../network_data";

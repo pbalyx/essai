@@ -1,6 +1,6 @@
 ///
-const version ="V_1.5.3";
-const num = 0;
+const version ="V_1.5.4";
+const v_sub = "_";
 // 1.4.1 : ajouté des target="_blank" pour toutes les attributions
 // 1.4.2 : version ok pour portables (Responsive web design) avec aide intégrée
 // 1.4.3 : modification du menu itinéraires
@@ -12,13 +12,15 @@ const num = 0;
 // 1.5.3 :  - Mise à jour des urls ign
 //			- correction : bouton circuit caché si network_router = false
 //			- affichage version dans help_header
+// 1.5.4 : intégration network_date dans config et header help
 
 window.onload = (event) => {
-	console.log("version : ", version);
+	console.log("version : ", version + v_sub);
 //	document.title = network_loc + ", " + version + ",  N : " + num;
 	document.title = network_name;
-	help_header_span.innerHTML = network_name;
-	help_header_version.innerHTML = version;
+	help_header_title.innerHTML = network_name;
+		if (network_date != "") { help_header_title.innerHTML += '<i>, mise à jour: </i>' + network_date;}
+	help_header_version.innerHTML = version + v_sub;
 	help_network_info.innerHTML = network_info;
 
 	doTraceRoutes();
@@ -487,7 +489,7 @@ var circuitRoutes = [];
 var info_status = document.getElementById('info_status');
 var info_dist = document.getElementById('info_dist');
 var info_ascent = document.getElementById('info_ascent');
-var help_header_span = document.getElementById('help_header_span');
+var help_header_title = document.getElementById('help_header_title');
 var help_header_version = document.getElementById('help_header_version');
 var help_network_info = document.getElementById('help_network_info');
 var help_circuit = document.getElementById('help_circuit');
