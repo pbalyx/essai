@@ -3,7 +3,7 @@ network_nodes =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-04-26T07:54:14Z",
+  "timestamp": "2024-04-27T16:36:45Z",
   "features": [
     {
       "type": "Feature",
@@ -1554,8 +1554,9 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1109667965",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Col de Moucheyres",
+        "name": "Col de Moucheyres",
         "network:type": "node_network"
       },
       "geometry": {
@@ -1600,6 +1601,26 @@ network_nodes =
         ]
       },
       "id": "node/1117427105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1122301173",
+        "ele": "610",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Aubert",
+        "name": "Aubert",
+        "network:type": "node_network",
+        "note": "carrefour nommé d'après hameau, pas de poteau sur les plans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2520573,
+          44.7534849
+        ]
+      },
+      "id": "node/1122301173"
     },
     {
       "type": "Feature",
@@ -3367,6 +3388,42 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1621822168",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Le Pont du Ray-Pic",
+        "name": "Le Pont du Ray-Pic",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2588431,
+          44.7911054
+        ]
+      },
+      "id": "node/1621822168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621830399",
+        "expected_lwn_route_relations": "1",
+        "lwn_ref": "Cascade du Ray-Pic",
+        "name": "Cascade du Ray-Pic",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.267779,
+          44.7911993
+        ]
+      },
+      "id": "node/1621830399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1621884391",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "Pied du Montivernoux",
@@ -3398,6 +3455,24 @@ network_nodes =
         ]
       },
       "id": "node/1623961535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1637249598",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Les Sausses",
+        "name": "Les Sausses",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2610485,
+          44.7515357
+        ]
+      },
+      "id": "node/1637249598"
     },
     {
       "type": "Feature",
@@ -5125,7 +5200,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1929061364",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "La Brousse",
         "name": "La Brousse",
         "network:type": "node_network"
@@ -7423,6 +7498,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2291530795",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "La Nouvaille",
+        "name": "La Nouvaille",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2293736,
+          44.7884685
+        ]
+      },
+      "id": "node/2291530795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2291825634",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Thueyts",
@@ -7494,7 +7587,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2292375859",
-        "expected_lwn_route_relations": "1",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Burzet",
         "name": "Burzet",
         "network:type": "node_network"
@@ -8151,6 +8244,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2410381126",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Pereyres",
+        "name": "Pereyres",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.253757,
+          44.7762918
+        ]
+      },
+      "id": "node/2410381126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2410392488",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Pont de Gamarnes",
@@ -8186,7 +8297,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2410392647",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Méjassole",
         "name": "Méjassole",
         "network:type": "node_network"
@@ -9658,6 +9769,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2832685628",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Le Chabron",
+        "name": "Le Chabron",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2539386,
+          44.7885182
+        ]
+      },
+      "id": "node/2832685628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2833163527",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Chalon",
@@ -9760,6 +9889,24 @@ network_nodes =
         ]
       },
       "id": "node/2836303439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841716082",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Paillon",
+        "name": "Paillon",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2291047,
+          44.7764432
+        ]
+      },
+      "id": "node/2841716082"
     },
     {
       "type": "Feature",
@@ -10929,6 +11076,24 @@ network_nodes =
         ]
       },
       "id": "node/3348806387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351850251",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Prapouzol Nord",
+        "name": "Prapouzol Nord",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2280036,
+          44.7737747
+        ]
+      },
+      "id": "node/3351850251"
     },
     {
       "type": "Feature",
@@ -15183,8 +15348,9 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/5099558498",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Cros du Loup",
+        "name": "Cros du Loup",
         "network:type": "node_network"
       },
       "geometry": {

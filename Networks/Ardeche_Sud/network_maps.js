@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-04-26T07:53:13Z",
+  "timestamp": "2024-04-27T16:35:45Z",
   "features": [
     {
       "type": "Feature",
@@ -1117,6 +1117,26 @@ network_maps =
         ]
       },
       "id": "node/5037976715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11860219447",
+        "ele": "840",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Pereyres",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.253771,
+          44.776317
+        ]
+      },
+      "id": "node/11860219447"
     },
     {
       "type": "Feature",
