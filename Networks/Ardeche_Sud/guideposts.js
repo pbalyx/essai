@@ -3,7 +3,7 @@ guideposts =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-04-27T16:33:45Z",
+  "timestamp": "2024-04-28T14:43:00Z",
   "features": [
     {
       "type": "Feature",
@@ -13,12 +13,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Cros du Loup",
-        "tourism": "information",
-        "@timestamp": "2022-08-26T13:58:31Z",
-        "@version": 2,
-        "@changeset": 125408894,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -37,12 +32,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Fargebelle",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T23:11:19Z",
-        "@version": 3,
-        "@changeset": 144772913,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -64,12 +54,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Perringues",
         "survey:date": "2024-04-22",
-        "tourism": "information",
-        "@timestamp": "2024-04-22T17:05:15Z",
-        "@version": 4,
-        "@changeset": 150357480,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -91,12 +76,7 @@ guideposts =
         "information": "guidepost",
         "name": "Rocher des Taillades",
         "survey:date": "2023-10-09",
-        "tourism": "information",
-        "@timestamp": "2023-10-10T15:15:00Z",
-        "@version": 2,
-        "@changeset": 142398235,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -116,12 +96,7 @@ guideposts =
         "information": "guidepost",
         "mtb": "yes",
         "name": "La Hâle",
-        "tourism": "information",
-        "@timestamp": "2022-04-10T15:43:01Z",
-        "@version": 4,
-        "@changeset": 119541129,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -141,12 +116,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Gras",
-        "tourism": "information",
-        "@timestamp": "2022-04-10T15:43:01Z",
-        "@version": 3,
-        "@changeset": 119541129,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -165,12 +135,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Grange du Vinçou",
-        "tourism": "information",
-        "@timestamp": "2023-06-22T16:46:56Z",
-        "@version": 5,
-        "@changeset": 137655362,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -190,12 +155,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Blachas",
         "survey:date": "2024-01-25",
-        "tourism": "information",
-        "@timestamp": "2024-01-25T22:26:10Z",
-        "@version": 4,
-        "@changeset": 146690663,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -215,12 +175,7 @@ guideposts =
         "information": "guidepost",
         "name": "Cocu",
         "survey:date": "2023-06-19",
-        "tourism": "information",
-        "@timestamp": "2023-12-31T18:37:07Z",
-        "@version": 4,
-        "@changeset": 145743271,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -243,12 +198,7 @@ guideposts =
         "mtb": "yes",
         "name": "Les Taillades",
         "survey:date": "2020-03-03",
-        "tourism": "information",
-        "@timestamp": "2023-01-01T17:11:21Z",
-        "@version": 3,
-        "@changeset": 130756905,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -267,12 +217,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Serre Bouchet",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -291,12 +236,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Serre Juillet",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -315,12 +255,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Mourades",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -339,12 +274,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col des Fraysses",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -364,12 +294,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chapias",
         "survey:date": "2022-03-07",
-        "tourism": "information",
-        "@timestamp": "2022-12-20T17:49:40Z",
-        "@version": 5,
-        "@changeset": 130300597,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -391,12 +316,7 @@ guideposts =
         "name": "Les Granges de Mirabelle",
         "note": "Panneau  à moitié arraché",
         "survey:date": "2022-11-27",
-        "tourism": "information",
-        "@timestamp": "2023-05-09T17:00:53Z",
-        "@version": 5,
-        "@changeset": 135904458,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -415,12 +335,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Agrenasses",
-        "tourism": "information",
-        "@timestamp": "2023-02-26T10:32:39Z",
-        "@version": 2,
-        "@changeset": 133036189,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -439,12 +354,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pérérol",
-        "tourism": "information",
-        "@timestamp": "2023-02-26T18:00:36Z",
-        "@version": 3,
-        "@changeset": 133053628,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -463,12 +373,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Richard",
-        "tourism": "information",
-        "@timestamp": "2023-02-24T18:23:40Z",
-        "@version": 2,
-        "@changeset": 132979722,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -487,12 +392,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Rouret",
-        "tourism": "information",
-        "@timestamp": "2023-03-07T17:30:50Z",
-        "@version": 2,
-        "@changeset": 133412282,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -511,12 +411,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bertras",
-        "tourism": "information",
-        "@timestamp": "2023-02-26T10:32:39Z",
-        "@version": 2,
-        "@changeset": 133036189,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -536,12 +431,7 @@ guideposts =
         "information": "guidepost",
         "name": "Notre-Dame des Songes",
         "survey:date": "2024-01-29",
-        "tourism": "information",
-        "@timestamp": "2024-01-29T17:38:41Z",
-        "@version": 4,
-        "@changeset": 146831690,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -561,12 +451,7 @@ guideposts =
         "information": "guidepost",
         "name": "Combe de Bonne Fille",
         "survey:date": "2024-01-29",
-        "tourism": "information",
-        "@timestamp": "2024-01-29T17:38:41Z",
-        "@version": 4,
-        "@changeset": 146831690,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -586,12 +471,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Raynal",
         "survey:date": "2024-02-21",
-        "tourism": "information",
-        "@timestamp": "2024-02-21T22:24:31Z",
-        "@version": 1,
-        "@changeset": 147751781,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -611,12 +491,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Laurences",
         "survey:date": "2024-02-21",
-        "tourism": "information",
-        "@timestamp": "2024-02-21T22:24:31Z",
-        "@version": 1,
-        "@changeset": 147751781,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -636,12 +511,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Suel",
         "survey:date": "2024-02-21",
-        "tourism": "information",
-        "@timestamp": "2024-02-21T22:24:31Z",
-        "@version": 1,
-        "@changeset": 147751781,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -661,12 +531,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Crozes",
         "survey:date": "2024-02-21",
-        "tourism": "information",
-        "@timestamp": "2024-02-21T22:24:31Z",
-        "@version": 1,
-        "@changeset": 147751781,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -686,12 +551,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Salettes",
         "survey:date": "2024-02-28",
-        "tourism": "information",
-        "@timestamp": "2024-02-29T17:07:13Z",
-        "@version": 1,
-        "@changeset": 148062549,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -711,12 +571,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Monteil",
         "survey:date": "2024-02-21",
-        "tourism": "information",
-        "@timestamp": "2024-02-21T22:24:31Z",
-        "@version": 1,
-        "@changeset": 147751781,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -736,12 +591,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Salavert",
         "survey:date": "2024-02-28",
-        "tourism": "information",
-        "@timestamp": "2024-02-29T17:07:13Z",
-        "@version": 1,
-        "@changeset": 148062549,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -761,12 +611,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Plantades",
         "survey:date": "2024-03-23",
-        "tourism": "information",
-        "@timestamp": "2024-03-24T17:30:37Z",
-        "@version": 1,
-        "@changeset": 149099469,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -785,12 +630,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Espic",
-        "tourism": "information",
-        "@timestamp": "2024-02-29T17:07:13Z",
-        "@version": 1,
-        "@changeset": 148062549,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -810,12 +650,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Passerelle",
         "survey:date": "2024-03-23",
-        "tourism": "information",
-        "@timestamp": "2024-03-24T17:30:37Z",
-        "@version": 1,
-        "@changeset": 149099469,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -834,12 +669,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Source du Picou",
-        "tourism": "information",
-        "@timestamp": "2024-03-24T17:43:33Z",
-        "@version": 1,
-        "@changeset": 149099469,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -858,12 +688,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Grand Bois",
-        "tourism": "information",
-        "@timestamp": "2024-03-02T14:51:55Z",
-        "@version": 1,
-        "@changeset": 148134890,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -882,12 +707,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Serre",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T17:55:35Z",
-        "@version": 1,
-        "@changeset": 148176263,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -906,12 +726,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Côquou",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T17:55:35Z",
-        "@version": 1,
-        "@changeset": 148176263,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -930,12 +745,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Stribes",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T17:55:35Z",
-        "@version": 2,
-        "@changeset": 148176263,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -954,12 +764,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Croix de Sauris",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T17:55:35Z",
-        "@version": 2,
-        "@changeset": 148176263,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -978,12 +783,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Roche",
-        "tourism": "information",
-        "@timestamp": "2024-03-10T09:06:09Z",
-        "@version": 4,
-        "@changeset": 148452325,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1002,12 +802,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Colobrouze",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T16:36:57Z",
-        "@version": 3,
-        "@changeset": 143170692,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1026,12 +821,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont du Gua",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T16:36:57Z",
-        "@version": 2,
-        "@changeset": 143170692,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1050,12 +840,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Parot",
-        "tourism": "information",
-        "@timestamp": "2024-02-25T14:48:29Z",
-        "@version": 1,
-        "@changeset": 147894540,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1074,12 +859,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Entrée de Champussac",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T16:36:57Z",
-        "@version": 1,
-        "@changeset": 143170692,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1102,12 +882,7 @@ guideposts =
         "name:signed": "no",
         "note": "nom d'après le plan",
         "survey:date": "2023-11-20",
-        "tourism": "information",
-        "@timestamp": "2024-04-26T14:39:17Z",
-        "@version": 4,
-        "@changeset": 150542605,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1127,12 +902,7 @@ guideposts =
         "information": "guidepost",
         "name": "Loubaresse",
         "survey:date": "2017-03-20",
-        "tourism": "information",
-        "@timestamp": "2024-02-24T22:21:48Z",
-        "@version": 2,
-        "@changeset": 147872895,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1151,12 +921,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Loubaresse",
-        "tourism": "information",
-        "@timestamp": "2024-02-24T22:21:48Z",
-        "@version": 1,
-        "@changeset": 147872895,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1175,12 +940,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Issartasses",
-        "tourism": "information",
-        "@timestamp": "2024-02-25T13:27:36Z",
-        "@version": 1,
-        "@changeset": 147891084,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1199,12 +959,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pratarabiat",
-        "tourism": "information",
-        "@timestamp": "2024-02-25T13:27:36Z",
-        "@version": 1,
-        "@changeset": 147891084,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1226,12 +981,7 @@ guideposts =
         "name": "?",
         "name:signed": "no",
         "survey:date": "2023-11-20",
-        "tourism": "information",
-        "@timestamp": "2023-11-23T17:17:52Z",
-        "@version": 3,
-        "@changeset": 144378024,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1250,12 +1000,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Chambons bis",
-        "tourism": "information",
-        "@timestamp": "2023-11-23T17:17:52Z",
-        "@version": 2,
-        "@changeset": 144378024,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1274,12 +1019,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Meyrand",
-        "tourism": "information",
-        "@timestamp": "2023-11-23T21:45:52Z",
-        "@version": 1,
-        "@changeset": 144383178,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1300,12 +1040,7 @@ guideposts =
         "information": "guidepost",
         "name": "Départ Station",
         "survey:date": "2023-06-26",
-        "tourism": "information",
-        "@timestamp": "2024-04-26T14:39:17Z",
-        "@version": 4,
-        "@changeset": 150542605,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1326,12 +1061,7 @@ guideposts =
         "information": "guidepost",
         "name": "Billeterie Station",
         "survey:date": "2023-06-26",
-        "tourism": "information",
-        "@timestamp": "2023-11-21T18:01:07Z",
-        "@version": 1,
-        "@changeset": 144297870,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1354,12 +1084,7 @@ guideposts =
         "name:signed": "no",
         "note": "nom d'après le plan",
         "survey:date": "2023-11-20",
-        "tourism": "information",
-        "@timestamp": "2023-11-23T17:17:52Z",
-        "@version": 2,
-        "@changeset": 144378024,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1380,12 +1105,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le suc de Montat",
         "survey:date": "2023-11-20",
-        "tourism": "information",
-        "@timestamp": "2023-11-23T17:17:52Z",
-        "@version": 2,
-        "@changeset": 144378024,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1406,12 +1126,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Buisson",
         "survey:date": "2023-11-20",
-        "tourism": "information",
-        "@timestamp": "2023-11-21T18:01:07Z",
-        "@version": 1,
-        "@changeset": 144297870,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1430,12 +1145,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pra Bargès",
-        "tourism": "information",
-        "@timestamp": "2024-01-05T20:49:33Z",
-        "@version": 1,
-        "@changeset": 145936864,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1458,12 +1168,7 @@ guideposts =
         "name:signed": "no",
         "note": "nom d'après le plan",
         "survey:date": "2023-11-20",
-        "tourism": "information",
-        "@timestamp": "2023-11-23T17:17:52Z",
-        "@version": 3,
-        "@changeset": 144378024,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1484,12 +1189,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Bez",
         "survey:date": "2023-11-20",
-        "tourism": "information",
-        "@timestamp": "2024-02-22T14:53:49Z",
-        "@version": 3,
-        "@changeset": 147776925,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1510,12 +1210,7 @@ guideposts =
         "information": "guidepost",
         "name": "Col du Pendu",
         "survey:date": "2023-11-20",
-        "tourism": "information",
-        "@timestamp": "2023-11-23T17:17:52Z",
-        "@version": 3,
-        "@changeset": 144378024,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1536,12 +1231,7 @@ guideposts =
         "information": "guidepost",
         "name": "Mas des Pergeyres",
         "survey:date": "2023-10-09",
-        "tourism": "information",
-        "@timestamp": "2023-10-10T15:15:00Z",
-        "@version": 1,
-        "@changeset": 142398235,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1562,12 +1252,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bois des Rabeyres",
         "survey:date": "2023-10-09",
-        "tourism": "information",
-        "@timestamp": "2023-10-10T15:15:00Z",
-        "@version": 1,
-        "@changeset": 142398235,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1586,12 +1271,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pré du Poux",
-        "tourism": "information",
-        "@timestamp": "2024-01-05T20:49:33Z",
-        "@version": 1,
-        "@changeset": 145936864,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1610,12 +1290,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Chabannaux",
-        "tourism": "information",
-        "@timestamp": "2024-01-03T21:41:40Z",
-        "@version": 1,
-        "@changeset": 145856109,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1634,12 +1309,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint Martin",
-        "tourism": "information",
-        "@timestamp": "2024-02-24T18:11:51Z",
-        "@version": 1,
-        "@changeset": 147865889,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1658,12 +1328,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Couderc",
-        "tourism": "information",
-        "@timestamp": "2024-02-24T18:11:51Z",
-        "@version": 1,
-        "@changeset": 147865889,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1682,12 +1347,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Ségur",
-        "tourism": "information",
-        "@timestamp": "2018-07-12T21:11:07Z",
-        "@version": 3,
-        "@changeset": 60665477,
-        "@user": "Fischerhaeusle",
-        "@uid": 71205
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1706,12 +1366,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chalas",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T12:59:08Z",
-        "@version": 3,
-        "@changeset": 143161622,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1730,12 +1385,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Grangette",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T09:42:57Z",
-        "@version": 2,
-        "@changeset": 143153552,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1754,12 +1404,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Escoufour",
-        "tourism": "information",
-        "@timestamp": "2022-01-09T17:27:41Z",
-        "@version": 3,
-        "@changeset": 115951775,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1782,12 +1427,7 @@ guideposts =
         "name:signed": "no",
         "note": "nom d'après le plan",
         "survey:date": "2023-06-26",
-        "tourism": "information",
-        "@timestamp": "2023-11-21T18:01:07Z",
-        "@version": 1,
-        "@changeset": 144297870,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1810,12 +1450,7 @@ guideposts =
         "name:signed": "no",
         "note": "nom d'après fiche rando",
         "survey:date": "2023-06-26",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T14:25:55Z",
-        "@version": 3,
-        "@changeset": 144757512,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1835,12 +1470,7 @@ guideposts =
         "information": "guidepost",
         "name": "Rocher des Barres",
         "survey:date": "2023-06-26",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T09:42:57Z",
-        "@version": 4,
-        "@changeset": 143153552,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1860,12 +1490,7 @@ guideposts =
         "information": "guidepost",
         "mtb": "yes",
         "name": "Les Cebeyres",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T12:59:08Z",
-        "@version": 3,
-        "@changeset": 143161622,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1884,12 +1509,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Valousset",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T12:59:08Z",
-        "@version": 1,
-        "@changeset": 143161622,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1908,12 +1528,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Cros de l'Aygue",
-        "tourism": "information",
-        "@timestamp": "2023-10-25T16:59:37Z",
-        "@version": 1,
-        "@changeset": 143120862,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1932,12 +1547,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col des Langoustines",
-        "tourism": "information",
-        "@timestamp": "2023-10-25T16:59:37Z",
-        "@version": 2,
-        "@changeset": 143120862,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1956,12 +1566,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Sucheyre",
-        "tourism": "information",
-        "@timestamp": "2023-10-25T16:59:37Z",
-        "@version": 3,
-        "@changeset": 143120862,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -1982,12 +1587,7 @@ guideposts =
         "information": "guidepost",
         "name": "Col de la Croix de Bauzon",
         "survey:date": "2023-10-09",
-        "tourism": "information",
-        "@timestamp": "2023-10-10T15:15:00Z",
-        "@version": 2,
-        "@changeset": 142398235,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2008,12 +1608,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Fautouras",
         "survey:date": "2023-10-09",
-        "tourism": "information",
-        "@timestamp": "2023-10-10T17:13:38Z",
-        "@version": 2,
-        "@changeset": 142403368,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2032,12 +1627,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col d'Abraham",
-        "tourism": "information",
-        "@timestamp": "2023-12-29T18:00:42Z",
-        "@version": 1,
-        "@changeset": 145672111,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2056,12 +1646,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Passadou",
-        "tourism": "information",
-        "@timestamp": "2023-12-29T18:00:42Z",
-        "@version": 1,
-        "@changeset": 145672111,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2080,12 +1665,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Cautet",
-        "tourism": "information",
-        "@timestamp": "2023-12-31T18:16:01Z",
-        "@version": 1,
-        "@changeset": 145743271,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2104,12 +1684,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Aleyrac",
-        "tourism": "information",
-        "@timestamp": "2023-12-31T18:16:01Z",
-        "@version": 1,
-        "@changeset": 145743271,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2128,12 +1703,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Lesparet/Besselias",
-        "tourism": "information",
-        "@timestamp": "2024-01-03T21:41:40Z",
-        "@version": 1,
-        "@changeset": 145856109,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2152,12 +1722,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Rocher du Cheylard",
-        "tourism": "information",
-        "@timestamp": "2024-01-03T21:41:40Z",
-        "@version": 1,
-        "@changeset": 145856109,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2176,12 +1741,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Cros de Boutazon",
-        "tourism": "information",
-        "@timestamp": "2024-01-03T21:41:40Z",
-        "@version": 1,
-        "@changeset": 145856109,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2199,14 +1759,10 @@ guideposts =
         "ele": "1330",
         "hiking": "yes",
         "information": "guidepost",
-        "name": "?",
+        "name": "La Plaine des Rochers d'Astet",
+        "source": "plan rando",
         "survey:date": "2023-06-19",
-        "tourism": "information",
-        "@timestamp": "2024-01-03T21:41:40Z",
-        "@version": 1,
-        "@changeset": 145856109,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2220,19 +1776,33 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11861895903",
+        "ele": "1290",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Maison Forestière Bèque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.084366,
+          44.7077901
+        ]
+      },
+      "id": "node/11861895903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11473487175",
-        "ele": "1984",
-        "ele:signed": "1984",
+        "ele": "1284",
+        "ele:signed": "1284",
         "hiking": "yes",
         "information": "guidepost",
         "name": "Croix de Chaumiène",
         "survey:date": "2023-06-19",
-        "tourism": "information",
-        "@timestamp": "2023-12-31T18:16:01Z",
-        "@version": 1,
-        "@changeset": 145743271,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2246,17 +1816,107 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11862272210",
+        "ele": "965",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Chapelet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1266483,
+          44.7089872
+        ]
+      },
+      "id": "node/11862272210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11861895902",
+        "ele": "1305",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Palles",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1007569,
+          44.7124336
+        ]
+      },
+      "id": "node/11861895902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11862272211",
+        "ele": "1005",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Rieugrand",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1384286,
+          44.7240253
+        ]
+      },
+      "id": "node/11862272211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11861895901",
+        "ele": "1220",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Palles",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1197336,
+          44.7270858
+        ]
+      },
+      "id": "node/11861895901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11861895900",
+        "ele": "1205",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Marugier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1307414,
+          44.7273945
+        ]
+      },
+      "id": "node/11861895900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11395075216",
         "ele": "1030",
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Fénadou",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T23:11:19Z",
-        "@version": 1,
-        "@changeset": 144772913,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2275,12 +1935,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Ranc Qualiou",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T23:11:19Z",
-        "@version": 1,
-        "@changeset": 144772913,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2299,12 +1954,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Sableyre",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T23:11:19Z",
-        "@version": 1,
-        "@changeset": 144772913,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2318,17 +1968,32 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11862272256",
+        "ele": "770",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Roux Bas",
+        "note": "existence et position du poteau à vérifier",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1421783,
+          44.7171376
+        ]
+      },
+      "id": "node/11862272256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11843394803",
         "ele": "700",
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Herm",
-        "tourism": "information",
-        "@timestamp": "2024-04-24T08:55:52Z",
-        "@version": 1,
-        "@changeset": 150433057,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2342,6 +2007,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11861895899",
+        "ele": "1265",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Partage des eaux",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1485298,
+          44.7374286
+        ]
+      },
+      "id": "node/11861895899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11009735783",
         "ele": "1220",
         "ele:signed": "no",
@@ -2350,12 +2034,7 @@ guideposts =
         "name": "Croix du Pal",
         "note": "poteau en mauvais état",
         "survey:date": "2023-06-15",
-        "tourism": "information",
-        "@timestamp": "2024-04-26T14:39:17Z",
-        "@version": 2,
-        "@changeset": 150542605,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2369,6 +2048,44 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11861895898",
+        "ele": "1285",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Piéfaud",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1521454,
+          44.7426069
+        ]
+      },
+      "id": "node/11861895898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11861895897",
+        "ele": "1255",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Lac Ferrand",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1665542,
+          44.7417306
+        ]
+      },
+      "id": "node/11861895897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11010526352",
         "ele": "1195",
         "ele:signed": "1195",
@@ -2376,12 +2093,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Fontaulière",
         "survey:date": "2023-06-16",
-        "tourism": "information",
-        "@timestamp": "2024-04-26T14:39:17Z",
-        "@version": 3,
-        "@changeset": 150542605,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2401,12 +2113,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Oulettes",
         "survey:date": "2023-06-15",
-        "tourism": "information",
-        "@timestamp": "2024-04-26T14:39:17Z",
-        "@version": 3,
-        "@changeset": 150542605,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2427,12 +2134,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Cros du Loup",
         "survey:date": "2023-06-16",
-        "tourism": "information",
-        "@timestamp": "2024-04-09T21:18:50Z",
-        "@version": 2,
-        "@changeset": 149795210,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2452,12 +2154,7 @@ guideposts =
         "information": "guidepost",
         "name": "Laplagne",
         "survey:date": "2019-04-15",
-        "tourism": "information",
-        "@timestamp": "2023-11-16T10:45:46Z",
-        "@version": 1,
-        "@changeset": 144089216,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2477,12 +2174,7 @@ guideposts =
         "information": "guidepost",
         "name": "Col de la Serre",
         "survey:date": "2019-04-15",
-        "tourism": "information",
-        "@timestamp": "2023-11-16T10:45:46Z",
-        "@version": 1,
-        "@changeset": 144089216,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2502,12 +2194,7 @@ guideposts =
         "information": "guidepost",
         "name": "Sous le Puy Lacher",
         "survey:date": "2019-04-15",
-        "tourism": "information",
-        "@timestamp": "2023-11-16T10:45:46Z",
-        "@version": 1,
-        "@changeset": 144089216,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2528,12 +2215,7 @@ guideposts =
         "information": "guidepost",
         "name": "Serpentière",
         "survey:date": "2019-04-15",
-        "tourism": "information",
-        "@timestamp": "2023-11-16T10:45:46Z",
-        "@version": 1,
-        "@changeset": 144089216,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2554,12 +2236,7 @@ guideposts =
         "information": "guidepost",
         "name": "Colombou",
         "survey:date": "2019-04-15",
-        "tourism": "information",
-        "@timestamp": "2023-11-16T10:45:46Z",
-        "@version": 1,
-        "@changeset": 144089216,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2578,12 +2255,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Lastic",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2604,12 +2276,7 @@ guideposts =
         "name": "Le Pont de Maisonneuve",
         "note": "Poteau en partie caché",
         "survey:date": "2024-02-16",
-        "tourism": "information",
-        "@timestamp": "2024-02-16T17:47:36Z",
-        "@version": 3,
-        "@changeset": 147542578,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2630,12 +2297,7 @@ guideposts =
         "name": "Lengarnayre",
         "note": "Pas de lames directionnelles ni de chapeau",
         "survey:date": "2024-01-31",
-        "tourism": "information",
-        "@timestamp": "2024-02-09T14:41:17Z",
-        "@version": 3,
-        "@changeset": 147259812,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2654,12 +2316,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Comps",
-        "tourism": "information",
-        "@timestamp": "2024-02-10T11:11:51Z",
-        "@version": 1,
-        "@changeset": 147287516,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2679,12 +2336,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Moulinas",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2703,12 +2355,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chastelas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2728,12 +2375,7 @@ guideposts =
         "information": "guidepost",
         "name": "Font Vive",
         "survey:date": "2024-01-29",
-        "tourism": "information",
-        "@timestamp": "2024-01-29T17:38:41Z",
-        "@version": 3,
-        "@changeset": 146831690,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2753,12 +2395,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chandolas",
         "survey:date": "2024-02-16",
-        "tourism": "information",
-        "@timestamp": "2024-02-16T17:47:36Z",
-        "@version": 3,
-        "@changeset": 147542578,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2777,12 +2414,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Pause",
-        "tourism": "information",
-        "@timestamp": "2024-01-25T22:26:10Z",
-        "@version": 3,
-        "@changeset": 146690663,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2802,12 +2434,7 @@ guideposts =
         "information": "guidepost",
         "name": "Cham de Rode",
         "survey:date": "2024-01-31",
-        "tourism": "information",
-        "@timestamp": "2024-01-31T20:43:34Z",
-        "@version": 4,
-        "@changeset": 146920708,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2826,12 +2453,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Grospierres",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2851,12 +2473,7 @@ guideposts =
         "information": "guidepost",
         "name": "L'Église",
         "survey:date": "2024-01-29",
-        "tourism": "information",
-        "@timestamp": "2024-01-29T17:38:41Z",
-        "@version": 3,
-        "@changeset": 146831690,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2876,12 +2493,7 @@ guideposts =
         "information": "guidepost",
         "name": "Grospierres Gare",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2024-01-29T17:38:41Z",
-        "@version": 3,
-        "@changeset": 146831690,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2900,12 +2512,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Moulin",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2925,12 +2532,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Treilles",
         "survey:date": "2024-02-02",
-        "tourism": "information",
-        "@timestamp": "2024-02-09T14:41:17Z",
-        "@version": 1,
-        "@changeset": 147259812,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2950,12 +2552,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Croix de Raoux",
         "survey:date": "2024-01-31",
-        "tourism": "information",
-        "@timestamp": "2024-01-31T20:43:34Z",
-        "@version": 4,
-        "@changeset": 146920708,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2974,12 +2571,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bourdezac",
-        "tourism": "information",
-        "@timestamp": "2024-03-02T14:51:55Z",
-        "@version": 1,
-        "@changeset": 148134890,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -2999,12 +2591,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Péage",
         "survey:date": "2024-02-28",
-        "tourism": "information",
-        "@timestamp": "2024-03-02T14:51:55Z",
-        "@version": 1,
-        "@changeset": 148134890,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3023,12 +2610,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Grangette",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3048,12 +2630,7 @@ guideposts =
         "information": "guidepost",
         "mtb": "yes",
         "name": "La Plaine des Mûres",
-        "tourism": "information",
-        "@timestamp": "2022-12-31T15:09:09Z",
-        "@version": 3,
-        "@changeset": 130724581,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3072,12 +2649,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bouchard",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3096,12 +2668,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Mas de Fontbonne",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T14:25:55Z",
-        "@version": 2,
-        "@changeset": 144757512,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3120,12 +2687,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Freyssinet",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T14:25:55Z",
-        "@version": 2,
-        "@changeset": 144757512,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3144,12 +2706,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Freyssinet Est",
-        "tourism": "information",
-        "@timestamp": "2024-04-26T14:39:17Z",
-        "@version": 3,
-        "@changeset": 150542605,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3170,12 +2727,7 @@ guideposts =
         "name": "Le Bois Chabanet",
         "name:signed": "Le Bois Chabanet",
         "survey:date": "2024-01-25",
-        "tourism": "information",
-        "@timestamp": "2024-01-25T22:26:10Z",
-        "@version": 3,
-        "@changeset": 146690663,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3196,12 +2748,7 @@ guideposts =
         "name": "Font Méjanne",
         "name:signed": "Font Méjanne",
         "survey:date": "2024-01-25",
-        "tourism": "information",
-        "@timestamp": "2024-01-25T22:26:10Z",
-        "@version": 3,
-        "@changeset": 146690663,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3222,12 +2769,7 @@ guideposts =
         "mtb": "yes",
         "name": "Flandrin",
         "survey:date": "2021-12-13",
-        "tourism": "information",
-        "@timestamp": "2022-12-15T16:32:42Z",
-        "@version": 3,
-        "@changeset": 130122700,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3248,12 +2790,7 @@ guideposts =
         "mtb": "yes",
         "name": "Bourbouillet",
         "survey:date": "2021-12-13",
-        "tourism": "information",
-        "@timestamp": "2022-12-15T16:32:42Z",
-        "@version": 4,
-        "@changeset": 130122700,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3274,12 +2811,7 @@ guideposts =
         "mtb": "yes",
         "name": "L'Espeluche",
         "survey:date": "2021-12-13",
-        "tourism": "information",
-        "@timestamp": "2022-12-15T16:32:42Z",
-        "@version": 4,
-        "@changeset": 130122700,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3299,12 +2831,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Réméjadou",
         "survey:date": "2021-12-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3325,12 +2852,7 @@ guideposts =
         "mtb": "yes",
         "name": "Les Issarts",
         "survey:date": "2021-12-13",
-        "tourism": "information",
-        "@timestamp": "2022-12-15T16:32:42Z",
-        "@version": 3,
-        "@changeset": 130122700,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3350,12 +2872,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Dolmen",
         "survey:date": "2021-12-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3376,12 +2893,7 @@ guideposts =
         "mtb": "yes",
         "name": "La Combe du Merle",
         "survey:date": "2021-12-13",
-        "tourism": "information",
-        "@timestamp": "2022-12-15T16:32:42Z",
-        "@version": 3,
-        "@changeset": 130122700,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3401,12 +2913,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Château",
         "survey:date": "2021-12-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3426,12 +2933,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Calvaire",
         "survey:date": "2021-12-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3451,12 +2953,7 @@ guideposts =
         "information": "guidepost",
         "mtb": "yes",
         "name": "Ventalon",
-        "tourism": "information",
-        "@timestamp": "2022-12-15T16:32:42Z",
-        "@version": 4,
-        "@changeset": 130122700,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3477,12 +2974,7 @@ guideposts =
         "mtb": "yes",
         "name": "Lauzette",
         "survey:date": "2022-02-08",
-        "tourism": "information",
-        "@timestamp": "2022-12-31T15:09:09Z",
-        "@version": 3,
-        "@changeset": 130724581,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3502,12 +2994,7 @@ guideposts =
         "information": "guidepost",
         "mtb": "yes",
         "name": "Côte du Freyssinet",
-        "tourism": "information",
-        "@timestamp": "2022-12-31T15:09:09Z",
-        "@version": 3,
-        "@changeset": 130724581,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3528,12 +3015,7 @@ guideposts =
         "mtb": "yes",
         "name": "Falaise de Lunel",
         "survey:date": "2021-12-13",
-        "tourism": "information",
-        "@timestamp": "2022-12-15T16:32:42Z",
-        "@version": 3,
-        "@changeset": 130122700,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3553,12 +3035,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pas de l'Estret",
         "survey:date": "2024-01-29",
-        "tourism": "information",
-        "@timestamp": "2024-01-29T17:38:41Z",
-        "@version": 3,
-        "@changeset": 146831690,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3578,12 +3055,7 @@ guideposts =
         "information": "guidepost",
         "name": "Col de la Cize",
         "survey:date": "2024-01-29",
-        "tourism": "information",
-        "@timestamp": "2024-01-29T17:38:41Z",
-        "@version": 3,
-        "@changeset": 146831690,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3603,12 +3075,7 @@ guideposts =
         "information": "guidepost",
         "name": "Sicouzac",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2024-02-22T14:45:46Z",
-        "@version": 3,
-        "@changeset": 147776598,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3628,12 +3095,7 @@ guideposts =
         "information": "guidepost",
         "name": "Plot de la Molle",
         "survey:date": "2024-01-29",
-        "tourism": "information",
-        "@timestamp": "2024-01-29T17:38:41Z",
-        "@version": 3,
-        "@changeset": 146831690,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3652,12 +3114,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Boriette",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3676,12 +3133,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Hubasses",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3700,12 +3152,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Épingle",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3725,12 +3172,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pas des Pigeons",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3749,12 +3191,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Bastide",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3774,12 +3211,7 @@ guideposts =
         "information": "guidepost",
         "name": "Vallier",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3798,12 +3230,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Costes",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3822,12 +3249,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Aiguille",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3846,12 +3268,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Sampzon",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3870,12 +3287,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bournas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3895,12 +3307,7 @@ guideposts =
         "information": "guidepost",
         "name": "Darbousset",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3920,12 +3327,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bois des Bruyères",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3945,12 +3347,7 @@ guideposts =
         "information": "guidepost",
         "name": "Gour d'Estelle",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3970,12 +3367,7 @@ guideposts =
         "information": "guidepost",
         "name": "Champagnac",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -3994,12 +3386,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Brulade",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4019,12 +3406,7 @@ guideposts =
         "information": "guidepost",
         "name": "Cigeaille",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4043,12 +3425,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont Romain",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4068,12 +3445,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Salavas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4092,12 +3464,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chat du Devès",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4116,12 +3483,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont de Lantousse",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4140,12 +3502,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Brugières",
-        "tourism": "information",
-        "@timestamp": "2023-11-14T22:32:04Z",
-        "@version": 1,
-        "@changeset": 144028852,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4164,12 +3521,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Vieux Vallon",
-        "tourism": "information",
-        "@timestamp": "2023-11-14T22:32:04Z",
-        "@version": 1,
-        "@changeset": 144028852,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4188,12 +3540,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Château",
-        "tourism": "information",
-        "@timestamp": "2023-11-14T22:32:04Z",
-        "@version": 1,
-        "@changeset": 144028852,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4212,12 +3559,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bourdaric",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4236,12 +3578,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Puits de Ronze",
-        "tourism": "information",
-        "@timestamp": "2023-11-14T23:04:42Z",
-        "@version": 2,
-        "@changeset": 144028852,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4260,12 +3597,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Martin",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4285,12 +3617,7 @@ guideposts =
         "information": "guidepost",
         "name": "Coulette",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4310,12 +3637,7 @@ guideposts =
         "information": "guidepost",
         "name": "Mas de Boulle",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4335,12 +3657,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Cimetière",
         "survey:date": "2021-12-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4359,12 +3676,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint Alban",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4383,12 +3695,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bourdaric",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4407,12 +3714,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Béal",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4431,12 +3733,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Robert",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4457,12 +3754,7 @@ guideposts =
         "mtb": "yes",
         "name": "Le Sablas",
         "survey:date": "2023-02-27",
-        "tourism": "information",
-        "@timestamp": "2023-02-27T16:59:19Z",
-        "@version": 4,
-        "@changeset": 133095930,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4481,12 +3773,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Champagnac",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4506,12 +3793,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Beaume",
         "survey:date": "2023-02-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4531,12 +3813,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Faysses",
         "survey:date": "2023-02-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4555,12 +3832,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Trouillères",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4579,12 +3851,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Michel",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4604,12 +3871,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Vieux Pont",
         "survey:date": "2023-02-27",
-        "tourism": "information",
-        "@timestamp": "2023-02-27T16:59:19Z",
-        "@version": 3,
-        "@changeset": 133095930,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4628,12 +3890,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Faysses",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4652,12 +3909,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Serre de Nicard",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4677,12 +3929,7 @@ guideposts =
         "information": "guidepost",
         "name": "Récatadou",
         "survey:date": "2023-02-27",
-        "tourism": "information",
-        "@timestamp": "2023-02-27T16:59:19Z",
-        "@version": 3,
-        "@changeset": 133095930,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4702,12 +3949,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Plaine",
         "survey:date": "2023-02-27",
-        "tourism": "information",
-        "@timestamp": "2023-02-27T16:59:19Z",
-        "@version": 3,
-        "@changeset": 133095930,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4728,12 +3970,7 @@ guideposts =
         "mtb": "yes",
         "name": "Champlautier",
         "survey:date": "2023-02-27",
-        "tourism": "information",
-        "@timestamp": "2023-02-27T16:59:19Z",
-        "@version": 3,
-        "@changeset": 133095930,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4753,12 +3990,7 @@ guideposts =
         "information": "guidepost",
         "name": "Peyroche",
         "survey:date": "2023-02-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4780,12 +4012,7 @@ guideposts =
         "name": "Ruoms",
         "name:signed": "no",
         "note": "Une seule lame directionnelle sans nom",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4804,12 +4031,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Champ des Fours",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4828,12 +4050,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Gare",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4853,12 +4070,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Champ du Gras",
         "survey:date": "2023-06-08",
-        "tourism": "information",
-        "@timestamp": "2023-09-16T15:22:40Z",
-        "@version": 3,
-        "@changeset": 141347749,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4878,12 +4090,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Petites Pièces",
         "survey:date": "2023-06-08",
-        "tourism": "information",
-        "@timestamp": "2023-09-16T15:22:40Z",
-        "@version": 1,
-        "@changeset": 141347749,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4903,12 +4110,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Carrières",
         "survey:date": "2023-06-08",
-        "tourism": "information",
-        "@timestamp": "2023-09-16T15:22:40Z",
-        "@version": 1,
-        "@changeset": 141347749,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4927,12 +4129,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Deserte",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4951,12 +4148,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Loubière",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -4976,12 +4168,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chaussy",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5000,12 +4187,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Coucouru",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5025,12 +4207,7 @@ guideposts =
         "information": "guidepost",
         "name": "Sommet de Sigaud",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5049,12 +4226,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Terriers",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5074,12 +4246,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pecoulas",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5098,12 +4265,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Petit Chaussy",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5122,12 +4284,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Trappe Loup",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5146,12 +4303,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Voie Ferrée",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5170,12 +4322,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Granges",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5194,12 +4341,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Blaches",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5218,12 +4360,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Planas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5242,12 +4379,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Bouchets",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5266,12 +4398,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint André",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5290,12 +4417,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Gras",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5314,12 +4436,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Accueil Gournier",
-        "tourism": "information",
-        "@timestamp": "2024-02-27T15:03:10Z",
-        "@version": 5,
-        "@changeset": 147976939,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5338,12 +4455,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chanet",
-        "tourism": "information",
-        "@timestamp": "2024-02-27T15:03:10Z",
-        "@version": 2,
-        "@changeset": 147976939,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5362,12 +4474,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Aven du Cadet",
-        "tourism": "information",
-        "@timestamp": "2024-02-27T15:03:10Z",
-        "@version": 2,
-        "@changeset": 147976939,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5386,12 +4493,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Malbosc",
-        "tourism": "information",
-        "@timestamp": "2024-01-18T10:53:11Z",
-        "@version": 1,
-        "@changeset": 146399858,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5410,12 +4512,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Broutières",
-        "tourism": "information",
-        "@timestamp": "2024-02-04T21:34:30Z",
-        "@version": 1,
-        "@changeset": 147070524,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5434,12 +4531,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Quais",
-        "tourism": "information",
-        "@timestamp": "2024-01-25T21:22:32Z",
-        "@version": 1,
-        "@changeset": 146688819,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5458,12 +4550,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Sablas",
-        "tourism": "information",
-        "@timestamp": "2024-02-04T21:34:30Z",
-        "@version": 1,
-        "@changeset": 147070524,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5482,12 +4569,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Plaine du Feuillet",
-        "tourism": "information",
-        "@timestamp": "2024-01-24T17:08:42Z",
-        "@version": 1,
-        "@changeset": 146638892,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5506,12 +4588,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Trignan Bas",
-        "tourism": "information",
-        "@timestamp": "2024-02-02T09:07:10Z",
-        "@version": 1,
-        "@changeset": 146976272,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5530,12 +4607,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Trignan Haut",
-        "tourism": "information",
-        "@timestamp": "2024-01-23T17:51:27Z",
-        "@version": 1,
-        "@changeset": 146602623,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5554,12 +4626,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chemin de la Croix Vieille",
-        "tourism": "information",
-        "@timestamp": "2024-02-04T21:34:30Z",
-        "@version": 1,
-        "@changeset": 147070524,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5578,12 +4645,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Vachère",
-        "tourism": "information",
-        "@timestamp": "2024-02-04T21:34:30Z",
-        "@version": 1,
-        "@changeset": 147070524,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5602,12 +4664,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Malherte",
-        "tourism": "information",
-        "@timestamp": "2024-01-23T17:51:27Z",
-        "@version": 1,
-        "@changeset": 146602623,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5626,12 +4683,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Truffières",
-        "tourism": "information",
-        "@timestamp": "2024-01-24T17:08:42Z",
-        "@version": 2,
-        "@changeset": 146638892,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5650,12 +4702,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Louby",
-        "tourism": "information",
-        "@timestamp": "2024-01-24T17:08:42Z",
-        "@version": 1,
-        "@changeset": 146638892,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5674,12 +4721,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Combe du Pouzat",
-        "tourism": "information",
-        "@timestamp": "2024-02-27T17:42:24Z",
-        "@version": 2,
-        "@changeset": 147983655,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5698,12 +4740,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Grotte de Saint-Marcel",
-        "tourism": "information",
-        "@timestamp": "2024-02-27T17:42:24Z",
-        "@version": 2,
-        "@changeset": 147983655,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5722,12 +4759,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Grosse Pierre",
-        "tourism": "information",
-        "@timestamp": "2024-02-27T17:42:24Z",
-        "@version": 2,
-        "@changeset": 147983655,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5746,12 +4778,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Claud de Goudaud",
-        "tourism": "information",
-        "@timestamp": "2024-01-18T10:53:11Z",
-        "@version": 1,
-        "@changeset": 146399858,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5770,12 +4797,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Charette",
-        "tourism": "information",
-        "@timestamp": "2024-01-20T22:59:33Z",
-        "@version": 1,
-        "@changeset": 146495507,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5794,12 +4816,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Puits de la Vieille",
-        "tourism": "information",
-        "@timestamp": "2024-01-20T22:59:33Z",
-        "@version": 1,
-        "@changeset": 146495507,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5818,12 +4835,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Plaine du Cayre",
-        "tourism": "information",
-        "@timestamp": "2024-01-20T22:59:33Z",
-        "@version": 1,
-        "@changeset": 146495507,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5842,12 +4854,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Perrier",
-        "tourism": "information",
-        "@timestamp": "2024-01-24T17:08:42Z",
-        "@version": 2,
-        "@changeset": 146638892,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5866,12 +4873,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Grand Champ",
-        "tourism": "information",
-        "@timestamp": "2024-01-20T22:59:33Z",
-        "@version": 1,
-        "@changeset": 146495507,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5890,12 +4892,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Aven de Fontanille",
-        "tourism": "information",
-        "@timestamp": "2024-01-20T22:59:33Z",
-        "@version": 1,
-        "@changeset": 146495507,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5914,12 +4911,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Champ Vermeil",
-        "tourism": "information",
-        "@timestamp": "2024-01-20T22:59:33Z",
-        "@version": 1,
-        "@changeset": 146495507,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5938,12 +4930,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Plaine des Catalans",
-        "tourism": "information",
-        "@timestamp": "2024-01-24T17:08:42Z",
-        "@version": 1,
-        "@changeset": 146638892,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5962,12 +4949,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chapelle Saint-Sulpice",
-        "tourism": "information",
-        "@timestamp": "2024-01-23T17:51:27Z",
-        "@version": 1,
-        "@changeset": 146602623,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -5986,12 +4968,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Peyrobe",
-        "tourism": "information",
-        "@timestamp": "2024-01-22T17:36:32Z",
-        "@version": 1,
-        "@changeset": 146563269,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6010,12 +4987,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chaveyron",
-        "tourism": "information",
-        "@timestamp": "2024-01-22T17:36:32Z",
-        "@version": 1,
-        "@changeset": 146563269,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6034,12 +5006,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Champ de Grézas",
-        "tourism": "information",
-        "@timestamp": "2024-02-04T17:25:35Z",
-        "@version": 1,
-        "@changeset": 147062725,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6058,12 +5025,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Plan de Lage",
-        "tourism": "information",
-        "@timestamp": "2024-01-22T17:36:32Z",
-        "@version": 1,
-        "@changeset": 146563269,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6082,12 +5044,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Lafare",
-        "tourism": "information",
-        "@timestamp": "2024-01-22T17:36:32Z",
-        "@version": 1,
-        "@changeset": 146563269,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6106,12 +5063,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Capelade",
-        "tourism": "information",
-        "@timestamp": "2024-01-21T22:42:38Z",
-        "@version": 1,
-        "@changeset": 146530665,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6130,12 +5082,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Garoune Bas",
-        "tourism": "information",
-        "@timestamp": "2024-01-21T22:42:38Z",
-        "@version": 2,
-        "@changeset": 146530665,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6154,12 +5101,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Garoune",
-        "tourism": "information",
-        "@timestamp": "2024-02-02T08:25:24Z",
-        "@version": 3,
-        "@changeset": 146974940,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6178,12 +5120,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Combe d'Arc",
-        "tourism": "information",
-        "@timestamp": "2023-11-14T22:32:04Z",
-        "@version": 5,
-        "@changeset": 144028852,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6202,12 +5139,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Mézelet",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T14:28:50Z",
-        "@version": 2,
-        "@changeset": 144757512,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6226,12 +5158,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Combe Longue",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T14:28:50Z",
-        "@version": 3,
-        "@changeset": 144757512,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6250,12 +5177,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bois du Roi",
-        "tourism": "information",
-        "@timestamp": "2023-09-16T10:08:25Z",
-        "@version": 2,
-        "@changeset": 141334380,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6275,12 +5197,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pousaras",
         "survey:date": "2023-08-29",
-        "tourism": "information",
-        "@timestamp": "2023-08-30T21:13:27Z",
-        "@version": 2,
-        "@changeset": 140608373,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6300,12 +5217,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pont de Miquenly",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6326,12 +5238,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Barthe",
         "survey:date": "2023-08-29",
-        "tourism": "information",
-        "@timestamp": "2023-09-16T10:08:25Z",
-        "@version": 3,
-        "@changeset": 141334380,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6352,12 +5259,7 @@ guideposts =
         "information": "guidepost",
         "name": "Serre de la Desferre",
         "survey:date": "2023-08-29",
-        "tourism": "information",
-        "@timestamp": "2023-08-30T21:13:27Z",
-        "@version": 2,
-        "@changeset": 140608373,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6378,12 +5280,7 @@ guideposts =
         "name": "Mayres",
         "note": "position du panneau à vérifier",
         "survey:date": "2023-08-29",
-        "tourism": "information",
-        "@timestamp": "2023-08-30T21:13:27Z",
-        "@version": 2,
-        "@changeset": 140608373,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6403,12 +5300,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Razal",
         "survey:date": "2029-08-29",
-        "tourism": "information",
-        "@timestamp": "2023-08-30T21:13:27Z",
-        "@version": 1,
-        "@changeset": 140608373,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6428,12 +5320,7 @@ guideposts =
         "information": "guidepost",
         "name": "Patroux",
         "survey:date": "2024-01-26",
-        "tourism": "information",
-        "@timestamp": "2024-01-26T20:08:02Z",
-        "@version": 3,
-        "@changeset": 146723529,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6452,12 +5339,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Deves",
-        "tourism": "information",
-        "@timestamp": "2024-01-18T10:53:11Z",
-        "@version": 1,
-        "@changeset": 146399858,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6477,12 +5359,7 @@ guideposts =
         "information": "guidepost",
         "name": "Combe Grand",
         "survey:date": "2024-01-26",
-        "tourism": "information",
-        "@timestamp": "2024-01-26T20:08:02Z",
-        "@version": 3,
-        "@changeset": 146723529,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6501,12 +5378,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Place de l'Alambic",
-        "tourism": "information",
-        "@timestamp": "2024-01-27T10:42:52Z",
-        "@version": 2,
-        "@changeset": 146739117,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6526,12 +5398,7 @@ guideposts =
         "information": "guidepost",
         "name": "Croix du Planas",
         "survey:date": "2024-01-26",
-        "tourism": "information",
-        "@timestamp": "2024-01-26T20:08:02Z",
-        "@version": 3,
-        "@changeset": 146723529,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6551,12 +5418,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chapelle Sainte-Anne",
         "survey:date": "2024-01-26",
-        "tourism": "information",
-        "@timestamp": "2024-01-26T20:08:02Z",
-        "@version": 2,
-        "@changeset": 146723529,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6576,12 +5438,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pont Laval",
         "survey:date": "2024-01-26",
-        "tourism": "information",
-        "@timestamp": "2024-01-26T20:08:02Z",
-        "@version": 3,
-        "@changeset": 146723529,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6601,12 +5458,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Costes 1",
         "survey:date": "2024-01-26",
-        "tourism": "information",
-        "@timestamp": "2024-01-26T20:08:02Z",
-        "@version": 3,
-        "@changeset": 146723529,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6626,12 +5478,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Costes 2",
         "survey:date": "2024-01-26",
-        "tourism": "information",
-        "@timestamp": "2024-01-26T20:08:02Z",
-        "@version": 4,
-        "@changeset": 146723529,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6651,12 +5498,7 @@ guideposts =
         "information": "guidepost",
         "name": "Sigaud",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6675,12 +5517,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Ferrière",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6703,12 +5540,7 @@ guideposts =
         "name:oc": "Lo Pertús",
         "source:name:oc": "ieo-bdtopoc",
         "survey:date": "2023-01-04",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6728,12 +5560,7 @@ guideposts =
         "information": "guidepost",
         "name": "Salastre",
         "survey:date": "2022-11-04",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6752,12 +5579,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Sous la Magnanerie",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6776,12 +5598,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Vigier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6800,12 +5617,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Auche d'Ozil",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6825,12 +5637,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Bouchet",
         "survey:date": "2022-11-04",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6850,12 +5657,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Moulinas",
         "survey:date": "2022-11-04",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6875,12 +5677,7 @@ guideposts =
         "information": "guidepost",
         "name": "Notre Dame d'Ajude",
         "survey:date": "2022-11-04",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6900,12 +5697,7 @@ guideposts =
         "information": "guidepost",
         "name": "Orbeire",
         "survey:date": "2022-11-04",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6924,12 +5716,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pertus de Fabria",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6948,12 +5735,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col d'Eyrole",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6973,12 +5755,7 @@ guideposts =
         "information": "guidepost",
         "name": "Dent de Rez",
         "survey:date": "2020-03-09",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -6999,12 +5776,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chanebière",
         "note": "panneau à vérifier (pas indiqué surcarte Berg et Coiron)",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7025,12 +5797,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Salelles",
         "survey:date": "2023-11-25",
-        "tourism": "information",
-        "@timestamp": "2023-11-25T18:05:12Z",
-        "@version": 1,
-        "@changeset": 144449298,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7051,12 +5818,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Mourades",
         "survey:date": "2023-11-25",
-        "tourism": "information",
-        "@timestamp": "2023-11-25T18:05:12Z",
-        "@version": 1,
-        "@changeset": 144449298,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7076,12 +5838,7 @@ guideposts =
         "information": "guidepost",
         "name": "L'Abri des Dames",
         "survey:date": "2024-03-25",
-        "tourism": "information",
-        "@timestamp": "2024-03-26T14:25:11Z",
-        "@version": 2,
-        "@changeset": 149180593,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7101,12 +5858,7 @@ guideposts =
         "information": "guidepost",
         "name": "Fontaguillon",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7125,12 +5877,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Buissières",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7149,12 +5896,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chêne Rond",
-        "tourism": "information",
-        "@timestamp": "2024-01-18T18:13:37Z",
-        "@version": 2,
-        "@changeset": 146415805,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7173,12 +5915,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Terre Longue",
-        "tourism": "information",
-        "@timestamp": "2024-01-18T18:13:37Z",
-        "@version": 1,
-        "@changeset": 146415805,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7197,12 +5934,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chalon",
-        "tourism": "information",
-        "@timestamp": "2024-01-18T18:13:37Z",
-        "@version": 1,
-        "@changeset": 146415805,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7221,12 +5953,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Moure de Trian",
-        "tourism": "information",
-        "@timestamp": "2024-02-27T17:18:18Z",
-        "@version": 2,
-        "@changeset": 147982632,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7245,12 +5972,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bois du Sorbier",
-        "tourism": "information",
-        "@timestamp": "2024-01-18T18:13:37Z",
-        "@version": 1,
-        "@changeset": 146415805,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7269,12 +5991,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Combe du Renard",
-        "tourism": "information",
-        "@timestamp": "2024-01-18T18:13:37Z",
-        "@version": 1,
-        "@changeset": 146415805,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7293,12 +6010,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Plaine de Mias",
-        "tourism": "information",
-        "@timestamp": "2024-02-04T17:25:35Z",
-        "@version": 2,
-        "@changeset": 147062725,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7317,12 +6029,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Forestière",
-        "tourism": "information",
-        "@timestamp": "2024-01-11T10:42:11Z",
-        "@version": 1,
-        "@changeset": 146136945,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7341,12 +6048,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Combe des Acacias",
-        "tourism": "information",
-        "@timestamp": "2024-01-18T18:13:37Z",
-        "@version": 1,
-        "@changeset": 146415805,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7365,12 +6067,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Mourade",
-        "tourism": "information",
-        "@timestamp": "2024-01-10T21:41:30Z",
-        "@version": 1,
-        "@changeset": 146120233,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7389,12 +6086,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Terre des Moines",
-        "tourism": "information",
-        "@timestamp": "2024-02-02T08:05:51Z",
-        "@version": 3,
-        "@changeset": 146974408,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7413,12 +6105,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Marchetie",
-        "tourism": "information",
-        "@timestamp": "2024-01-19T22:59:38Z",
-        "@version": 1,
-        "@changeset": 146460640,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7437,12 +6124,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pins de Saint-Montan",
-        "tourism": "information",
-        "@timestamp": "2024-02-02T08:05:51Z",
-        "@version": 2,
-        "@changeset": 146974408,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7461,12 +6143,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Laoul",
-        "tourism": "information",
-        "@timestamp": "2024-01-11T10:42:11Z",
-        "@version": 1,
-        "@changeset": 146136945,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7485,12 +6162,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Combe Chabaud",
-        "tourism": "information",
-        "@timestamp": "2024-01-17T15:21:58Z",
-        "@version": 1,
-        "@changeset": 146367638,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7509,12 +6181,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Relais",
-        "tourism": "information",
-        "@timestamp": "2024-01-17T14:33:55Z",
-        "@version": 1,
-        "@changeset": 146367638,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7533,12 +6200,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Combe Longe",
-        "tourism": "information",
-        "@timestamp": "2024-01-17T14:33:55Z",
-        "@version": 1,
-        "@changeset": 146367638,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7557,12 +6219,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Estoupines",
-        "tourism": "information",
-        "@timestamp": "2024-01-17T14:33:55Z",
-        "@version": 1,
-        "@changeset": 146367638,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7581,12 +6238,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bardalène",
-        "tourism": "information",
-        "@timestamp": "2024-01-10T21:41:30Z",
-        "@version": 1,
-        "@changeset": 146120233,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7605,12 +6257,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Aven des Aubes",
-        "tourism": "information",
-        "@timestamp": "2024-01-10T21:41:30Z",
-        "@version": 1,
-        "@changeset": 146120233,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7631,12 +6278,7 @@ guideposts =
         "information": "guidepost",
         "name": "Gerles",
         "survey:date": "2020-03-09",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7657,12 +6299,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bréchon",
         "survey:date": "2020-03-09",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7682,12 +6319,7 @@ guideposts =
         "information": "guidepost",
         "name": "Laulagnier",
         "survey:date": "2020-03-09",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7708,12 +6340,7 @@ guideposts =
         "information": "guidepost",
         "name": "Hameau de Gogne",
         "survey:date": "2020-03-09",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7733,12 +6360,7 @@ guideposts =
         "information": "guidepost",
         "name": "Serrelia",
         "survey:date": "2020-03-09",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7757,12 +6379,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Prés",
-        "tourism": "information",
-        "@timestamp": "2023-12-17T17:40:48Z",
-        "@version": 1,
-        "@changeset": 145223664,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7783,12 +6400,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bouisset",
         "survey:date": "2020-03-09",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7809,12 +6421,7 @@ guideposts =
         "information": "guidepost",
         "name": "École",
         "survey:date": "2020-03-09",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 6,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7837,12 +6444,7 @@ guideposts =
         "name:signed": "Les Hermessennes",
         "note": "D'après le plan, ce croisement devrait être Louvatoux mais il est marqué Les Hermessennes. Le panneau Les Hermessennes est 1.6 km plus au Nord. Les lames directionnelles sont aussi erronées",
         "survey:date": "2024-03-25",
-        "tourism": "information",
-        "@timestamp": "2024-03-26T14:25:11Z",
-        "@version": 2,
-        "@changeset": 149180593,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7861,12 +6463,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Imbours Bas",
-        "tourism": "information",
-        "@timestamp": "2023-12-17T21:39:19Z",
-        "@version": 1,
-        "@changeset": 145230076,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7885,12 +6482,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Valescure",
-        "tourism": "information",
-        "@timestamp": "2024-01-10T21:41:30Z",
-        "@version": 2,
-        "@changeset": 146120233,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7909,12 +6501,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Champs Pique",
-        "tourism": "information",
-        "@timestamp": "2023-12-17T22:17:01Z",
-        "@version": 1,
-        "@changeset": 145230076,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7933,12 +6520,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Imbours",
-        "tourism": "information",
-        "@timestamp": "2023-12-17T17:40:48Z",
-        "@version": 1,
-        "@changeset": 145223664,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7957,12 +6539,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Fontaine du Buis",
-        "tourism": "information",
-        "@timestamp": "2023-12-17T21:39:19Z",
-        "@version": 2,
-        "@changeset": 145230076,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -7981,12 +6558,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bas Rocher",
-        "tourism": "information",
-        "@timestamp": "2023-12-17T17:40:48Z",
-        "@version": 1,
-        "@changeset": 145223664,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8005,12 +6577,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Peyrière",
-        "tourism": "information",
-        "@timestamp": "2023-12-17T17:40:48Z",
-        "@version": 1,
-        "@changeset": 145223664,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8029,12 +6596,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Souchas",
-        "tourism": "information",
-        "@timestamp": "2024-01-22T17:36:32Z",
-        "@version": 1,
-        "@changeset": 146563269,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8053,12 +6615,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chapelle Saint-Julien",
-        "tourism": "information",
-        "@timestamp": "2024-01-22T17:36:32Z",
-        "@version": 1,
-        "@changeset": 146563269,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8077,12 +6634,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Coulange",
-        "tourism": "information",
-        "@timestamp": "2024-02-04T17:25:35Z",
-        "@version": 1,
-        "@changeset": 147062725,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8101,12 +6653,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Croix de Romanet",
-        "tourism": "information",
-        "@timestamp": "2024-02-04T17:25:35Z",
-        "@version": 1,
-        "@changeset": 147062725,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8125,12 +6672,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Seilloux",
-        "tourism": "information",
-        "@timestamp": "2024-02-06T08:30:41Z",
-        "@version": 2,
-        "@changeset": 147124427,
-        "@user": "xrt",
-        "@uid": 1823252
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8149,12 +6691,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pradelle",
-        "tourism": "information",
-        "@timestamp": "2024-02-04T18:00:11Z",
-        "@version": 1,
-        "@changeset": 147062725,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8173,12 +6710,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Darbousset",
-        "tourism": "information",
-        "@timestamp": "2024-02-04T18:00:11Z",
-        "@version": 1,
-        "@changeset": 147062725,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8197,12 +6729,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Soulière",
-        "tourism": "information",
-        "@timestamp": "2024-01-10T21:41:30Z",
-        "@version": 1,
-        "@changeset": 146120233,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8221,12 +6748,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bois de Deniéret",
-        "tourism": "information",
-        "@timestamp": "2023-12-17T21:39:19Z",
-        "@version": 1,
-        "@changeset": 145230076,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8245,12 +6767,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Moure",
-        "tourism": "information",
-        "@timestamp": "2024-01-11T13:40:18Z",
-        "@version": 1,
-        "@changeset": 146143701,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8269,12 +6786,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Gandaubert",
-        "tourism": "information",
-        "@timestamp": "2024-01-11T13:40:18Z",
-        "@version": 1,
-        "@changeset": 146143701,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8294,12 +6806,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bayne",
         "note": "Poteau manquant",
-        "tourism": "information",
-        "@timestamp": "2024-02-01T22:04:03Z",
-        "@version": 2,
-        "@changeset": 146963649,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8318,12 +6825,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Brugette",
-        "tourism": "information",
-        "@timestamp": "2024-01-11T17:24:21Z",
-        "@version": 1,
-        "@changeset": 146151499,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8342,12 +6844,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Mas de Laffont",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T15:00:11Z",
-        "@version": 2,
-        "@changeset": 148169352,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8366,12 +6863,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Bastide",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T15:00:11Z",
-        "@version": 1,
-        "@changeset": 148169352,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8390,12 +6882,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Serre",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T15:00:11Z",
-        "@version": 2,
-        "@changeset": 148169352,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8415,12 +6902,7 @@ guideposts =
         "information": "guidepost",
         "name": "Ribes",
         "note": "Position du poteau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T15:00:11Z",
-        "@version": 1,
-        "@changeset": 148169352,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8439,12 +6921,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Prat",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T15:46:02Z",
-        "@version": 2,
-        "@changeset": 148169352,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8463,12 +6940,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Gelly",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T15:00:11Z",
-        "@version": 1,
-        "@changeset": 148169352,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8488,12 +6960,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Pont",
         "survey:date": "2022-01-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8512,12 +6979,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Croix de Vinchannes",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T10:18:05Z",
-        "@version": 1,
-        "@changeset": 148159512,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8537,12 +6999,7 @@ guideposts =
         "information": "guidepost",
         "name": "Croix de Bonneton",
         "survey:date": "2022-01-24",
-        "tourism": "information",
-        "@timestamp": "2022-12-21T09:10:04Z",
-        "@version": 3,
-        "@changeset": 130322193,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8561,12 +7018,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Prades",
-        "tourism": "information",
-        "@timestamp": "2024-03-03T15:13:03Z",
-        "@version": 3,
-        "@changeset": 148169352,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8587,12 +7039,7 @@ guideposts =
         "mapillary": "264902731983862",
         "name": "L'Escourby",
         "survey:date": "2022-01-24",
-        "tourism": "information",
-        "@timestamp": "2022-12-21T09:10:04Z",
-        "@version": 6,
-        "@changeset": 130322193,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8613,12 +7060,7 @@ guideposts =
         "mapillary": "809707319682478",
         "name": "Les Hautes Salelles",
         "survey:date": "2022-01-24",
-        "tourism": "information",
-        "@timestamp": "2022-12-21T09:10:04Z",
-        "@version": 5,
-        "@changeset": 130322193,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8640,12 +7082,7 @@ guideposts =
         "mapillary": "510773036779852",
         "name": "Versas",
         "survey:date": "2022-02-28",
-        "tourism": "information",
-        "@timestamp": "2023-01-06T23:19:00Z",
-        "@version": 5,
-        "@changeset": 130965301,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8667,12 +7104,7 @@ guideposts =
         "mapillary": "299525435061448",
         "name": "Croix de Pète l'Aoure",
         "survey:date": "2022-02-28",
-        "tourism": "information",
-        "@timestamp": "2023-01-06T23:19:00Z",
-        "@version": 6,
-        "@changeset": 130965301,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8693,12 +7125,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "331816224947477",
         "name": "Le Conchis",
-        "tourism": "information",
-        "@timestamp": "2023-01-07T17:51:48Z",
-        "@version": 5,
-        "@changeset": 130990792,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8718,12 +7145,7 @@ guideposts =
         "information": "guidepost",
         "name": "L'Église",
         "survey:date": "2022-01-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8743,12 +7165,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Vernades",
         "survey:date": "2018-03-17",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8768,12 +7185,7 @@ guideposts =
         "information": "guidepost",
         "name": "Augnac",
         "survey:date": "2022-01-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8793,12 +7205,7 @@ guideposts =
         "information": "guidepost",
         "name": "Rouseiret",
         "survey:date": "2022-03-07",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8818,12 +7225,7 @@ guideposts =
         "information": "guidepost",
         "name": "Remène",
         "survey:date": "2022-03-07",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8843,12 +7245,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Boyer",
         "survey:date": "2022-01-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8868,12 +7265,7 @@ guideposts =
         "information": "guidepost",
         "name": "L'Estourels",
         "survey:date": "2022-01-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8893,12 +7285,7 @@ guideposts =
         "information": "guidepost",
         "name": "Delbara",
         "survey:date": "2022-02-07",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8918,12 +7305,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Blancards",
         "survey:date": "2022-02-07",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8944,12 +7326,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Piles",
         "survey:date": "2022-02-07",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8969,12 +7346,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Calade",
         "survey:date": "2022-02-07",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -8993,12 +7365,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Lavoir",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9018,12 +7385,7 @@ guideposts =
         "information": "guidepost",
         "name": "Toufache",
         "survey:date": "2022-02-07",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9044,12 +7406,7 @@ guideposts =
         "mapillary": "951040282397274",
         "name": "Croix de la Mission",
         "survey:date": "2022-02-07",
-        "tourism": "information",
-        "@timestamp": "2022-12-05T14:40:37Z",
-        "@version": 6,
-        "@changeset": 129744598,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9069,12 +7426,7 @@ guideposts =
         "information": "guidepost",
         "name": "Mas Gauthier",
         "survey:date": "2022-02-07",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9094,12 +7446,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Monteil",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9118,12 +7465,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "St Pierre de Malet",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T16:36:57Z",
-        "@version": 1,
-        "@changeset": 143170692,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9145,12 +7487,7 @@ guideposts =
         "mapillary": "166445815472559",
         "name": "La Tour de Brison",
         "survey:date": "2022-02-28",
-        "tourism": "information",
-        "@timestamp": "2023-01-07T17:51:48Z",
-        "@version": 7,
-        "@changeset": 130990792,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9169,12 +7506,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Loup du Perrier",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T16:36:57Z",
-        "@version": 1,
-        "@changeset": 143170692,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9193,12 +7525,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Collet de la Berle",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T16:36:57Z",
-        "@version": 1,
-        "@changeset": 143170692,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9220,12 +7547,7 @@ guideposts =
         "mapillary": "146641017477729",
         "name": "Les Pargues",
         "survey:date": "2022-02-28",
-        "tourism": "information",
-        "@timestamp": "2023-01-06T23:19:00Z",
-        "@version": 6,
-        "@changeset": 130965301,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9247,12 +7569,7 @@ guideposts =
         "mapillary": "836111830336829",
         "name": "Guillaume",
         "survey:date": "2022-02-28",
-        "tourism": "information",
-        "@timestamp": "2023-01-07T17:51:48Z",
-        "@version": 5,
-        "@changeset": 130990792,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9272,12 +7589,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Colombières",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9299,12 +7611,7 @@ guideposts =
         "mapillary": "1238217699944239",
         "name": "La Chapelette",
         "survey:date": "2022-02-28",
-        "tourism": "information",
-        "@timestamp": "2023-01-06T23:19:00Z",
-        "@version": 6,
-        "@changeset": 130965301,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9323,12 +7630,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Leyval",
-        "tourism": "information",
-        "@timestamp": "2024-02-26T10:13:05Z",
-        "@version": 2,
-        "@changeset": 147924755,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9350,12 +7652,7 @@ guideposts =
         "mapillary": "399950650994840",
         "name": "Pissevieille",
         "survey:date": "2022-02-28",
-        "tourism": "information",
-        "@timestamp": "2023-01-08T15:03:19Z",
-        "@version": 7,
-        "@changeset": 131018764,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9376,12 +7673,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "136807341806788",
         "name": "Le Plançon",
-        "tourism": "information",
-        "@timestamp": "2023-05-09T21:00:06Z",
-        "@version": 6,
-        "@changeset": 135911943,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9402,12 +7694,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Plançon Haut",
         "survey:date": "2023-05-24",
-        "tourism": "information",
-        "@timestamp": "2023-05-25T16:49:18Z",
-        "@version": 3,
-        "@changeset": 136552101,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9426,12 +7713,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Sur le Sauze",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T16:36:57Z",
-        "@version": 1,
-        "@changeset": 143170692,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9451,12 +7733,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "319857012885323",
         "name": "Croix de la Marre",
-        "tourism": "information",
-        "@timestamp": "2023-10-26T16:36:57Z",
-        "@version": 5,
-        "@changeset": 143170692,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9475,12 +7752,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Pradettes",
-        "tourism": "information",
-        "@timestamp": "2024-02-25T15:47:32Z",
-        "@version": 1,
-        "@changeset": 147897035,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9499,12 +7771,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Champussac",
-        "tourism": "information",
-        "@timestamp": "2024-02-25T14:48:29Z",
-        "@version": 1,
-        "@changeset": 147894540,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9524,12 +7791,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "902739437248878",
         "name": "Sous les Combes",
-        "tourism": "information",
-        "@timestamp": "2023-10-25T15:10:31Z",
-        "@version": 9,
-        "@changeset": 143120862,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9549,12 +7811,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "1639892276401484",
         "name": "La Croix de Rocles",
-        "tourism": "information",
-        "@timestamp": "2023-10-25T15:10:31Z",
-        "@version": 5,
-        "@changeset": 143120862,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9574,12 +7831,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "259466625878904",
         "name": "Le Jal",
-        "tourism": "information",
-        "@timestamp": "2023-10-25T15:10:31Z",
-        "@version": 7,
-        "@changeset": 143120862,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9599,12 +7851,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "804644646833077",
         "name": "Bouteillac",
-        "tourism": "information",
-        "@timestamp": "2023-10-25T15:10:31Z",
-        "@version": 7,
-        "@changeset": 143120862,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9623,12 +7870,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont de Charles",
-        "tourism": "information",
-        "@timestamp": "2024-02-25T15:47:32Z",
-        "@version": 1,
-        "@changeset": 147897035,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9648,12 +7890,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "4047845461941875",
         "name": "Le Vernet",
-        "tourism": "information",
-        "@timestamp": "2023-06-22T16:46:56Z",
-        "@version": 8,
-        "@changeset": 137655362,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9672,12 +7909,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Blaunac",
-        "tourism": "information",
-        "@timestamp": "2023-06-22T16:46:56Z",
-        "@version": 3,
-        "@changeset": 137655362,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9698,12 +7930,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "188578916459792",
         "name": "La Draille du Vernet",
-        "tourism": "information",
-        "@timestamp": "2023-06-22T16:46:56Z",
-        "@version": 7,
-        "@changeset": 137655362,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9725,12 +7952,7 @@ guideposts =
         "mapillary": "487296629055170",
         "name": "Haut Laval",
         "survey:date": "2022-02-28",
-        "tourism": "information",
-        "@timestamp": "2023-01-08T15:03:19Z",
-        "@version": 6,
-        "@changeset": 131018764,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9750,12 +7972,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chéron",
-        "tourism": "information",
-        "@timestamp": "2023-01-08T15:03:19Z",
-        "@version": 2,
-        "@changeset": 131018764,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9777,12 +7994,7 @@ guideposts =
         "mapillary": "511139770028731",
         "name": "Pouchonnet",
         "survey:date": "2022-02-28",
-        "tourism": "information",
-        "@timestamp": "2023-01-08T15:03:19Z",
-        "@version": 8,
-        "@changeset": 131018764,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9804,12 +8016,7 @@ guideposts =
         "mapillary": "629697341322806",
         "name": "Berty",
         "survey:date": "2023-05-24",
-        "tourism": "information",
-        "@timestamp": "2023-05-25T16:49:18Z",
-        "@version": 6,
-        "@changeset": 136552101,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9829,12 +8036,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "952354938927481",
         "name": "Les Vers",
-        "tourism": "information",
-        "@timestamp": "2023-01-14T16:23:47Z",
-        "@version": 5,
-        "@changeset": 131270926,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9855,12 +8057,7 @@ guideposts =
         "mapillary": "937653827031541",
         "name": "Les Côtes",
         "survey:date": "2022-02-07",
-        "tourism": "information",
-        "@timestamp": "2022-12-05T14:40:37Z",
-        "@version": 9,
-        "@changeset": 129744598,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9881,12 +8078,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "238931204698208",
         "name": "Roubreau",
-        "tourism": "information",
-        "@timestamp": "2023-01-08T15:03:19Z",
-        "@version": 6,
-        "@changeset": 131018764,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9906,12 +8098,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "521811858828678",
         "name": "Baille",
-        "tourism": "information",
-        "@timestamp": "2023-01-14T16:23:47Z",
-        "@version": 5,
-        "@changeset": 131270926,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9935,12 +8122,7 @@ guideposts =
         "name:signed": "no",
         "note": "Nom d'après topo boucles de randonnée OT",
         "survey:date": "2023-01-13",
-        "tourism": "information",
-        "@timestamp": "2023-01-14T16:23:47Z",
-        "@version": 5,
-        "@changeset": 131270926,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9960,12 +8142,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bédéret",
-        "tourism": "information",
-        "@timestamp": "2023-05-07T09:41:13Z",
-        "@version": 2,
-        "@changeset": 135803460,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -9985,12 +8162,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "979139802625775",
         "name": "Les Lauzières",
-        "tourism": "information",
-        "@timestamp": "2023-01-14T16:23:47Z",
-        "@version": 5,
-        "@changeset": 131270926,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10012,12 +8184,7 @@ guideposts =
         "mapillary": "302775778189528",
         "name": "Tauriers",
         "survey:date": "2023-01-13",
-        "tourism": "information",
-        "@timestamp": "2023-01-14T16:23:47Z",
-        "@version": 5,
-        "@changeset": 131270926,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10041,12 +8208,7 @@ guideposts =
         "name:signed": "no",
         "note": "Nom d'après topo boucles de randonnée OT",
         "survey:date": "2023-01-13",
-        "tourism": "information",
-        "@timestamp": "2023-01-14T16:23:47Z",
-        "@version": 6,
-        "@changeset": 131270926,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10067,12 +8229,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "261401482337063",
         "name": "Place de la Ligne",
-        "tourism": "information",
-        "@timestamp": "2023-05-07T09:41:13Z",
-        "@version": 6,
-        "@changeset": 135803460,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10090,12 +8247,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "mapillary": "145877274225104",
-        "tourism": "information",
-        "@timestamp": "2022-10-10T15:10:12Z",
-        "@version": 5,
-        "@changeset": 127309084,
-        "@user": "kmpoppe (@ Mapillary Update)",
-        "@uid": 14309561
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10117,12 +8269,7 @@ guideposts =
         "mapillary": "379680916664699",
         "name": "Les Fourniols",
         "survey:date": "2023-03-03",
-        "tourism": "information",
-        "@timestamp": "2023-03-04T17:25:13Z",
-        "@version": 5,
-        "@changeset": 133299362,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10144,12 +8291,7 @@ guideposts =
         "name": "Chassiers",
         "name:signed": "no",
         "note": "Pas de panneau, lames directionnelles sur le mur",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10168,12 +8310,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Lavadou",
-        "tourism": "information",
-        "@timestamp": "2023-05-25T16:49:18Z",
-        "@version": 2,
-        "@changeset": 136552101,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10194,12 +8331,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chassagnoles",
         "survey:date": "2023-05-24",
-        "tourism": "information",
-        "@timestamp": "2023-05-25T16:49:18Z",
-        "@version": 4,
-        "@changeset": 136552101,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10218,12 +8350,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Sauzède",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10242,12 +8369,7 @@ guideposts =
         "information": "guidepost",
         "name": "sans nom",
         "survey:date": "2023-05-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10267,12 +8389,7 @@ guideposts =
         "information": "guidepost",
         "name": "Logères",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10293,12 +8410,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bastide",
         "survey:date": "2023-03-03",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10318,12 +8430,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chapelle Saint-Joseph",
         "survey:date": "2023-03-03",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10343,12 +8450,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Combes",
         "note": "Position panneau à préciser",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10367,12 +8469,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pontet",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10394,12 +8491,7 @@ guideposts =
         "information": "guidepost",
         "name": "Joux",
         "survey:date": "2023-04-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10418,12 +8510,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Abeille",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10443,12 +8530,7 @@ guideposts =
         "information": "guidepost",
         "mtb": "yes",
         "name": "Faussimagne",
-        "tourism": "information",
-        "@timestamp": "2022-04-05T16:13:11Z",
-        "@version": 3,
-        "@changeset": 119351173,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10469,12 +8551,7 @@ guideposts =
         "map_size": "site",
         "name": "Chadeyron",
         "survey:date": "2022-02-07",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10494,12 +8571,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Mont Montredon",
         "survey:date": "2022-11-27",
-        "tourism": "information",
-        "@timestamp": "2022-12-05T09:04:03Z",
-        "@version": 3,
-        "@changeset": 129732153,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10520,12 +8592,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Prade Haute",
         "survey:date": "2023-01-03",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10544,12 +8611,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Combe Veyras",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10571,12 +8633,7 @@ guideposts =
         "name": "Les Blaches",
         "name:signed": "no",
         "survey:date": "2023-01-03",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10598,12 +8655,7 @@ guideposts =
         "name": "Uzer",
         "name:signed": "no",
         "survey:date": "2023-01-03",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10624,12 +8676,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Blaches Hautes",
         "survey:date": "2023-01-03",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10650,12 +8697,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Auches",
         "survey:date": "2023-01-12",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10675,12 +8717,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Drayette",
-        "tourism": "information",
-        "@timestamp": "2022-04-10T15:43:01Z",
-        "@version": 3,
-        "@changeset": 119541129,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10699,12 +8736,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Traverses",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10723,12 +8755,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chauzon",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10747,12 +8774,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Serre de Rimbaud",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10771,12 +8793,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Viaduc",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10795,12 +8812,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Lubac",
-        "tourism": "information",
-        "@timestamp": "2022-04-10T15:43:01Z",
-        "@version": 3,
-        "@changeset": 119541129,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10819,12 +8831,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Audon",
-        "tourism": "information",
-        "@timestamp": "2022-04-10T15:43:01Z",
-        "@version": 2,
-        "@changeset": 119541129,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10843,12 +8850,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Vigiers",
-        "tourism": "information",
-        "@timestamp": "2022-04-10T15:43:01Z",
-        "@version": 2,
-        "@changeset": 119541129,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10867,12 +8869,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Portalas",
-        "tourism": "information",
-        "@timestamp": "2023-09-16T16:26:53Z",
-        "@version": 2,
-        "@changeset": 141350450,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10891,12 +8888,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pont",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10915,12 +8907,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chazette",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10939,12 +8926,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Mourre Frais",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10963,12 +8945,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Servières",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -10987,12 +8964,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Chabasses",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11011,12 +8983,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chalouzet",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11035,12 +9002,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Clauzel",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11059,12 +9021,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Maurice d'Ardèche",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11085,12 +9042,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Moulin",
         "survey:date": "2023-05-12",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11111,12 +9063,7 @@ guideposts =
         "information": "guidepost",
         "name": "Montredon",
         "survey:date": "2023-01-12",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11136,12 +9083,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Sainte Foy",
-        "tourism": "information",
-        "@timestamp": "2023-05-07T09:41:13Z",
-        "@version": 3,
-        "@changeset": 135803460,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11161,12 +9103,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Juliennes",
-        "tourism": "information",
-        "@timestamp": "2023-05-07T13:23:59Z",
-        "@version": 3,
-        "@changeset": 135811367,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11187,12 +9124,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Fez",
         "survey:date": "2023-03-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11213,12 +9145,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Village",
         "survey:date": "2023-03-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11239,12 +9166,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Coop",
         "survey:date": "2023-03-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11265,12 +9187,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Alobres",
         "survey:date": "2023-03-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11291,12 +9208,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Crozes",
         "survey:date": "2023-03-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11315,12 +9227,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Tinal",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11341,12 +9248,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Valadiers",
         "note": "Position panneau à préciser",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11367,12 +9269,7 @@ guideposts =
         "information": "guidepost",
         "name": "N.D. de Bonne Rencontre",
         "survey:date": "2023-04-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11391,12 +9288,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Moulin de Landes",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11417,12 +9309,7 @@ guideposts =
         "information": "guidepost",
         "name": "Soudournas",
         "survey:date": "2023-03-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11443,12 +9330,7 @@ guideposts =
         "information": "guidepost",
         "name": "Merzelet",
         "survey:date": "2023-03-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11469,12 +9351,7 @@ guideposts =
         "information": "guidepost",
         "name": "Merzelet Ouest",
         "survey:date": "2023-03-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11495,12 +9372,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bois de Vogüé",
         "survey:date": "2023-03-27",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11521,12 +9393,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chaunes",
         "survey:date": "2022-12-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11547,12 +9414,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Plantier",
         "survey:date": "2022-03-05",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11571,12 +9433,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Mare",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11595,12 +9452,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Gras",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11619,12 +9471,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Lanas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11643,12 +9490,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Lanas Centre",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11667,12 +9509,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Barsac",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11692,12 +9529,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Plantades",
         "survey:date": "2022-03-05",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11717,12 +9549,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Faysses",
         "survey:date": "2022-03-05",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11744,12 +9571,7 @@ guideposts =
         "name": "Serre de Vinobre",
         "note": "Panneau incliné, presque arraché",
         "survey:date": "2023-05-11",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11770,12 +9592,7 @@ guideposts =
         "information": "guidepost",
         "name": "Vinobre",
         "survey:date": "2023-05-11",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11796,12 +9613,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bannes",
         "survey:date": "2023-05-11",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11821,12 +9633,7 @@ guideposts =
         "information": "guidepost",
         "mapillary": "251877773393032",
         "name": "Le Pissas",
-        "tourism": "information",
-        "@timestamp": "2023-10-25T15:10:31Z",
-        "@version": 6,
-        "@changeset": 143120862,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11847,12 +9654,7 @@ guideposts =
         "name": "Col du Merle",
         "note": "2024-02-19 Panneau manquant",
         "survey:date": "2024-02-19",
-        "tourism": "information",
-        "@timestamp": "2024-02-19T16:57:57Z",
-        "@version": 4,
-        "@changeset": 147659466,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11872,12 +9674,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Cros",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11898,12 +9695,7 @@ guideposts =
         "information": "guidepost",
         "name": "Col de la Croix de Millet",
         "survey:date": "2022-11-07",
-        "tourism": "information",
-        "@timestamp": "2023-01-09T18:22:30Z",
-        "@version": 2,
-        "@changeset": 131069589,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11923,12 +9715,7 @@ guideposts =
         "information": "guidepost",
         "name": "Ranc de Bal",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11949,12 +9736,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bouteyre",
         "survey:date": "2022-11-07",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -11975,12 +9757,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chapelle Sainte-Philomène",
         "survey:date": "2022-11-07",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12001,12 +9778,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Vaure",
         "survey:date": "2023-04-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12025,12 +9797,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Champ Blanc",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12051,12 +9818,7 @@ guideposts =
         "information": "guidepost",
         "name": "Ranc Courbier",
         "survey:date": "2023-04-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12077,12 +9839,7 @@ guideposts =
         "information": "guidepost",
         "name": "L'Hubac",
         "survey:date": "2023-04-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12103,12 +9860,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Fourches",
         "survey:date": "2023-04-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12130,12 +9882,7 @@ guideposts =
         "name": "Le Cros",
         "name:signed": "Les Cros",
         "survey:date": "2024-04-22",
-        "tourism": "information",
-        "@timestamp": "2024-04-22T17:05:15Z",
-        "@version": 3,
-        "@changeset": 150357480,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12155,12 +9902,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Gonthier",
-        "tourism": "information",
-        "@timestamp": "2023-11-24T13:06:36Z",
-        "@version": 1,
-        "@changeset": 144407849,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12179,12 +9921,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Hugoux",
-        "tourism": "information",
-        "@timestamp": "2023-11-24T13:06:36Z",
-        "@version": 1,
-        "@changeset": 144407849,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12205,12 +9942,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Rieu",
         "survey:date": "2022-01-28",
-        "tourism": "information",
-        "@timestamp": "2023-11-24T13:06:36Z",
-        "@version": 1,
-        "@changeset": 144407849,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12231,12 +9963,7 @@ guideposts =
         "information": "guidepost",
         "name": "Lafont",
         "survey:date": "2022-01-28",
-        "tourism": "information",
-        "@timestamp": "2023-11-24T13:06:36Z",
-        "@version": 1,
-        "@changeset": 144407849,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12255,12 +9982,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Peschier",
-        "tourism": "information",
-        "@timestamp": "2023-11-24T13:06:36Z",
-        "@version": 1,
-        "@changeset": 144407849,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12281,12 +10003,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chez Ceysson",
         "survey:date": "2024-04-22",
-        "tourism": "information",
-        "@timestamp": "2024-04-22T17:05:15Z",
-        "@version": 4,
-        "@changeset": 150357480,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12305,12 +10022,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Coustet des Vernèdes",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T23:11:19Z",
-        "@version": 1,
-        "@changeset": 144772913,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12329,12 +10041,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Croix de Briges",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T23:11:19Z",
-        "@version": 1,
-        "@changeset": 144772913,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12353,12 +10060,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Tramontel",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T23:11:19Z",
-        "@version": 1,
-        "@changeset": 144772913,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12377,12 +10079,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Roche",
-        "tourism": "information",
-        "@timestamp": "2024-01-01T12:51:46Z",
-        "@version": 2,
-        "@changeset": 145760887,
-        "@user": "Daniel Thirion",
-        "@uid": 606082
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12401,12 +10098,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Roche",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T23:11:19Z",
-        "@version": 1,
-        "@changeset": 144772913,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12426,12 +10118,7 @@ guideposts =
         "information": "guidepost",
         "name": "?",
         "note": "Simple lame sur un mur, sans nom",
-        "tourism": "information",
-        "@timestamp": "2023-12-21T17:35:52Z",
-        "@version": 1,
-        "@changeset": 145379780,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12450,12 +10137,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chastelas",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T17:03:04Z",
-        "@version": 2,
-        "@changeset": 144763031,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12474,12 +10156,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Larmande",
-        "tourism": "information",
-        "@timestamp": "2023-11-01T17:20:58Z",
-        "@version": 1,
-        "@changeset": 143486994,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12498,12 +10175,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Monteil",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T17:03:04Z",
-        "@version": 3,
-        "@changeset": 144763031,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12522,12 +10194,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Brousse",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T17:03:04Z",
-        "@version": 2,
-        "@changeset": 144763031,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12546,12 +10213,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Sérangelier",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T17:03:04Z",
-        "@version": 3,
-        "@changeset": 144763031,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12570,12 +10232,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bonneval",
-        "tourism": "information",
-        "@timestamp": "2023-12-04T17:03:04Z",
-        "@version": 2,
-        "@changeset": 144763031,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12594,12 +10251,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Soulhets",
-        "tourism": "information",
-        "@timestamp": "2023-10-29T15:05:04Z",
-        "@version": 1,
-        "@changeset": 143316256,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12619,12 +10271,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chambon",
-        "tourism": "information",
-        "@timestamp": "2023-10-29T15:05:04Z",
-        "@version": 1,
-        "@changeset": 143316256,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12643,12 +10290,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Chabanne",
-        "tourism": "information",
-        "@timestamp": "2023-10-29T15:05:04Z",
-        "@version": 1,
-        "@changeset": 143316256,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12669,12 +10311,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Coste",
         "survey:date": "2021-12-06",
-        "tourism": "information",
-        "@timestamp": "2023-10-29T15:05:04Z",
-        "@version": 1,
-        "@changeset": 143316256,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12693,12 +10330,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Nougeyrolles",
-        "tourism": "information",
-        "@timestamp": "2023-10-29T15:05:04Z",
-        "@version": 1,
-        "@changeset": 143316256,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12718,12 +10350,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Goux",
         "survey:date": "2022-12-12",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12742,12 +10369,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pourtalou",
-        "tourism": "information",
-        "@timestamp": "2023-12-21T22:06:49Z",
-        "@version": 2,
-        "@changeset": 145386932,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12766,12 +10388,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Ventadour",
-        "tourism": "information",
-        "@timestamp": "2023-12-21T22:06:49Z",
-        "@version": 1,
-        "@changeset": 145386932,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12793,12 +10410,7 @@ guideposts =
         "name": "La Rouvière",
         "note": "Orientation chapeau à vérifier",
         "survey:date": "2023-04-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12819,12 +10431,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pont de Charbonnier",
         "survey:date": "2023-04-24",
-        "tourism": "information",
-        "@timestamp": "2023-04-27T16:49:21Z",
-        "@version": 4,
-        "@changeset": 135436132,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12845,12 +10452,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Coste",
         "survey:date": "2023-04-24",
-        "tourism": "information",
-        "@timestamp": "2023-05-31T16:29:14Z",
-        "@version": 3,
-        "@changeset": 136797178,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12870,12 +10472,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Combe",
         "survey:date": "2023-04-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12895,12 +10492,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Meygris",
         "survey:date": "2021-09-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12921,12 +10513,7 @@ guideposts =
         "information": "guidepost",
         "name": "Fabrias",
         "survey:date": "2024-04-22",
-        "tourism": "information",
-        "@timestamp": "2024-04-22T17:05:15Z",
-        "@version": 4,
-        "@changeset": 150357480,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12946,12 +10533,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pont d'Aigueneyre",
         "survey:date": "2021-09-06",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12971,12 +10553,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Plantier",
         "survey:date": "2021-09-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -12997,12 +10574,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Granges de Védignac",
         "survey:date": "2022-12-24",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13022,12 +10594,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Bouchet",
         "survey:date": "2022-01-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13048,12 +10615,7 @@ guideposts =
         "information": "guidepost",
         "name": "Croix du Trible",
         "survey:date": "2022-03-05",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13074,12 +10636,7 @@ guideposts =
         "information": "guidepost",
         "name": "Mas du Rosier",
         "survey:date": "2023-08-03",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13100,12 +10657,7 @@ guideposts =
         "name": "Chardes",
         "note": "panneau vandalisé, ne reste plus que le poteau",
         "survey:date": "2023-08-03",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13126,12 +10678,7 @@ guideposts =
         "information": "guidepost",
         "name": "Vidal Guerin",
         "survey:date": "2021-09-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13152,12 +10699,7 @@ guideposts =
         "information": "guidepost",
         "name": "Basse Lieure",
         "survey:date": "2022-05-16",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13178,12 +10720,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Planche",
         "survey:date": "2021-09-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13204,12 +10741,7 @@ guideposts =
         "information": "guidepost",
         "name": "Ailhon Place",
         "survey:date": "2022-02-10",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13230,12 +10762,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bonnes Eglises",
         "survey:date": "2022-01-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 6,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13256,12 +10783,7 @@ guideposts =
         "information": "guidepost",
         "name": "Ailhon Sud",
         "survey:date": "2022-02-10",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13282,12 +10804,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Village",
         "survey:date": "2024-04-22",
-        "tourism": "information",
-        "@timestamp": "2024-04-22T17:05:15Z",
-        "@version": 6,
-        "@changeset": 150357480,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13308,12 +10825,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Village Haut",
         "survey:date": "2024-04-22",
-        "tourism": "information",
-        "@timestamp": "2024-04-22T17:05:15Z",
-        "@version": 6,
-        "@changeset": 150357480,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13333,12 +10845,7 @@ guideposts =
         "information": "guidepost",
         "name": "L'École",
         "survey:date": "2022-11-29",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13358,12 +10865,7 @@ guideposts =
         "information": "guidepost",
         "name": "Daüs",
         "survey:date": "2021-09-06",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13384,12 +10886,7 @@ guideposts =
         "information": "guidepost",
         "name": "Clos de la Bernarde",
         "survey:date": "2023-08-06",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13410,12 +10907,7 @@ guideposts =
         "information": "guidepost",
         "name": "Saint Antoine",
         "survey:date": "2023-08-06",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13435,12 +10927,7 @@ guideposts =
         "information": "guidepost",
         "name": "Rode",
         "survey:date": "2022-11-10",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13460,12 +10947,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Faugère",
         "survey:date": "2022-11-10",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13486,12 +10968,7 @@ guideposts =
         "information": "guidepost",
         "name": "Montferou",
         "survey:date": "2021-08-05",
-        "tourism": "information",
-        "@timestamp": "2023-10-29T16:00:11Z",
-        "@version": 6,
-        "@changeset": 143316256,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13511,12 +10988,7 @@ guideposts =
         "information": "guidepost",
         "name": "Col de Farges",
         "survey:date": "2022-11-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13536,12 +11008,7 @@ guideposts =
         "information": "guidepost",
         "name": "Turc",
         "survey:date": "2022-11-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13562,12 +11029,7 @@ guideposts =
         "information": "guidepost",
         "name": "Gaude Haut",
         "survey:date": "2022-01-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13588,12 +11050,7 @@ guideposts =
         "information": "guidepost",
         "name": "Gaude",
         "survey:date": "2022-05-16",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13612,12 +11069,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Mure",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13637,12 +11089,7 @@ guideposts =
         "information": "guidepost",
         "name": "Plaine des Rompudes",
         "survey:date": "2022-02-25",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13662,12 +11109,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bois du Glaizal",
         "survey:date": "2022-02-25",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13686,12 +11128,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chaudabri",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13711,12 +11148,7 @@ guideposts =
         "information": "guidepost",
         "name": "Louchon",
         "survey:date": "2022-11-16",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13736,12 +11168,7 @@ guideposts =
         "information": "guidepost",
         "name": "Lachamp",
         "survey:date": "2022-11-16",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13761,12 +11188,7 @@ guideposts =
         "information": "guidepost",
         "name": "Lazuel",
         "survey:date": "2022-11-16",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13786,12 +11208,7 @@ guideposts =
         "information": "guidepost",
         "name": "Voie romaine",
         "survey:date": "2022-11-16",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13811,12 +11228,7 @@ guideposts =
         "information": "guidepost",
         "name": "Lazuel Ouest",
         "survey:date": "2022-11-16",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13835,12 +11247,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Nuelles",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13859,12 +11266,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Ferrières",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13883,12 +11285,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chadarent",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13907,12 +11304,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Constantine",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13931,12 +11323,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Antoine",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13955,12 +11342,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont d'Aubenas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -13979,12 +11361,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont d'Ucel",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14003,12 +11380,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Airette",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14028,12 +11400,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Pont de Prades",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-10-29T15:05:04Z",
-        "@version": 1,
-        "@changeset": 143316256,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14053,12 +11420,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Puy de Prades",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-10-29T15:05:04Z",
-        "@version": 1,
-        "@changeset": 143316256,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14078,12 +11440,7 @@ guideposts =
         "information": "guidepost",
         "name": "Martinesche",
         "note": "position du panneau à vérifier",
-        "tourism": "information",
-        "@timestamp": "2023-10-29T15:05:04Z",
-        "@version": 1,
-        "@changeset": 143316256,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14102,12 +11459,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pra Haut",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14127,12 +11479,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Pra",
         "survey:date": "2022-01-01",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14151,12 +11498,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Tesseaux",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14175,12 +11517,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Coulet de Tesseaux",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14200,12 +11537,7 @@ guideposts =
         "information": "guidepost",
         "name": "Longe Serre",
         "survey:date": "2022-09-04",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14225,12 +11557,7 @@ guideposts =
         "information": "guidepost",
         "name": "Leyronac",
         "survey:date": "2023-09-23",
-        "tourism": "information",
-        "@timestamp": "2023-09-23T20:16:55Z",
-        "@version": 2,
-        "@changeset": 141659992,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14250,12 +11577,7 @@ guideposts =
         "information": "guidepost",
         "name": "Sétias",
         "survey:date": "2023-09-23",
-        "tourism": "information",
-        "@timestamp": "2023-09-23T17:16:13Z",
-        "@version": 5,
-        "@changeset": 141654260,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14274,12 +11596,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Thérondes",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14298,12 +11615,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bois d'Aval",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14323,12 +11635,7 @@ guideposts =
         "information": "guidepost",
         "name": "Col de Sétias",
         "survey:date": "2023-09-23",
-        "tourism": "information",
-        "@timestamp": "2023-12-19T21:10:37Z",
-        "@version": 5,
-        "@changeset": 145307145,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14347,12 +11654,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Traverses",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14371,12 +11673,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col de la Loube",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14395,12 +11692,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Montgrand",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14419,12 +11711,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Longe Serre",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14443,12 +11730,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Gibaux",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14468,12 +11750,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Temple",
         "survey:date": "2022-11-18",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14493,12 +11770,7 @@ guideposts =
         "information": "guidepost",
         "name": "Arlix",
         "survey:date": "2022-09-04",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14518,12 +11790,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Ruisseau (parking)",
         "survey:date": "2022-09-04",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14542,12 +11809,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bateau",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14566,12 +11828,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pont de Vals",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14590,12 +11847,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Parc",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14614,12 +11866,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Granges Crémades",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14638,12 +11885,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bois Vert",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14662,12 +11904,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Ucel",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14686,12 +11923,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Ucel Village",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14710,12 +11942,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Grand Village",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14734,12 +11961,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Mas d'Ucel",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14758,12 +11980,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Villa Paradis",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14782,12 +11999,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Peintre",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14806,12 +12018,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Sartre",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14830,12 +12037,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bréchignac",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14854,12 +12056,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Combes",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14878,12 +12075,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Table d'orientation",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14902,12 +12094,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Clos",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14926,12 +12113,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Taillades",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14950,12 +12132,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Fromenteyrol",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -14975,12 +12152,7 @@ guideposts =
         "information": "guidepost",
         "name": "Col d'Autuche",
         "survey:date": "2022-09-26",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15000,12 +12172,7 @@ guideposts =
         "information": "guidepost",
         "name": "Vals les Bains",
         "survey:date": "2022-09-03",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15024,12 +12191,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont des Deux Eaux",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15048,12 +12210,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bosc",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15073,12 +12230,7 @@ guideposts =
         "information": "guidepost",
         "name": "Sous les Eaux",
         "survey:date": "2022-09-26",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15098,12 +12250,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Granges",
         "survey:date": "2022-09-26",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15123,12 +12270,7 @@ guideposts =
         "information": "guidepost",
         "name": "Thieure",
         "survey:date": "2022-09-26",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15147,12 +12289,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont de Bridou",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15171,12 +12308,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Coste d'Haut",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15195,12 +12327,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont Neuf",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15219,12 +12346,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont Sans Eau",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15243,12 +12365,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Leyris",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15268,12 +12385,7 @@ guideposts =
         "information": "guidepost",
         "name": "Gras de la Fauvette",
         "survey:date": "2020-09-28",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15292,12 +12404,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Charnier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15316,12 +12423,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chaussy",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15340,12 +12442,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Hameau de Leyris",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15364,12 +12461,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Clos",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15388,12 +12480,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Planche",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15412,12 +12499,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Tête de Crespi",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15436,12 +12518,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Montagu",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15460,12 +12537,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Ron Chamorel",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15484,12 +12556,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Rochecolombe",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15508,12 +12575,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Lauzière",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15532,12 +12594,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Baux",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15556,12 +12613,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Léauze",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15580,12 +12632,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Palas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15606,12 +12653,7 @@ guideposts =
         "information": "guidepost",
         "name": "Valos",
         "survey:date": "2023-03-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15634,12 +12676,7 @@ guideposts =
         "name:signed": "Montagu",
         "note": "Nommé par erreur Montagu sur le panneau et sur les lames. Doit être corrigé",
         "survey:date": "2023-03-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15658,12 +12695,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Boutène",
-        "tourism": "information",
-        "@timestamp": "2023-11-26T17:48:53Z",
-        "@version": 1,
-        "@changeset": 144480246,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15684,12 +12716,7 @@ guideposts =
         "information": "guidepost",
         "name": "Lachamp",
         "survey:date": "2023-11-25",
-        "tourism": "information",
-        "@timestamp": "2023-11-26T17:48:53Z",
-        "@version": 1,
-        "@changeset": 144480246,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15710,12 +12737,7 @@ guideposts =
         "information": "guidepost",
         "name": "Saint-Maurice d'Ibie",
         "survey:date": "2023-03-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15736,12 +12758,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Ausses",
         "survey:date": "2023-03-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15762,12 +12779,7 @@ guideposts =
         "information": "guidepost",
         "name": "L'Ibie",
         "survey:date": "2023-03-13",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15786,12 +12798,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Clos de Vernet",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15812,12 +12819,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bausson",
         "survey:date": "2023-05-12",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15836,12 +12838,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Tunnel",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15861,12 +12858,7 @@ guideposts =
         "information": "guidepost",
         "name": "Vogüé",
         "survey:date": "2022-03-20",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15886,12 +12878,7 @@ guideposts =
         "information": "guidepost",
         "name": "Château d'eau",
         "survey:date": "2022-11-26",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15911,12 +12898,7 @@ guideposts =
         "information": "guidepost",
         "name": "Saint-Cerice",
         "survey:date": "2022-11-26",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15935,12 +12917,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Sauveplantade",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15959,12 +12936,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pradet",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -15983,12 +12955,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Rieusset",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16008,12 +12975,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Chazes",
         "survey:date": "2022-03-20",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16032,12 +12994,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Germain",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16057,12 +13014,7 @@ guideposts =
         "information": "guidepost",
         "name": "Saint-Pierre",
         "survey:date": "2020-03-20",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16082,12 +13034,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bayssac",
         "survey:date": "2020-02-14",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16106,12 +13053,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Lavilledieu (Le Feu)",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 5,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16128,12 +13070,7 @@ guideposts =
         "@id": "node/7212243720",
         "hiking": "yes",
         "information": "guidepost",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16152,12 +13089,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Terme Noir",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16176,12 +13108,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Serre Donde",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16200,12 +13127,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Blache de Gros",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16225,12 +13147,7 @@ guideposts =
         "information": "guidepost",
         "name": "Faucon",
         "survey:date": "2022-03-21",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16250,12 +13167,7 @@ guideposts =
         "information": "guidepost",
         "name": "Place de l'Obélisque",
         "survey:date": "2022-03-21",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16274,12 +13186,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Grande Rue",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16299,12 +13206,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Basse Rue",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16326,12 +13228,7 @@ guideposts =
         "name": "Les Hermessennes",
         "name:signed": "Les Hermessennes",
         "note": "Erreurs dans les lames directionnelles",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T18:09:29Z",
-        "@version": 1,
-        "@changeset": 144634712,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16350,12 +13247,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Merdaric le Haut",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T23:01:21Z",
-        "@version": 1,
-        "@changeset": 144641882,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16374,12 +13266,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Merdaric le Bas",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T23:01:21Z",
-        "@version": 1,
-        "@changeset": 144641882,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16398,12 +13285,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Léouze",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T18:09:29Z",
-        "@version": 1,
-        "@changeset": 144634712,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16422,12 +13304,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bétoulet",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T18:09:29Z",
-        "@version": 1,
-        "@changeset": 144634712,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16446,12 +13323,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Traversas",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T10:41:40Z",
-        "@version": 1,
-        "@changeset": 144620167,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16470,12 +13342,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'École",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T10:41:40Z",
-        "@version": 1,
-        "@changeset": 144620167,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16494,12 +13361,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Colombier",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T10:41:40Z",
-        "@version": 1,
-        "@changeset": 144620167,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16518,12 +13380,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Mias",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T18:09:29Z",
-        "@version": 1,
-        "@changeset": 144634712,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16542,12 +13399,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chaussay",
-        "tourism": "information",
-        "@timestamp": "2024-01-11T18:06:38Z",
-        "@version": 1,
-        "@changeset": 146153554,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16565,12 +13417,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "*",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T23:01:21Z",
-        "@version": 1,
-        "@changeset": 144641882,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16589,12 +13436,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "?",
-        "tourism": "information",
-        "@timestamp": "2023-12-05T22:02:07Z",
-        "@version": 2,
-        "@changeset": 144808176,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16613,12 +13455,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Fournery",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16639,12 +13476,7 @@ guideposts =
         "information": "guidepost",
         "name": "Route de Saint-Andeol",
         "survey:date": "2022-03-21",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16663,12 +13495,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Serrecourt",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T23:01:21Z",
-        "@version": 1,
-        "@changeset": 144641882,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16687,12 +13514,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Mas Giraud",
-        "tourism": "information",
-        "@timestamp": "2023-11-30T23:01:21Z",
-        "@version": 1,
-        "@changeset": 144641882,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16711,12 +13533,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bois de Berg",
-        "tourism": "information",
-        "@timestamp": "2023-12-01T17:39:55Z",
-        "@version": 1,
-        "@changeset": 144669194,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16735,12 +13552,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col de l'Épine",
-        "tourism": "information",
-        "@timestamp": "2023-12-01T17:39:55Z",
-        "@version": 1,
-        "@changeset": 144669194,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16760,12 +13572,7 @@ guideposts =
         "information": "guidepost",
         "name": "Argence",
         "survey:date": "2023-12-06",
-        "tourism": "information",
-        "@timestamp": "2023-12-06T21:01:24Z",
-        "@version": 1,
-        "@changeset": 144844251,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16786,12 +13593,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chantuzas",
         "survey:date": "2023-12-06",
-        "tourism": "information",
-        "@timestamp": "2023-12-06T21:01:24Z",
-        "@version": 1,
-        "@changeset": 144844251,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16811,12 +13613,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bourboulet",
         "survey:date": "2023-12-06",
-        "tourism": "information",
-        "@timestamp": "2023-12-06T21:01:24Z",
-        "@version": 1,
-        "@changeset": 144844251,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16837,12 +13634,7 @@ guideposts =
         "information": "guidepost",
         "name": "Juliau",
         "survey:date": "2023-12-06",
-        "tourism": "information",
-        "@timestamp": "2023-12-06T21:01:24Z",
-        "@version": 1,
-        "@changeset": 144844251,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16861,12 +13653,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Devois",
-        "tourism": "information",
-        "@timestamp": "2023-12-01T22:29:24Z",
-        "@version": 1,
-        "@changeset": 144676859,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16885,12 +13672,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Terre d'Aps",
-        "tourism": "information",
-        "@timestamp": "2023-12-01T17:39:55Z",
-        "@version": 1,
-        "@changeset": 144669194,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16910,12 +13692,7 @@ guideposts =
         "information": "guidepost",
         "name": "Mias",
         "survey:date": "2020-03-15",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16935,12 +13712,7 @@ guideposts =
         "information": "guidepost",
         "name": "Voie Romaine",
         "survey:date": "2022-12-17",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16960,12 +13732,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Poisson",
         "survey:date": "2020-01-15",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -16984,12 +13751,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Houme",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17009,12 +13771,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bois Vignasse",
         "survey:date": "2022-03-04",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17034,12 +13791,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bois Gardette",
         "survey:date": "2022-05-01",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 5,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17059,12 +13811,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Combasses",
         "survey:date": "2022-04-17",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17084,12 +13831,7 @@ guideposts =
         "information": "guidepost",
         "name": "Issard de Madame",
         "survey:date": "2022-03-31",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 5,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17109,12 +13851,7 @@ guideposts =
         "information": "guidepost",
         "name": "Séveniers",
         "survey:date": "2022-04-14",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 5,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17133,12 +13870,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chambon",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 4,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17157,12 +13889,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Téoule",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17181,12 +13908,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Suel",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17205,12 +13927,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Patio",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17229,12 +13946,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Buis",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17253,12 +13965,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Clap",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17277,12 +13984,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Église",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 4,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17301,12 +14003,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chomeil",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17325,12 +14022,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Valette",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17349,12 +14041,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Reyniers",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17373,12 +14060,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Peyrou",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17397,12 +14079,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Planchettes",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17421,12 +14098,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Moulin des Prés",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17445,12 +14117,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Oise",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17471,12 +14138,7 @@ guideposts =
         "information": "guidepost",
         "name": "Lachamp",
         "source": "survey;BDOrtho IGN",
-        "tourism": "information",
-        "@timestamp": "2022-06-07T20:33:46Z",
-        "@version": 3,
-        "@changeset": 122089103,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17495,12 +14157,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Berlandier",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17521,12 +14178,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Taillé",
         "source": "survey;BDOrtho IGN",
-        "tourism": "information",
-        "@timestamp": "2022-06-07T20:58:40Z",
-        "@version": 2,
-        "@changeset": 122089103,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17545,12 +14197,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Blachères",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17569,12 +14216,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Fauger",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17594,12 +14236,7 @@ guideposts =
         "information": "guidepost",
         "name": "Perret",
         "survey:date": "2022-04-14",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17618,12 +14255,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Chéoune",
-        "tourism": "information",
-        "@timestamp": "2023-10-17T09:05:19Z",
-        "@version": 3,
-        "@changeset": 142702292,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17642,12 +14274,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Grands Champs",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17666,12 +14293,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Aulagniers",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17690,12 +14312,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Théoule",
-        "tourism": "information",
-        "@timestamp": "2023-12-07T15:46:54Z",
-        "@version": 1,
-        "@changeset": 144872001,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17714,12 +14331,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Font Nègre",
-        "tourism": "information",
-        "@timestamp": "2023-12-07T15:46:54Z",
-        "@version": 1,
-        "@changeset": 144872001,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17738,12 +14350,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Gravenne",
-        "tourism": "information",
-        "@timestamp": "2023-12-21T17:35:52Z",
-        "@version": 1,
-        "@changeset": 145379780,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17763,12 +14370,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Château",
         "survey:date": "2023-10-02",
-        "tourism": "information",
-        "@timestamp": "2024-03-21T07:05:06Z",
-        "@version": 1,
-        "@changeset": 148945639,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17787,12 +14389,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Rocher Noir",
-        "tourism": "information",
-        "@timestamp": "2024-03-21T07:05:06Z",
-        "@version": 1,
-        "@changeset": 148945639,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17811,12 +14408,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Croix de Mission",
-        "tourism": "information",
-        "@timestamp": "2024-03-21T07:05:06Z",
-        "@version": 1,
-        "@changeset": 148945639,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17835,12 +14427,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Croix Blanche",
-        "tourism": "information",
-        "@timestamp": "2023-12-21T17:35:52Z",
-        "@version": 1,
-        "@changeset": 145379780,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17859,12 +14446,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Brugettes",
-        "tourism": "information",
-        "@timestamp": "2023-12-21T17:35:52Z",
-        "@version": 1,
-        "@changeset": 145379780,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17883,12 +14465,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Plantades",
-        "tourism": "information",
-        "@timestamp": "2024-04-24T08:55:52Z",
-        "@version": 1,
-        "@changeset": 150433057,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17908,12 +14485,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Croisette",
         "survey:date": "2023-10-02",
-        "tourism": "information",
-        "@timestamp": "2024-03-21T07:57:09Z",
-        "@version": 1,
-        "@changeset": 148945639,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17933,12 +14505,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chemin des Endettés",
         "survey:date": "2023-10-02",
-        "tourism": "information",
-        "@timestamp": "2024-03-21T07:05:06Z",
-        "@version": 1,
-        "@changeset": 148945639,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17958,12 +14525,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Champs",
         "note": "position du poteau et du carrefour à vérifier",
-        "tourism": "information",
-        "@timestamp": "2024-04-24T08:55:52Z",
-        "@version": 1,
-        "@changeset": 150433057,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -17982,12 +14544,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Courtiol",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18008,12 +14565,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pont de Veyrières",
         "survey:date": "2023-12-18",
-        "tourism": "information",
-        "@timestamp": "2023-12-19T18:06:04Z",
-        "@version": 1,
-        "@changeset": 145301868,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18034,12 +14586,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Gonthier",
         "survey:date": "2023-12-18",
-        "tourism": "information",
-        "@timestamp": "2023-12-19T18:06:04Z",
-        "@version": 1,
-        "@changeset": 145301868,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18060,12 +14607,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Village",
         "survey:date": "2023-12-18",
-        "tourism": "information",
-        "@timestamp": "2023-12-19T18:06:04Z",
-        "@version": 1,
-        "@changeset": 145301868,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18084,12 +14626,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Moucheyres",
-        "tourism": "information",
-        "@timestamp": "2024-04-26T12:51:13Z",
-        "@version": 3,
-        "@changeset": 150537751,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18108,12 +14645,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Berlie",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18134,12 +14666,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Verrerie",
         "survey:date": "2023-06-15",
-        "tourism": "information",
-        "@timestamp": "2024-04-09T21:18:50Z",
-        "@version": 2,
-        "@changeset": 149795210,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18158,12 +14685,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Croix de Moïse",
-        "tourism": "information",
-        "@timestamp": "2024-04-09T21:18:50Z",
-        "@version": 1,
-        "@changeset": 149795210,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18182,12 +14704,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Croisette",
-        "tourism": "information",
-        "@timestamp": "2024-04-24T09:51:29Z",
-        "@version": 1,
-        "@changeset": 150435856,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18206,12 +14723,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Méjassole",
-        "tourism": "information",
-        "@timestamp": "2024-04-24T09:51:29Z",
-        "@version": 1,
-        "@changeset": 150435856,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18230,12 +14742,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Rampe de la Tuilière",
-        "tourism": "information",
-        "@timestamp": "2024-04-24T09:51:29Z",
-        "@version": 1,
-        "@changeset": 150435856,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18254,12 +14761,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Brousse",
-        "tourism": "information",
-        "@timestamp": "2024-04-24T09:51:29Z",
-        "@version": 1,
-        "@changeset": 150435856,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18279,12 +14781,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Paillon",
-        "tourism": "information",
-        "@timestamp": "2024-04-27T16:02:27Z",
-        "@version": 2,
-        "@changeset": 150586777,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18305,12 +14802,7 @@ guideposts =
         "information": "guidepost",
         "name": "Prapouzol Sud",
         "survey:date": "2020-10-24",
-        "tourism": "information",
-        "@timestamp": "2024-04-27T10:03:40Z",
-        "@version": 1,
-        "@changeset": 150572507,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18331,12 +14823,7 @@ guideposts =
         "information": "guidepost",
         "name": "Prapouzol Nord",
         "survey:date": "2020-10-24",
-        "tourism": "information",
-        "@timestamp": "2024-04-27T10:03:40Z",
-        "@version": 1,
-        "@changeset": 150572507,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18355,12 +14842,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Nouvaille",
-        "tourism": "information",
-        "@timestamp": "2024-04-27T10:03:40Z",
-        "@version": 1,
-        "@changeset": 150572507,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18380,12 +14862,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Sausses",
         "survey:date": "2019-10-07",
-        "tourism": "information",
-        "@timestamp": "2024-04-26T12:51:13Z",
-        "@version": 1,
-        "@changeset": 150537751,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18404,12 +14881,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Vialat",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18428,12 +14900,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chabron",
-        "tourism": "information",
-        "@timestamp": "2024-04-27T16:02:27Z",
-        "@version": 1,
-        "@changeset": 150586777,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18452,12 +14919,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Granges de Sausses",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18477,12 +14939,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Font Rognon",
-        "tourism": "information",
-        "@timestamp": "2023-12-19T18:06:04Z",
-        "@version": 4,
-        "@changeset": 145301868,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18502,12 +14959,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Sainte-Marguerite",
-        "tourism": "information",
-        "@timestamp": "2023-12-19T18:06:04Z",
-        "@version": 4,
-        "@changeset": 145301868,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18526,12 +14978,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Faysse",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18550,12 +14997,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Sous Juvinas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18574,12 +15016,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Juvinas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18598,12 +15035,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Moulin Lacoste",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18622,12 +15054,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Joie",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18646,12 +15073,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Fontalazon",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18670,12 +15092,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Labastide",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18694,12 +15111,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Abro",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18718,12 +15130,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Haute Blachère",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18742,12 +15149,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Ruisseau de la Pauze",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18767,12 +15169,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chastagnier Gourd",
         "survey:date": "2022-09-02",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18792,12 +15189,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pont de Gamarnes",
         "survey:date": "2022-09-02",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18816,12 +15208,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Courbine",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18840,12 +15227,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Pargeades",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18864,12 +15246,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Faux Fay",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18889,12 +15266,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Coulet",
         "survey:date": "2022-09-02",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18914,12 +15286,7 @@ guideposts =
         "information": "guidepost",
         "name": "Mille Soles",
         "survey:date": "2022-09-02",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18939,12 +15306,7 @@ guideposts =
         "information": "guidepost",
         "name": "Col d'Aizac",
         "survey:date": "2022-09-02",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18963,12 +15325,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "l'Huguenot",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -18987,12 +15344,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont de l'Huile",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19011,12 +15363,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Bouchet",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19035,12 +15382,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Rouge",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19060,12 +15402,7 @@ guideposts =
         "information": "guidepost",
         "name": "Col de Montagnac",
         "survey:date": "2020-09-01",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19085,12 +15422,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pra Neuf",
         "survey:date": "2020-09-01",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19109,12 +15441,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Mas Lapierre",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19133,12 +15460,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Village",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19157,12 +15479,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Andeol Nord",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19181,12 +15498,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Mas de Nevissac",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19206,12 +15518,7 @@ guideposts =
         "information": "guidepost",
         "name": "Fontbonne",
         "survey:date": "2022-09-01",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19230,12 +15537,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Lermuse",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19254,12 +15556,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont de Gamond",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19279,12 +15576,7 @@ guideposts =
         "information": "guidepost",
         "name": "Gamond",
         "note": "verifier position",
-        "tourism": "information",
-        "@timestamp": "2024-02-04T10:49:38Z",
-        "@version": 4,
-        "@changeset": 147048374,
-        "@user": "Patchanka",
-        "@uid": 128938
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19303,12 +15595,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Genestelle",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19327,12 +15614,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bois de Roumanou",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19351,12 +15633,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Genestelle",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19375,12 +15652,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Conchis",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19399,12 +15671,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Lyonnes",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19424,12 +15691,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Aubert",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19448,12 +15710,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Saint-Vincent",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19472,12 +15729,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Villaret",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19496,12 +15748,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Villaret Bas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19520,12 +15767,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Homond",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19544,12 +15786,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Mas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19568,12 +15805,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Rocher de la Clé",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19592,12 +15824,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Mazoyer",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19616,12 +15843,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Mazoyer Bas",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19640,12 +15862,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bise",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19664,12 +15881,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Gamondès",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19688,12 +15900,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chabrol",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19713,12 +15920,7 @@ guideposts =
         "information": "guidepost",
         "name": "Bois de Rauset",
         "source": "survey",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19737,12 +15939,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Coulet Gras",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19761,12 +15958,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bourlateyron",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19785,12 +15977,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pétaloup",
-        "tourism": "information",
-        "@timestamp": "2023-12-01T11:03:29Z",
-        "@version": 1,
-        "@changeset": 144657912,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19810,12 +15997,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pont du Ray-Pic",
-        "tourism": "information",
-        "@timestamp": "2024-04-27T16:02:27Z",
-        "@version": 1,
-        "@changeset": 150586777,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19834,12 +16016,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Lachamp Raphaël",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19858,12 +16035,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Quinsou",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19882,12 +16054,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pied du Montivernoux",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19906,12 +16073,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Mézilhac",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19930,12 +16092,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Feuille",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19954,12 +16111,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Pont du Devès",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -19980,12 +16132,7 @@ guideposts =
         "information": "guidepost",
         "name": "Pourchary",
         "survey:date": "2023-01-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20004,12 +16151,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col de Grange",
-        "tourism": "information",
-        "@timestamp": "2023-12-24T16:39:12Z",
-        "@version": 4,
-        "@changeset": 145474733,
-        "@user": "cricri",
-        "@uid": 23669
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20028,12 +16170,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Grange",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20052,12 +16189,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Christianet",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20078,12 +16210,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Château Est",
         "survey:date": "2023-01-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20104,12 +16231,7 @@ guideposts =
         "information": "guidepost",
         "name": "Boulogne",
         "survey:date": "2023-01-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20131,12 +16253,7 @@ guideposts =
         "name": "Saint-Michel de Boulogne",
         "name:signed": "no",
         "survey:date": "2023-01-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20157,12 +16274,7 @@ guideposts =
         "information": "guidepost",
         "name": "La Chapelle",
         "survey:date": "2023-01-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20183,12 +16295,7 @@ guideposts =
         "information": "guidepost",
         "name": "Les Mortiers",
         "survey:date": "2023-01-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20209,12 +16316,7 @@ guideposts =
         "information": "guidepost",
         "name": "Combemale",
         "survey:date": "2023-01-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20233,12 +16335,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Molières",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20259,12 +16356,7 @@ guideposts =
         "information": "guidepost",
         "name": "Fougeyrolles",
         "survey:date": "2023-01-30",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20283,12 +16375,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Peyron",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20307,12 +16394,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Coulet du Vernadel",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20331,12 +16413,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Planche",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20355,12 +16432,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Mazel",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20379,12 +16451,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Joseph des Bancs",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20403,12 +16470,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Pont",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20428,12 +16490,7 @@ guideposts =
         "information": "guidepost",
         "name": "Le Coulet_1",
         "note": "à transférer dans CAPCA",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 3,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20452,12 +16509,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Chambonnet",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20476,12 +16528,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Auriolles",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20500,12 +16547,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Chemin du Seigneur",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20524,12 +16566,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Etienne de Boulogne",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20548,12 +16585,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Saint-Etienne Nord",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20572,12 +16604,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Conchy",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20596,12 +16623,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Concise",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:02:04Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20620,12 +16642,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Col d'Auzon",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20644,12 +16661,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Signal Bosc",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20668,12 +16680,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Auriol",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:14:59Z",
-        "@version": 2,
-        "@changeset": 141221062,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20692,12 +16699,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Gourdon",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20716,12 +16718,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Col de l'Escrinet",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 4,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20740,12 +16737,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Serre de Suzon",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20764,12 +16756,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Croze",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20788,12 +16775,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Paille",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 3,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20812,12 +16794,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Le Soupley",
-        "tourism": "information",
-        "@timestamp": "2023-09-13T17:18:48Z",
-        "@version": 2,
-        "@changeset": 141221695,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20836,12 +16813,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Verger",
-        "tourism": "information",
-        "@timestamp": "2024-01-11T18:06:38Z",
-        "@version": 1,
-        "@changeset": 146153554,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20860,12 +16832,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Bonnefoy",
-        "tourism": "information",
-        "@timestamp": "2024-01-11T18:06:38Z",
-        "@version": 1,
-        "@changeset": 146153554,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20884,12 +16851,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "La Pignatelle",
-        "tourism": "information",
-        "@timestamp": "2024-01-11T17:24:21Z",
-        "@version": 1,
-        "@changeset": 146151499,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20909,12 +16871,7 @@ guideposts =
         "information": "guidepost",
         "name": "Chapelle Saint-Ostian",
         "note": "Poteau à déplacer de l'autre côté du pont",
-        "tourism": "information",
-        "@timestamp": "2024-02-01T22:04:03Z",
-        "@version": 2,
-        "@changeset": 146963649,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20933,12 +16890,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Hautes Rives",
-        "tourism": "information",
-        "@timestamp": "2024-01-11T16:59:51Z",
-        "@version": 1,
-        "@changeset": 146151499,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20957,12 +16909,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "L'Auche",
-        "tourism": "information",
-        "@timestamp": "2024-01-12T22:36:33Z",
-        "@version": 1,
-        "@changeset": 146197933,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",
@@ -20981,12 +16928,7 @@ guideposts =
         "hiking": "yes",
         "information": "guidepost",
         "name": "Les Pignes",
-        "tourism": "information",
-        "@timestamp": "2024-01-11T16:59:51Z",
-        "@version": 1,
-        "@changeset": 146151499,
-        "@user": "pb07",
-        "@uid": 1185919
+        "tourism": "information"
       },
       "geometry": {
         "type": "Point",

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-04-27T16:35:45Z",
+  "timestamp": "2024-04-28T14:44:00Z",
   "features": [
     {
       "type": "Feature",
@@ -163,6 +163,26 @@
         ]
       },
       "id": "node/11492577617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11862272257",
+        "ele": "870",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Le Roux",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1472591,
+          44.7235446
+        ]
+      },
+      "id": "node/11862272257"
     },
     {
       "type": "Feature",
