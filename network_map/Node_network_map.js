@@ -1,6 +1,6 @@
 ///
 const version ="V_1.5.4";
-const v_sub = "_";
+const v_sub = "_a";
 // 1.4.1 : ajouté des target="_blank" pour toutes les attributions
 // 1.4.2 : version ok pour portables (Responsive web design) avec aide intégrée
 // 1.4.3 : modification du menu itinéraires
@@ -13,6 +13,7 @@ const v_sub = "_";
 //			- correction : bouton circuit caché si network_router = false
 //			- affichage version dans help_header
 // 1.5.4 : intégration network_date dans config et header help
+//			_a : ajout note dans le popup
 
 window.onload = (event) => {
 	console.log("version : ", version + v_sub);
@@ -88,7 +89,7 @@ var OSMLayer = L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.
 		if (feature.properties) { 
 //			console.dir(feature.properties.id);
 			if (feature.properties.name) {
-				popupStr += feature.properties.name;
+				popupStr += '<b>' + feature.properties.name + '</b>';
 			} else if (feature.properties['@id']) {
 				popupStr += feature.properties['@id'];			
 			}
@@ -97,6 +98,9 @@ var OSMLayer = L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.
 			}
 			if (feature.properties.ascent) {
 				popupStr += '<br /> Denivelé:  +'+ feature.properties.ascent +' m  -'+ feature.properties.descent+ ' m';
+			}
+			if (feature.properties.note) {
+				popupStr += '<br /><b> note: </b><i>'+ feature.properties.note +'</i>';
 			}
 		}
 		layer.bindPopup(popupStr);
