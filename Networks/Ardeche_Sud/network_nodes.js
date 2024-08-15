@@ -3,8 +3,32 @@ network_nodes =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-04-28T14:45:00Z",
+  "timestamp": "2024-07-29T12:49:11Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33207013",
+        "addr:postcode": "07170",
+        "expected_lwn_route_relations": "1",
+        "highway": "mini_roundabout",
+        "lwn_ref": "Lussas",
+        "name": "Lussas",
+        "name:oc": "Luçac",
+        "network:type": "node_network",
+        "place": "village",
+        "ref:FR:SIREN": "210701454",
+        "source:name:oc": "ieo-bdtopoc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4731255,
+          44.6115726
+        ]
+      },
+      "id": "node/33207013"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -104,8 +128,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.552583,
-          44.3126219
+          4.552559,
+          44.3125859
         ]
       },
       "id": "node/256467751"
@@ -558,6 +582,42 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/416093997",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "La Roche",
+        "name": "La Roche",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6047745,
+          44.551472
+        ]
+      },
+      "id": "node/416093997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416094008",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "La Planchette",
+        "name": "La Planchette",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5964366,
+          44.5583667
+        ]
+      },
+      "id": "node/416094008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/417672799",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Pont",
@@ -715,6 +775,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/447451301",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Sceautres",
+        "name": "Sceautres",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.608353,
+          44.6164497
+        ]
+      },
+      "id": "node/447451301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/499615689",
         "ele": "1119",
         "expected_lwn_route_relations": "3",
@@ -787,6 +865,31 @@ network_nodes =
         ]
       },
       "id": "node/638916067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/669982757",
+        "description": "Borne en granit gravée IGN (1948) - Point vu en place en 2001",
+        "ele": "552.6",
+        "expected_lwn_route_relations": "1",
+        "lwn_ref": "Sommet de la Croix Juliau",
+        "man_made": "survey_point",
+        "name": "Sommet de la Croix Juliau",
+        "network:type": "node_network",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "0728701 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0728701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5625451,
+          44.5698549
+        ]
+      },
+      "id": "node/669982757"
     },
     {
       "type": "Feature",
@@ -880,7 +983,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/762446483",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Coustet des Vernèdes",
         "name": "Le Coustet des Vernèdes",
         "network:type": "node_network"
@@ -1261,6 +1364,78 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/872304000",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Chambon",
+        "name": "Chambon",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6053207,
+          44.6130289
+        ]
+      },
+      "id": "node/872304000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/872304415",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Chaulène",
+        "name": "Chaulène",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.590532,
+          44.5931807
+        ]
+      },
+      "id": "node/872304415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/872305377",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Aubignas",
+        "name": "Aubignas",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6316211,
+          44.5880338
+        ]
+      },
+      "id": "node/872305377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/872305850",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Langelard",
+        "name": "Langelard",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5958629,
+          44.6003506
+        ]
+      },
+      "id": "node/872305850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/899049428",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "Le Pontet",
@@ -1449,6 +1624,24 @@ network_nodes =
         ]
       },
       "id": "node/938621994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1014309860",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "La Croze",
+        "name": "La Croze",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2100125,
+          44.6246278
+        ]
+      },
+      "id": "node/1014309860"
     },
     {
       "type": "Feature",
@@ -2506,7 +2699,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1364321678",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Les Hugoux",
         "name": "Les Hugoux",
         "network:type": "node_network"
@@ -2524,7 +2717,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1364322123",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Gonthier",
         "name": "Gonthier",
         "network:type": "node_network"
@@ -2542,7 +2735,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1364322181",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Peschier",
         "name": "Le Peschier",
         "network:type": "node_network"
@@ -2559,8 +2752,27 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1364322560",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Castrevielle",
+        "name": "Castrevielle",
+        "network:type": "node_network",
+        "note": "nom d'après plan, pas de poteau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2593079,
+          44.6366179
+        ]
+      },
+      "id": "node/1364322560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1364808548",
-        "expected_lwn_route_relations": "1",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Chastelas",
         "name": "Le Chastelas",
         "network:type": "node_network"
@@ -2578,8 +2790,9 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1364875238",
-        "expected_lwn_route_relations": "3",
+        "expected_lwn_route_relations": "4",
         "lwn_ref": "Col de la Croix de Millet",
+        "name": "Col de la Croix de Millet",
         "network:type": "node_network"
       },
       "geometry": {
@@ -2590,6 +2803,42 @@ network_nodes =
         ]
       },
       "id": "node/1364875238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1364875818",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Fougeyrolles",
+        "name": "Fougeyrolles",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2496068,
+          44.6194418
+        ]
+      },
+      "id": "node/1364875818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1364875855",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Le Serre",
+        "name": "Le Serre",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2463421,
+          44.619654
+        ]
+      },
+      "id": "node/1364875855"
     },
     {
       "type": "Feature",
@@ -2728,6 +2977,78 @@ network_nodes =
         ]
       },
       "id": "node/1404704076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422492506",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Le Fraysse",
+        "name": "Le Fraysse",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5960489,
+          44.5827761
+        ]
+      },
+      "id": "node/1422492506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422492509",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Lebrat",
+        "name": "Lebrat",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.604009,
+          44.5828041
+        ]
+      },
+      "id": "node/1422492509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422492554",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Serre Pointu",
+        "name": "Serre Pointu",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6149315,
+          44.5855251
+        ]
+      },
+      "id": "node/1422492554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422492608",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "La Carrière",
+        "name": "La Carrière",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.612721,
+          44.5880236
+        ]
+      },
+      "id": "node/1422492608"
     },
     {
       "type": "Feature",
@@ -3619,7 +3940,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1648509043",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Cautet",
         "name": "Cautet",
         "network:type": "node_network"
@@ -3632,6 +3953,42 @@ network_nodes =
         ]
       },
       "id": "node/1648509043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1648510155",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Pont de Bouix",
+        "name": "Pont de Bouix",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1801803,
+          44.6695004
+        ]
+      },
+      "id": "node/1648510155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1648510404",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Passerelle du Luzet",
+        "name": "Passerelle du Luzet",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1994943,
+          44.6699818
+        ]
+      },
+      "id": "node/1648510404"
     },
     {
       "type": "Feature",
@@ -4123,6 +4480,42 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1742732370",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Col de Barbejo",
+        "name": "Col de Barbejo",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1468034,
+          44.638643
+        ]
+      },
+      "id": "node/1742732370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1742744384",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "La Planchette",
+        "name": "La Planchette",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1567653,
+          44.6613858
+        ]
+      },
+      "id": "node/1742744384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1743969366",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "Le suc de Montat",
@@ -4151,8 +4544,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2211916,
-          44.6784859
+          4.2212129,
+          44.6784907
         ]
       },
       "id": "node/1744765033"
@@ -4286,7 +4679,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1762274364",
-        "expected_lwn_route_relations": "3",
+        "expected_lwn_route_relations": "4",
         "lwn_ref": "Col des Langoustines",
         "name": "Col des Langoustines",
         "network:type": "node_network"
@@ -4358,7 +4751,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1763737542",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "La Grangette",
         "name": "La Grangette",
         "network:type": "node_network"
@@ -4394,7 +4787,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1763739381",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Frayt",
         "name": "Le Frayt",
         "network:type": "node_network"
@@ -4496,24 +4889,6 @@ network_nodes =
         ]
       },
       "id": "node/1776412204"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/1785881250",
-        "expected_lwn_route_relations": "2",
-        "lwn_ref": "Mayres",
-        "name": "Mayres",
-        "network:type": "node_network"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.1162267,
-          44.6655293
-        ]
-      },
-      "id": "node/1785881250"
     },
     {
       "type": "Feature",
@@ -4760,6 +5135,27 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1796471848",
+        "ele": "438",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Col de la Loube",
+        "mountain_pass": "yes",
+        "name": "Col de la Loube",
+        "natural": "saddle",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3262143,
+          44.6623429
+        ]
+      },
+      "id": "node/1796471848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1796472521",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "Bois d'Aval",
@@ -4865,7 +5261,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1798741645",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Larmande",
         "name": "Larmande",
         "network:type": "node_network"
@@ -5477,8 +5873,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.6308712,
-          44.3558191
+          4.6308455,
+          44.3557999
         ]
       },
       "id": "node/1996967522"
@@ -5759,7 +6155,7 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4304437,
+          4.4304561,
           44.3947049
         ]
       },
@@ -5795,8 +6191,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4302183,
-          44.3910964
+          4.4303261,
+          44.391155
         ]
       },
       "id": "node/2013591156"
@@ -6918,7 +7314,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2245451304",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "4",
         "lwn_ref": "Alba-la-Romaine",
         "name": "Alba-la-Romaine",
         "network:type": "node_network"
@@ -6931,6 +7327,24 @@ network_nodes =
         ]
       },
       "id": "node/2245451304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2246387230",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Montfaucon",
+        "name": "Montfaucon",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6465251,
+          44.5259727
+        ]
+      },
+      "id": "node/2246387230"
     },
     {
       "type": "Feature",
@@ -7644,8 +8058,9 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2292156059",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Mias",
+        "name": "Mias",
         "network:type": "node_network"
       },
       "geometry": {
@@ -7660,9 +8075,28 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2292156785",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Eyriac",
+        "name": "Eyriac",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.460404,
+          44.612867
+        ]
+      },
+      "id": "node/2292156785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2292157032",
-        "expected_lwn_route_relations": "1",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Les Combasses",
+        "name": "Les Combasses",
         "network:type": "node_network"
       },
       "geometry": {
@@ -8227,6 +8661,42 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2410164528",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Le pont Morand",
+        "name": "Le pont Morand",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1930292,
+          44.6296259
+        ]
+      },
+      "id": "node/2410164528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2410164571",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Les Péreyres",
+        "name": "Les Péreyres",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.226026,
+          44.6142733
+        ]
+      },
+      "id": "node/2410164571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2410180804",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Ranc Qualiou",
@@ -8264,7 +8734,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2410180906",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Mas des Pergeyres",
         "name": "Mas des Pergeyres",
         "network:type": "node_network"
@@ -8308,8 +8778,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.1113277,
-          44.6916439
+          4.1113161,
+          44.6916409
         ]
       },
       "id": "node/2410181039"
@@ -8458,9 +8928,9 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2410403129",
-        "expected_lwn_route_relations": "2",
-        "lwn_ref": "Sérangelier",
-        "name": "Sérangelier",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Serangelier",
+        "name": "Serangelier",
         "network:type": "node_network"
       },
       "geometry": {
@@ -9354,6 +9824,294 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2573617513",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Saint-Laurent",
+        "name": "Saint-Laurent",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6991704,
+          44.5931469
+        ]
+      },
+      "id": "node/2573617513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573647653",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Rignas",
+        "name": "Rignas",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6948141,
+          44.5898267
+        ]
+      },
+      "id": "node/2573647653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573647812",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Malatère",
+        "name": "Malatère",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6838364,
+          44.5937058
+        ]
+      },
+      "id": "node/2573647812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573647906",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Les Crouzets",
+        "name": "Les Crouzets",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6963867,
+          44.5949589
+        ]
+      },
+      "id": "node/2573647906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573648016",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Claudius",
+        "name": "Claudius",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6918741,
+          44.5966729
+        ]
+      },
+      "id": "node/2573648016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573648052",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Cheyron",
+        "name": "Cheyron",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6915722,
+          44.5971328
+        ]
+      },
+      "id": "node/2573648052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573693288",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Foucholle",
+        "name": "Foucholle",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6798962,
+          44.5757174
+        ]
+      },
+      "id": "node/2573693288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573693341",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Blachon",
+        "name": "Blachon",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6622099,
+          44.5760674
+        ]
+      },
+      "id": "node/2573693341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573693517",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Pifaut",
+        "name": "Pifaut",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6611705,
+          44.5830174
+        ]
+      },
+      "id": "node/2573693517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573693639",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Larein",
+        "name": "Larein",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6606856,
+          44.5848931
+        ]
+      },
+      "id": "node/2573693639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573693813",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Archias",
+        "name": "Archias",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6722883,
+          44.5926935
+        ]
+      },
+      "id": "node/2573693813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573718685",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Tronquette",
+        "name": "Tronquette",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6611661,
+          44.570398
+        ]
+      },
+      "id": "node/2573718685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573719028",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Beylon",
+        "name": "Beylon",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6758587,
+          44.5827961
+        ]
+      },
+      "id": "node/2573719028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2574301265",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Mont Rosier",
+        "name": "Mont Rosier",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6429662,
+          44.5346085
+        ]
+      },
+      "id": "node/2574301265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2574301615",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Montagut",
+        "name": "Montagut",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6341412,
+          44.555288
+        ]
+      },
+      "id": "node/2574301615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2574338058",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Fontbonne",
+        "name": "Fontbonne",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6182299,
+          44.5618151
+        ]
+      },
+      "id": "node/2574338058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2577984854",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Bois de Berg",
@@ -9690,7 +10448,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2807048820",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Col de Sucheyre",
         "name": "Col de Sucheyre",
         "network:type": "node_network"
@@ -10250,6 +11008,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2870030493",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "La Souche",
+        "name": "La Souche",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.198052,
+          44.6294387
+        ]
+      },
+      "id": "node/2870030493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2880682147",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "Le Château",
@@ -10456,6 +11232,78 @@ network_nodes =
         ]
       },
       "id": "node/2959003458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2964114774",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Aunas",
+        "name": "Aunas",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6140976,
+          44.5743582
+        ]
+      },
+      "id": "node/2964114774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2964266187",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Pont de l'Aiguille",
+        "name": "Pont de l'Aiguille",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6250693,
+          44.584801
+        ]
+      },
+      "id": "node/2964266187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2964266340",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "L'Auche",
+        "name": "L'Auche",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6352883,
+          44.587952
+        ]
+      },
+      "id": "node/2964266340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2964266351",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Liotard",
+        "name": "Liotard",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6371686,
+          44.5879625
+        ]
+      },
+      "id": "node/2964266351"
     },
     {
       "type": "Feature",
@@ -10841,9 +11689,46 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3179364601",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Les Bois",
+        "name": "Les Bois",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.441228,
+          44.6151431
+        ]
+      },
+      "id": "node/3179364601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3179366029",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "L'Echelette",
+        "name": "L'Echelette",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4419097,
+          44.6139518
+        ]
+      },
+      "id": "node/3179366029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3179366222",
-        "expected_lwn_route_relations": "1",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Bois Gardette",
+        "name": "Bois Gardette",
         "network:type": "node_network"
       },
       "geometry": {
@@ -10861,6 +11746,7 @@ network_nodes =
         "@id": "node/3179366234",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Issard de Madame",
+        "name": "Issard de Madame",
         "network:type": "node_network"
       },
       "geometry": {
@@ -10893,8 +11779,9 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/3179401007",
-        "expected_lwn_route_relations": "1",
+        "expected_lwn_route_relations": "2",
         "lwn_ref": "Bois Vignasse",
+        "name": "Bois Vignasse",
         "network:type": "node_network"
       },
       "geometry": {
@@ -11382,6 +12269,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3457374041",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "La Grange",
+        "name": "La Grange",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1997138,
+          44.6129288
+        ]
+      },
+      "id": "node/3457374041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3462082281",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Ségur",
@@ -11413,6 +12318,24 @@ network_nodes =
         ]
       },
       "id": "node/3466273482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3495108332",
+        "expected_lwn_route_relations": "0",
+        "lwn_ref": "Eygue",
+        "name": "Eygue",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6961961,
+          44.5854801
+        ]
+      },
+      "id": "node/3495108332"
     },
     {
       "type": "Feature",
@@ -11506,7 +12429,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/3625549066",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Col d'Abraham",
         "mountain_pass": "yes",
         "name": "Col d'Abraham",
@@ -11825,6 +12748,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4042780649",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Barnas",
+        "name": "Barnas",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1689422,
+          44.66843
+        ]
+      },
+      "id": "node/4042780649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4066621748",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "La Brousse",
@@ -11839,6 +12780,42 @@ network_nodes =
         ]
       },
       "id": "node/4066621748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4067006387",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "La Lioure",
+        "name": "La Lioure",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.211445,
+          44.6317015
+        ]
+      },
+      "id": "node/4067006387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4067006525",
+        "expected_lwn_route_relations": "4",
+        "lwn_ref": "Fontfreyde",
+        "name": "Fontfreyde",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1973882,
+          44.6486094
+        ]
+      },
+      "id": "node/4067006525"
     },
     {
       "type": "Feature",
@@ -12413,6 +13390,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5318910390",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Le Cros d’Abraham",
+        "name": "Le Cros d’Abraham",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1341347,
+          44.6441876
+        ]
+      },
+      "id": "node/5318910390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5318905373",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Passadou",
@@ -12445,6 +13440,24 @@ network_nodes =
         ]
       },
       "id": "node/7717688812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12049078927",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Mayres",
+        "name": "Mayres",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1162208,
+          44.6655313
+        ]
+      },
+      "id": "node/12049078927"
     },
     {
       "type": "Feature",
@@ -14228,6 +15241,60 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6340092816",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Les Plantades",
+        "name": "Les Plantades",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2015543,
+          44.6193372
+        ]
+      },
+      "id": "node/6340092816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11992380963",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Les 4 Chemins",
+        "name": "Les 4 Chemins",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2010513,
+          44.6218265
+        ]
+      },
+      "id": "node/11992380963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4825882194",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Parent",
+        "name": "Parent",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1980864,
+          44.6284798
+        ]
+      },
+      "id": "node/4825882194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4771418052",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "Bouteyre",
@@ -14349,8 +15416,44 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8595837620",
+        "@id": "node/9810910181",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Les Plaines",
+        "name": "Les Plaines",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2173351,
+          44.6566925
+        ]
+      },
+      "id": "node/9810910181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810910399",
         "expected_lwn_route_relations": "2",
+        "lwn_ref": "Courcoussat",
+        "name": "Courcoussat",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2276704,
+          44.6545692
+        ]
+      },
+      "id": "node/9810910399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8595837620",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Fargebelle",
         "name": "Fargebelle",
         "network:type": "node_network"
@@ -14381,6 +15484,24 @@ network_nodes =
         ]
       },
       "id": "node/8595837671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12011790686",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Jaujac",
+        "name": "Jaujac",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2550201,
+          44.6364095
+        ]
+      },
+      "id": "node/12011790686"
     },
     {
       "type": "Feature",
@@ -14820,23 +15941,6 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10006896533",
-        "expected_lwn_route_relations": "3",
-        "lwn_ref": "Col de la Loube",
-        "network:type": "node_network"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3262222,
-          44.662332
-        ]
-      },
-      "id": "node/10006896533"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/5280818351",
         "expected_lwn_route_relations": "4",
         "lwn_ref": "Col de Longe Serre",
@@ -15199,20 +16303,20 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/11398945308",
-        "expected_lwn_route_relations": "1",
-        "lwn_ref": "Sommet de la Croix Juliau",
-        "name": "Sommet de la Croix Juliau",
+        "@id": "node/7682482717",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Théatre Antique",
+        "name": "Théatre Antique",
         "network:type": "node_network"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5625388,
-          44.5698559
+          4.602902,
+          44.5575338
         ]
       },
-      "id": "node/11398945308"
+      "id": "node/7682482717"
     },
     {
       "type": "Feature",
@@ -15452,6 +16556,42 @@ network_nodes =
         ]
       },
       "id": "node/4524883062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5494703629",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Fourche",
+        "name": "Fourche",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5876647,
+          44.5883914
+        ]
+      },
+      "id": "node/5494703629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7948857709",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "La Passerelle",
+        "name": "La Passerelle",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6043126,
+          44.6181457
+        ]
+      },
+      "id": "node/7948857709"
     },
     {
       "type": "Feature",
@@ -16229,7 +17369,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/11512388327",
-        "expected_lwn_route_relations": "1",
+        "expected_lwn_route_relations": "2",
         "lwn_ref": "Saint-Thomé",
         "name": "Saint-Thomé",
         "network:type": "node_network"
@@ -16260,6 +17400,116 @@ network_nodes =
         ]
       },
       "id": "node/4878596064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10989741369",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "La Rouvière",
+        "name": "La Rouvière",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6648199,
+          44.5340903
+        ]
+      },
+      "id": "node/10989741369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6421458842",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Vacheyre",
+        "name": "Vacheyre",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6209932,
+          44.5597553
+        ]
+      },
+      "id": "node/6421458842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065963227",
+        "expected_lwn_route_relations": "1",
+        "lwn_ref": "Melas",
+        "name": "Melas",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6732577,
+          44.5430393
+        ]
+      },
+      "id": "node/12065963227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10837204395",
+        "ele": "153",
+        "expected_lwn_route_relations": "1",
+        "lwn_ref": "La Blache",
+        "name": "La Blache",
+        "network:type": "node_network",
+        "note": "pas de croisement, départ de la boucle Côté Flore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6886237,
+          44.5754569
+        ]
+      },
+      "id": "node/10837204395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271100739",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Les Audouards",
+        "name": "Les Audouards",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.679585,
+          44.5964425
+        ]
+      },
+      "id": "node/10271100739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11115058099",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Château de Rochemaure",
+        "name": "Château de Rochemaure",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6998897,
+          44.5906474
+        ]
+      },
+      "id": "node/11115058099"
     }
   ]
 }

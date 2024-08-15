@@ -3,8 +3,48 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-04-28T14:44:00Z",
+  "timestamp": "2024-07-29T12:48:06Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422492771",
+        "ele": "467",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Sceautres",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6083858,
+          44.6164717
+        ]
+      },
+      "id": "node/1422492771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624372873",
+        "ele": "407",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Jaujac",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.255002,
+          44.6364382
+        ]
+      },
+      "id": "node/1624372873"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -144,6 +184,26 @@ network_maps =
         ]
       },
       "id": "node/11466334345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11999216634",
+        "ele": "462",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Barnas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1689595,
+          44.6685003
+        ]
+      },
+      "id": "node/11999216634"
     },
     {
       "type": "Feature",
@@ -364,11 +424,13 @@ network_maps =
       "type": "Feature",
       "properties": {
         "@id": "node/11552206631",
+        "description": "Carte de rando",
         "ele": "55",
         "hiking": "yes",
         "information": "map",
         "map_type": "scheme",
         "name": "Sauze",
+        "source": "survey",
         "tourism": "information"
       },
       "geometry": {
@@ -1414,6 +1476,67 @@ network_maps =
         ]
       },
       "id": "node/11512225482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065963228",
+        "ele": "98",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Melas",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6732134,
+          44.5430999
+        ]
+      },
+      "id": "node/12065963228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9649747726",
+        "ele": "346",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Aubignas",
+        "survey:date": "2024-07-07",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6317853,
+          44.5880148
+        ]
+      },
+      "id": "node/9649747726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076908171",
+        "ele": "205",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Château de Rochemaure",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6997988,
+          44.5905818
+        ]
+      },
+      "id": "node/12076908171"
     }
   ]
 }
