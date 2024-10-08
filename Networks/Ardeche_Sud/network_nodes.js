@@ -3,7 +3,7 @@ network_nodes =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-07-29T12:49:11Z",
+  "timestamp": "2024-10-07T16:39:47Z",
   "features": [
     {
       "type": "Feature",
@@ -583,7 +583,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/416093997",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "La Roche",
         "name": "La Roche",
         "network:type": "node_network"
@@ -1241,7 +1241,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/871949853",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Merdaric le Haut",
         "name": "Merdaric le Haut",
         "network:type": "node_network"
@@ -1383,7 +1383,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/872304415",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Chaulène",
         "name": "Chaulène",
         "network:type": "node_network"
@@ -1923,6 +1923,24 @@ network_nodes =
         ]
       },
       "id": "node/1177697069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1193135737",
+        "expected_lwn_route_relations": "1",
+        "lwn_ref": "Saint-Pons",
+        "name": "Saint-Pons",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5774089,
+          44.5939537
+        ]
+      },
+      "id": "node/1193135737"
     },
     {
       "type": "Feature",
@@ -3672,8 +3690,8 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/1617959588",
-        "expected_lwn_route_relations": "1",
+        "@id": "node/1617959547",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Lalevade-d'Ardèche",
         "name": "Lalevade-d'Ardèche",
         "network:type": "node_network"
@@ -3681,18 +3699,18 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3211289,
-          44.6493771
+          4.3226381,
+          44.6500312
         ]
       },
-      "id": "node/1617959588"
+      "id": "node/1617959547"
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "node/1618130391",
         "crossing": "uncontrolled",
-        "crossing_ref": "zebra",
+        "crossing:markings": "zebra",
         "expected_lwn_route_relations": "3",
         "highway": "crossing",
         "lwn_ref": "Le Parc",
@@ -5563,7 +5581,7 @@ network_nodes =
       "properties": {
         "@id": "node/1853322274",
         "crossing": "uncontrolled",
-        "crossing_ref": "zebra",
+        "crossing:markings": "zebra",
         "expected_lwn_route_relations": "3",
         "highway": "crossing",
         "lwn_ref": "Le Champ des Fours",
@@ -7788,8 +7806,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.1006529,
-          44.7126757
+          4.1006998,
+          44.7125318
         ]
       },
       "id": "node/2268244860"
@@ -9824,6 +9842,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2573588588",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Carcot",
+        "name": "Carcot",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6880343,
+          44.6130586
+        ]
+      },
+      "id": "node/2573588588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2573617513",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "Saint-Laurent",
@@ -9838,6 +9874,42 @@ network_nodes =
         ]
       },
       "id": "node/2573617513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573617622",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Chaguet",
+        "name": "Chaguet",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6908166,
+          44.6015345
+        ]
+      },
+      "id": "node/2573617622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573617631",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Merlet",
+        "name": "Merlet",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6884681,
+          44.6024732
+        ]
+      },
+      "id": "node/2573617631"
     },
     {
       "type": "Feature",
@@ -9915,7 +9987,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2573648052",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Cheyron",
         "name": "Cheyron",
         "network:type": "node_network"
@@ -10326,8 +10398,9 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2673283714",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Pra",
+        "name": "Le Pra",
         "network:type": "node_network"
       },
       "geometry": {
@@ -10664,8 +10737,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3869941,
-          44.7796286
+          4.3869802,
+          44.7796237
         ]
       },
       "id": "node/2832499033"
@@ -10681,8 +10754,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3862533,
-          44.7785967
+          4.3862394,
+          44.7785918
         ]
       },
       "id": "node/2832499058"
@@ -11637,7 +11710,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/3163150685",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Serrecourt",
         "name": "Serrecourt",
         "network:type": "node_network"
@@ -12323,7 +12396,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/3495108332",
-        "expected_lwn_route_relations": "0",
+        "expected_lwn_route_relations": "1",
         "lwn_ref": "Eygue",
         "name": "Eygue",
         "network:type": "node_network"
@@ -12967,8 +13040,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.0247923,
-          44.660763
+          4.0247547,
+          44.6607191
         ]
       },
       "id": "node/4223634462"
@@ -15889,7 +15962,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/4766447671",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Martinesche",
         "name": "Martinesche",
         "network:type": "node_network"
@@ -16268,7 +16341,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/11053354112",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Le Devois",
         "name": "Le Devois",
         "network:type": "node_network"
@@ -16560,8 +16633,28 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5494702701",
+        "crossing:markings": "zebra",
+        "expected_lwn_route_relations": "3",
+        "highway": "crossing",
+        "lwn_ref": "La Fabrique",
+        "name": "La Fabrique",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.580192,
+          44.5911121
+        ]
+      },
+      "id": "node/5494702701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5494703629",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Fourche",
         "name": "Fourche",
         "network:type": "node_network"

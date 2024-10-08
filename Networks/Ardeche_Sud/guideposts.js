@@ -3,7 +3,7 @@ guideposts =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-07-29T12:47:02Z",
+  "timestamp": "2024-10-07T16:52:00Z",
   "features": [
     {
       "type": "Feature",
@@ -14857,6 +14857,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/12101076924",
+        "ele": "294",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Fabrique",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5802327,
+          44.5911175
+        ]
+      },
+      "id": "node/12101076924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11378094640",
         "ele": "275",
         "hiking": "yes",
@@ -18007,6 +18026,44 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6148070689",
+        "ele": "330",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Chaguet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6907917,
+          44.601479
+        ]
+      },
+      "id": "node/6148070689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6148070690",
+        "ele": "321",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Merlet",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6884928,
+          44.602518
+        ]
+      },
+      "id": "node/6148070690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/12076908174",
         "ele": "100",
         "hiking": "yes",
@@ -18096,6 +18153,25 @@ guideposts =
         ]
       },
       "id": "node/6148070702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12100338501",
+        "ele": "365",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Carcot",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6878559,
+          44.6130877
+        ]
+      },
+      "id": "node/12100338501"
     }
   ]
 }

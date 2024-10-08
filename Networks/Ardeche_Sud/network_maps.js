@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-07-29T12:48:06Z",
+  "timestamp": "2024-10-07T16:51:00Z",
   "features": [
     {
       "type": "Feature",
@@ -974,6 +974,26 @@ network_maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/11297983648",
+        "ele": "270",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Lalevade-d'Ardèche",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3225267,
+          44.6500375
+        ]
+      },
+      "id": "node/11297983648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10118766963",
         "information": "map",
         "map_type": "scheme",
@@ -1159,6 +1179,26 @@ network_maps =
         ]
       },
       "id": "node/11401118770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12101076910",
+        "ele": "352",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Saint-Pons",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5774069,
+          44.5939855
+        ]
+      },
+      "id": "node/12101076910"
     },
     {
       "type": "Feature",
