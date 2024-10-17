@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-10-07T16:51:00Z",
+  "timestamp": "2024-10-17T14:43:19Z",
   "features": [
     {
       "type": "Feature",
@@ -1126,6 +1126,26 @@ network_maps =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/12235800026",
+        "ele": "508",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Mirabel",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4972008,
+          44.6089006
+        ]
+      },
+      "id": "node/12235800026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10118766962",
         "information": "map",
         "map_type": "scheme",
@@ -1179,6 +1199,26 @@ network_maps =
         ]
       },
       "id": "node/11401118770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12244913704",
+        "ele": "671",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Saint-Gineys-en-Coiron",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5333644,
+          44.6328033
+        ]
+      },
+      "id": "node/12244913704"
     },
     {
       "type": "Feature",

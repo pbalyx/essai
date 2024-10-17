@@ -3,7 +3,7 @@ guideposts =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-10-07T16:52:00Z",
+  "timestamp": "2024-10-17T14:42:16Z",
   "features": [
     {
       "type": "Feature",
@@ -10663,6 +10663,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/12255384362",
+        "ele": "500",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Traverses",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2813253,
+          44.6593629
+        ]
+      },
+      "id": "node/12255384362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11297983655",
         "ele": "413",
         "hiking": "yes",
@@ -10718,6 +10737,63 @@ guideposts =
         ]
       },
       "id": "node/11297983646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12255384358",
+        "ele": "540",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Câble",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2615239,
+          44.6604885
+        ]
+      },
+      "id": "node/12255384358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12255384360",
+        "ele": "337",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Taillade",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2714608,
+          44.6671192
+        ]
+      },
+      "id": "node/12255384360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12255384361",
+        "ele": "350",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Croisée de Réjus",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2742369,
+          44.6657648
+        ]
+      },
+      "id": "node/12255384361"
     },
     {
       "type": "Feature",
@@ -14278,6 +14354,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/12235800023",
+        "ele": "450",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "L'Église",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5027047,
+          44.604608
+        ]
+      },
+      "id": "node/12235800023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11946005552",
         "ele": "295",
         "hiking": "yes",
@@ -14373,6 +14468,25 @@ guideposts =
         ]
       },
       "id": "node/9558908717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12235800025",
+        "ele": "566",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Thérond",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5018671,
+          44.6097514
+        ]
+      },
+      "id": "node/12235800025"
     },
     {
       "type": "Feature",
@@ -14762,6 +14876,63 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/12255096135",
+        "ele": "490",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Violle",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5059127,
+          44.6504091
+        ]
+      },
+      "id": "node/12255096135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12255096132",
+        "ele": "552",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Le Pont Canadien",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.503099,
+          44.6575423
+        ]
+      },
+      "id": "node/12255096132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12255096134",
+        "ele": "572",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Les Angladures",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5087048,
+          44.6532035
+        ]
+      },
+      "id": "node/12255096134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9790974031",
         "ele": "550",
         "hiking": "yes",
@@ -14819,6 +14990,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/12255096133",
+        "ele": "730",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "La Grangette",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5073168,
+          44.6625608
+        ]
+      },
+      "id": "node/12255096133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11401118771",
         "ele": "320",
         "hiking": "yes",
@@ -14834,6 +15024,25 @@ guideposts =
         ]
       },
       "id": "node/11401118771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12235800024",
+        "ele": "487",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Jarnias",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5254099,
+          44.6024471
+        ]
+      },
+      "id": "node/12235800024"
     },
     {
       "type": "Feature",
@@ -14857,6 +15066,25 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5853168266",
+        "ele": "584",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Balmes de Montbrun",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5443281,
+          44.6151797
+        ]
+      },
+      "id": "node/5853168266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/12101076924",
         "ele": "294",
         "hiking": "yes",
@@ -14872,6 +15100,25 @@ guideposts =
         ]
       },
       "id": "node/12101076924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8975102947",
+        "ele": "574",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Plaine du Regard",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5760727,
+          44.6042826
+        ]
+      },
+      "id": "node/8975102947"
     },
     {
       "type": "Feature",
@@ -14990,6 +15237,44 @@ guideposts =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8975111253",
+        "ele": "670",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Faugère",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5691942,
+          44.6261061
+        ]
+      },
+      "id": "node/8975111253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8975102948",
+        "ele": "647",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Brasse Nègre",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5747426,
+          44.6211811
+        ]
+      },
+      "id": "node/8975102948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/12020480806",
         "ele": "426",
         "hiking": "yes",
@@ -15024,6 +15309,25 @@ guideposts =
         ]
       },
       "id": "node/12020480807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12254803577",
+        "ele": "643",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Pas de Vendrias",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5202678,
+          44.637105
+        ]
+      },
+      "id": "node/12254803577"
     },
     {
       "type": "Feature",
