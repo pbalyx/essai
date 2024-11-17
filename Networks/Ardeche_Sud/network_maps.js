@@ -3,7 +3,7 @@ network_maps =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-10-17T14:43:19Z",
+  "timestamp": "2024-11-17T09:27:35Z",
   "features": [
     {
       "type": "Feature",
@@ -244,6 +244,27 @@ network_maps =
         ]
       },
       "id": "node/11862272257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12318940460",
+        "ele": "1050",
+        "hiking": "yes",
+        "information": "map",
+        "map_type": "scheme",
+        "name": "Saint-Cirgues (Place du village)",
+        "survey:date": "2024-11-04",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0922141,
+          44.7556021
+        ]
+      },
+      "id": "node/12318940460"
     },
     {
       "type": "Feature",

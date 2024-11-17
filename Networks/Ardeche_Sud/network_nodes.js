@@ -3,7 +3,7 @@ network_nodes =
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-10-17T14:44:22Z",
+  "timestamp": "2024-11-17T09:28:36Z",
   "features": [
     {
       "type": "Feature",
@@ -17,8 +17,11 @@ network_nodes =
         "name:oc": "Luçac",
         "network:type": "node_network",
         "place": "village",
+        "population": "1148",
+        "population:date": "2021",
         "ref:FR:SIREN": "210701454",
-        "source:name:oc": "ieo-bdtopoc"
+        "source:name:oc": "ieo-bdtopoc",
+        "source:population": "INSEE 2024"
       },
       "geometry": {
         "type": "Point",
@@ -402,8 +405,63 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/411869953",
+        "@id": "node/411528669",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Mazan (départ)",
+        "name": "Mazan (départ)",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0886474,
+          44.7272583
+        ]
+      },
+      "id": "node/411528669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/411529812",
         "expected_lwn_route_relations": "2",
+        "lwn_ref": "Mazan",
+        "name": "Mazan",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0868055,
+          44.7293639
+        ]
+      },
+      "id": "node/411529812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/411530088",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "La Citerne",
+        "name": "La Citerne",
+        "network:type": "node_network",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0879114,
+          44.7415162
+        ]
+      },
+      "id": "node/411530088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/411869953",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Maison Forestière Bèque",
         "name": "Maison Forestière Bèque",
         "network:type": "node_network",
@@ -965,7 +1023,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/762446436",
-        "expected_lwn_route_relations": "3",
+        "expected_lwn_route_relations": "4",
         "lwn_ref": "Le Tramontel",
         "name": "Le Tramontel",
         "network:type": "node_network"
@@ -1905,6 +1963,24 @@ network_nodes =
         ]
       },
       "id": "node/1123843318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1123843357",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Saint-Cirgues (Place du village)",
+        "name": "Saint-Cirgues (Place du village)",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0921578,
+          44.7555702
+        ]
+      },
+      "id": "node/1123843357"
     },
     {
       "type": "Feature",
@@ -3672,6 +3748,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1614253519",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Serre de Piedfaud",
+        "name": "Serre de Piedfaud",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0752527,
+          44.7386514
+        ]
+      },
+      "id": "node/1614253519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1614752739",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "La Chabanne",
@@ -3802,7 +3896,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1619008077",
-        "expected_lwn_route_relations": "1",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Ventadour",
         "name": "Ventadour",
         "network:type": "node_network"
@@ -3820,7 +3914,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1619123222",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Pont de Veyrières",
         "name": "Pont de Veyrières",
         "network:type": "node_network"
@@ -4030,7 +4124,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/1648507270",
-        "expected_lwn_route_relations": "3",
+        "expected_lwn_route_relations": "5",
         "lwn_ref": "Le Câble",
         "name": "Le Câble",
         "network:type": "node_network"
@@ -4642,21 +4736,20 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/1744765033",
+        "@id": "node/1744765251",
         "expected_lwn_route_relations": "3",
-        "highway": "mini_roundabout",
-        "lwn_ref": "?",
-        "name": "?",
+        "lwn_ref": "Peyraud",
+        "name": "Peyraud",
         "network:type": "node_network"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2212129,
-          44.6784907
+          4.2363617,
+          44.6820655
         ]
       },
-      "id": "node/1744765033"
+      "id": "node/1744765251"
     },
     {
       "type": "Feature",
@@ -5350,8 +5443,26 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1798679150",
+        "expected_lwn_route_relations": "4",
+        "lwn_ref": "La croix de Chareyre",
+        "name": "La croix de Chareyre",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2780179,
+          44.6545009
+        ]
+      },
+      "id": "node/1798679150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1798679171",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Fabras",
         "name": "Fabras",
         "network:type": "node_network"
@@ -5776,6 +5887,60 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1929059735",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Saint-Cirgues (Le Pont)",
+        "name": "Saint-Cirgues (Le Pont)",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.09623,
+          44.7546541
+        ]
+      },
+      "id": "node/1929059735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1929060169",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Croix du Mont",
+        "name": "Croix du Mont",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0824763,
+          44.7561364
+        ]
+      },
+      "id": "node/1929060169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1929060741",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Le Présin",
+        "name": "Le Présin",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0908831,
+          44.7599783
+        ]
+      },
+      "id": "node/1929060741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1929061364",
         "expected_lwn_route_relations": "3",
         "lwn_ref": "La Brousse",
@@ -5790,6 +5955,24 @@ network_nodes =
         ]
       },
       "id": "node/1929061364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1929156487",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Montgarnier",
+        "name": "Montgarnier",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0820886,
+          44.7729629
+        ]
+      },
+      "id": "node/1929156487"
     },
     {
       "type": "Feature",
@@ -6093,6 +6276,24 @@ network_nodes =
         ]
       },
       "id": "node/2008701475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2009025137",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Le Champ",
+        "name": "Le Champ",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2693103,
+          44.6803156
+        ]
+      },
+      "id": "node/2009025137"
     },
     {
       "type": "Feature",
@@ -7887,8 +8088,26 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2268238856",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Rastélède",
+        "name": "Rastélède",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0901273,
+          44.72029
+        ]
+      },
+      "id": "node/2268238856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2268244860",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Les Palles",
         "name": "Les Palles",
         "network:type": "node_network"
@@ -8186,7 +8405,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2291825634",
-        "expected_lwn_route_relations": "3",
+        "expected_lwn_route_relations": "5",
         "lwn_ref": "Thueyts",
         "name": "Thueyts",
         "network:type": "node_network"
@@ -8970,7 +9189,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2410361637",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Piéfaud",
         "name": "Piéfaud",
         "network:type": "node_network"
@@ -9091,20 +9310,20 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/2410403129",
+        "@id": "node/2410403184",
         "expected_lwn_route_relations": "3",
-        "lwn_ref": "Serangelier",
-        "name": "Serangelier",
+        "lwn_ref": "Les Quatres Chemins",
+        "name": "Les Quatres Chemins",
         "network:type": "node_network"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2537795,
-          44.652442
+          4.2565624,
+          44.6870415
         ]
       },
-      "id": "node/2410403129"
+      "id": "node/2410403184"
     },
     {
       "type": "Feature",
@@ -9141,6 +9360,24 @@ network_nodes =
         ]
       },
       "id": "node/2414829640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2414829778",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Ancien garage",
+        "name": "Ancien garage",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1383199,
+          44.7457284
+        ]
+      },
+      "id": "node/2414829778"
     },
     {
       "type": "Feature",
@@ -9538,7 +9775,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2462992163",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "4",
         "lwn_ref": "Bonneval",
         "name": "Bonneval",
         "network:type": "node_network"
@@ -10563,7 +10800,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/2673237316",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "Les Traverses",
         "name": "Les Traverses",
         "network:type": "node_network"
@@ -12493,7 +12730,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/3378331350",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "La Croix Blanche",
         "name": "La Croix Blanche",
         "network:type": "node_network"
@@ -13839,6 +14076,78 @@ network_nodes =
         ]
       },
       "id": "node/11015774701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6391791951",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Bois Vert",
+        "name": "Bois Vert",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0811485,
+          44.7096574
+        ]
+      },
+      "id": "node/6391791951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11022833094",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Ruisseau de Mazan",
+        "name": "Ruisseau de Mazan",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0779667,
+          44.7110262
+        ]
+      },
+      "id": "node/11022833094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5690367991",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Le Pradal",
+        "name": "Le Pradal",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0787145,
+          44.7567963
+        ]
+      },
+      "id": "node/5690367991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4432280474",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Croix des Eperviers",
+        "name": "Croix des Eperviers",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0846102,
+          44.7718102
+        ]
+      },
+      "id": "node/4432280474"
     },
     {
       "type": "Feature",
@@ -15357,8 +15666,8 @@ network_nodes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3861225,
-          44.5071762
+          4.3861305,
+          44.5071475
         ]
       },
       "id": "node/9687925476"
@@ -15834,7 +16143,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/8595837671",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "La Roche",
         "name": "La Roche",
         "network:type": "node_network"
@@ -15887,6 +16196,24 @@ network_nodes =
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7613428438",
+        "expected_lwn_route_relations": "4",
+        "lwn_ref": "Serangelier",
+        "name": "Serangelier",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2539188,
+          44.6524489
+        ]
+      },
+      "id": "node/7613428438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/11297983647",
         "expected_lwn_route_relations": "2",
         "lwn_ref": "Nougeyrolles",
@@ -15924,7 +16251,7 @@ network_nodes =
       "type": "Feature",
       "properties": {
         "@id": "node/4766175241",
-        "expected_lwn_route_relations": "2",
+        "expected_lwn_route_relations": "3",
         "lwn_ref": "La Taillade",
         "name": "La Taillade",
         "network:type": "node_network"
@@ -15937,6 +16264,116 @@ network_nodes =
         ]
       },
       "id": "node/4766175241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7223163049",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "La Coste",
+        "name": "La Coste",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2591258,
+          44.6742329
+        ]
+      },
+      "id": "node/7223163049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7917147850",
+        "expected_lwn_route_relations": "2",
+        "lwn_ref": "Neyrac-les-Bains",
+        "name": "Neyrac-les-Bains",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2586318,
+          44.6729504
+        ]
+      },
+      "id": "node/7917147850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4808255814",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Château d'Hautsegur",
+        "name": "Château d'Hautsegur",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2661966,
+          44.6762227
+        ]
+      },
+      "id": "node/4808255814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4743093538",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "La Montée",
+        "name": "La Montée",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2719214,
+          44.6747777
+        ]
+      },
+      "id": "node/4743093538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12282712916",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Le Maillet",
+        "name": "Le Maillet",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2633296,
+          44.6810827
+        ]
+      },
+      "id": "node/12282712916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7981981513",
+        "ele": "430",
+        "expected_lwn_route_relations": "5",
+        "lwn_ref": "Meyras",
+        "name": "Meyras",
+        "network:type": "node_network",
+        "note": "pas de poteau, lames directionnelles seulement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2676418,
+          44.6807635
+        ]
+      },
+      "id": "node/7981981513"
     },
     {
       "type": "Feature",
@@ -15973,6 +16410,24 @@ network_nodes =
         ]
       },
       "id": "node/10259719413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5357640674",
+        "expected_lwn_route_relations": "3",
+        "lwn_ref": "Champ Guérin",
+        "name": "Champ Guérin",
+        "network:type": "node_network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2739274,
+          44.6773885
+        ]
+      },
+      "id": "node/5357640674"
     },
     {
       "type": "Feature",
